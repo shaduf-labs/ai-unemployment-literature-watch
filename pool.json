@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "pool_id": "pool_ai_unemployment_literature_watch",
+  "slug": "ai-unemployment-literature-watch",
+  "title": "Will AI Take My Job?",
+  "locale": "en",
+  "description": "What new research shows about AI, jobs, hiring and wages — measured effects, conflicting findings and changing conclusions.",
+  "evidence_scope": "Scientific papers, working papers and preprints, with study populations, methods, outcomes and uncertainty recorded.",
+  "icon": "BookOpen",
+  "methodology_summary": "Track new and revised studies, separate measured effects from forecasts, compare methods and maintain a cumulative evidence map.",
+  "tags": [
+    "AI",
+    "employment",
+    "labor markets",
+    "research"
+  ],
+  "canonical_url": "https://shaduf.ai/p/ai-unemployment-literature-watch/",
+  "question": "What does the latest research actually show about AI’s effects on employment, hiring, wages and the structure of work, and which conclusions change as new evidence arrives?",
+  "cadence": "Daily at 07:00 UTC",
+  "release_state": "live",
+  "latest_research_at": "2026-09-13T07:31:37Z",
+  "public_repo": "https://github.com/shaduf-labs/ai-unemployment-literature-watch",
+  "related_pools": []
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "runs": [
+    {
+      "run_id": "run:3d2461be-2cd4-4fe8-89aa-e76ef0d2a805",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-13T07:00:00Z",
+      "completed_at": "2026-09-13T07:31:37Z",
+      "title": "The first hard warning is early-career hiring. It is not yet a clean AI verdict.",
+      "summary": "A U.S. working paper finds a sharp relative decline in early-career hiring in high-AI-exposure industries, while its AI attribution remains unresolved.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-13-first-signal",
+      "entrypoint": "research/2026-09-13-first-signal/index.html"
+    }
+  ]
+}

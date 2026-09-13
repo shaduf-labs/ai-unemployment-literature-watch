@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "evidence_id": "census-early-career-2026",
+      "source_type": "U.S. Census Bureau working paper",
+      "title": "You’re (not) Hired: Artificial Intelligence and Early Career Hiring in the Quarterly Workforce Indicators",
+      "source_url": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-27.html",
+      "claim": "Early-career hiring and employment declined relative to less-exposed industry-state cells after ChatGPT's launch; the paper identifies unresolved pandemic-era and exposure-related confounding.",
+      "accessed_at": "2026-09-13T07:20:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "census-ai-diffusion-2026",
+      "source_type": "U.S. Census Bureau working paper",
+      "title": "The Microstructure of AI Diffusion: Evidence From Firms, Business Functions, and Worker Tasks",
+      "source_url": "https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-25.pdf",
+      "claim": "In the late-2025 to early-2026 survey window, most AI-using firms reported task augmentation only and few reported an AI-related employment decrease.",
+      "accessed_at": "2026-09-13T07:22:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nber-denmark-2026",
+      "source_type": "NBER working paper",
+      "title": "Still Waters, Rapid Currents: Early Labor Market Transformation under Generative AI",
+      "source_url": "https://www.nber.org/papers/w33777",
+      "claim": "Danish linked records show task reorganization but no detectable earnings or recorded-hours effect larger than 2% over two years.",
+      "accessed_at": "2026-09-13T07:22:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ilo-exposure-2025",
+      "source_type": "ILO working paper",
+      "title": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure",
+      "source_url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+      "claim": "One in four workers globally are in occupations with some generative-AI exposure; this is a task-exposure estimate, not observed job loss.",
+      "accessed_at": "2026-09-13T07:21:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    }
+  ]
+}
