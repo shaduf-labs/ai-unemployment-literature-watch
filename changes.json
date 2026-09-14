@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-14-payroll-gap-and-attribution-challenge",
+      "changed_at": "2026-09-14T10:04:06Z",
+      "summary": "A revised Stanford payroll analysis raises the early-career warning to a 19% relative gap, while a new cross-country study makes remote work a concrete rival explanation. The answer is stronger on risk and stricter on cause.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-14-early-career-attribution"
+    },
+    {
       "change_id": "2026-09-14-graduate-entry-and-broad-postings",
       "changed_at": "2026-09-14T07:28:00Z",
       "summary": "A new Census graduate study strengthens the U.S. early-career warning with initial employment and earnings outcomes, while broad job-posting research still finds no distinct AI-driven decline. The answer is now sharper and more bounded.",

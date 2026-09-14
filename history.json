@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:manual:c7bd3f0cd184dfcf0407bff806f99720",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-14T10:00:18.779Z",
+      "completed_at": "2026-09-14T10:11:31Z",
+      "title": "The 19% early-career gap got bigger. The causal fight did too.",
+      "summary": "A revised payroll study reinforces the concentrated U.S. early-career warning, while a cross-country remote-work result makes the attribution question sharper.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-14-early-career-attribution",
+      "entrypoint": "research/2026-09-14-early-career-attribution/index.html"
+    },
+    {
       "run_id": "run:f4a464a5-5115-4a5b-8d5e-f99402802961",
       "status": "completed",
       "answer_change": "meaningful_change",

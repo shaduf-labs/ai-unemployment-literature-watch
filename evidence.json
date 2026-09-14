@@ -2,11 +2,31 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "stanford-early-career-payroll-2026",
+      "source_type": "Stanford Digital Economy Lab research update",
+      "title": "No Widespread Displacement, but the AI Employment Gap for Young Workers Has Widened to 19%",
+      "source_url": "https://digitaleconomy.stanford.edu/news/canariesaug26/",
+      "claim": "A revised ADP payroll analysis finds a large, widening early-career employment gap by AI exposure but explicitly describes it as descriptive rather than causal.",
+      "accessed_at": "2026-09-14T10:04:06Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "warwick-wfh-attribution-2026",
+      "source_type": "University of Warwick working paper",
+      "title": "The Broken Ladder: AI, Remote Work, and Early-Career Hiring",
+      "source_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/publications/workingpapers/2026/the_broken_ladder_ai_remote_work_and_early_career_hiring/",
+      "claim": "A cross-country study finds remote-work exposure remains predictive of lower junior hiring after joint estimation while its GenAI-exposure coefficient often attenuates, creating an attribution challenge.",
+      "accessed_at": "2026-09-14T10:04:06Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "census-college-graduate-2026",
       "source_type": "U.S. Census Bureau working paper",
       "title": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors",
       "source_url": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html",
-      "claim": "Graduates from the most AI-exposed majors had lower initial employment and full-quarter earnings after ChatGPT's release, but the exposure-based design cannot rule out every coincident field-specific shock.",
+      "claim": "Graduates from the most AI-exposed majors had lower initial employment and full-quarter earnings after ChatGPT’s release, but the exposure-based design cannot rule out every coincident field-specific shock.",
       "accessed_at": "2026-09-14T07:16:00Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
@@ -16,7 +36,7 @@
       "source_type": "Federal Reserve research analysis",
       "title": "Do Job Postings Show Early Labor Market Effects of AI?",
       "source_url": "https://www.frbsf.org/research-and-insights/publications/system-research-new-york-fed/2026/06/do-job-postings-show-early-labor-market-effects-of-ai/",
-      "claim": "Broad U.S. job-posting data provide little indication of a distinct AI-driven decline in labor demand since ChatGPT's release, despite slower overall hiring.",
+      "claim": "Broad U.S. job-posting data provide little indication of a distinct AI-driven decline in labor demand since ChatGPT’s release, despite slower overall hiring.",
       "accessed_at": "2026-09-14T07:20:00Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
@@ -36,7 +56,7 @@
       "source_type": "U.S. Census Bureau working paper",
       "title": "You’re (not) Hired: Artificial Intelligence and Early Career Hiring in the Quarterly Workforce Indicators",
       "source_url": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-27.html",
-      "claim": "Early-career hiring and employment declined relative to less-exposed industry-state cells after ChatGPT's launch; the paper identifies unresolved pandemic-era and exposure-related confounding.",
+      "claim": "Early-career hiring and employment declined relative to less-exposed industry-state cells after ChatGPT’s launch; the paper identifies unresolved pandemic-era and exposure-related confounding.",
       "accessed_at": "2026-09-14T07:18:00Z",
       "relation": "supports",
       "publication_basis": "linked-summary"

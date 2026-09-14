@@ -1,24 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The U.S. warning is sharper at labor-market entry: a new Census working paper finds that graduates from the most AI-exposed majors were less likely to be employed immediately after graduation and earned less in full-quarter initial jobs after ChatGPT's release. That reinforces the earlier 22- to 24-year-old hiring signal, but neither study observes firm-level AI adoption or rules out every major- or industry-specific shock. Broader U.S. job-posting research finds little distinct AI-driven decline, while task-level data show use is widespread but often shallow. The evidence points to a serious, concentrated early-career risk signal, not a proven economy-wide job-loss verdict.",
+  "current_answer": "The U.S. early-career warning is stronger, but the causal fight is harder. Census hiring and graduate records, plus a revised Stanford analysis of ADP payroll data, all find weaker outcomes for young workers in more AI-exposed work; Stanford puts the 22–25 employment gap at 19% relative to less-exposed peers. That is not a causal verdict: the Stanford authors call it descriptive, and a new cross-country paper finds remote-work exposure can absorb much of a similar junior-hiring pattern. Broad U.S. postings still show little distinct AI-driven decline. Watch entry routes closely; do not call the whole job market lost.",
   "catalogue_card": {
-    "question": "Are AI-exposed graduates already paying a price?",
-    "text": "A new Census study finds weaker initial employment and pay in the most AI-exposed majors. The warning is sharper; the cause is still not settled."
+    "question": "Is the 19% AI job gap real?",
+    "text": "A revised payroll study finds a larger early-career gap. A new remote-work challenge means the AI verdict is still open."
   },
   "summary": [
-    "A Census working paper finds that graduates in the most AI-exposed decile of U.S. majors were five percentage points less likely to have initial employment and had 13% lower full-quarter initial earnings after ChatGPT's release, relative to the bottom six deciles.",
-    "The result reinforces an earlier Census finding of lower hiring and employment among 22- to 24-year-olds in highly exposed industry-state cells, but both studies assign exposure rather than observe firm AI rollout.",
-    "A Federal Reserve analysis of broad U.S. job postings finds little evidence of a distinct AI-driven decline in labor demand. That does not measure graduate entry or realized hires.",
-    "Task-level U.S. survey data show AI use is widespread but shallow: at least one in five workers use it in more than 80% of occupations, while most occupations and tasks remain below half adoption.",
-    "Danish linked records still show task reorganization without detectable earnings or recorded-hours effects larger than 2% over the first two years. Outcomes differ by population, place and margin."
+    "A revised Stanford analysis of ADP payroll data finds U.S. workers aged 22–25 in highly AI-exposed occupations were about 19% below the employment level they would have reached by keeping pace with less-exposed peers through June 2026; experienced workers did not show a comparable gap.",
+    "The authors call the pattern descriptive, not causal. They report pre-existing trends, education differences, sample-representativeness limits and sensitivity when overall firm hiring is controlled.",
+    "Two U.S. Census studies separately find lower early-career hires, initial employment and earnings in more AI-exposed industry-state cells or college majors. They also use exposure rather than observed employer adoption.",
+    "A University of Warwick working paper finds remote-work exposure remains predictive of lower junior hiring and limited-experience ads after joint estimation, while its generative-AI coefficient often attenuates to no statistical distinction from zero.",
+    "A Federal Reserve analysis still finds little indication of a distinct AI-driven fall in broad U.S. job postings. That measure does not settle actual hires or entry outcomes.",
+    "AI use is broader than a simple occupation score but shallow in most tasks and occupations, so exposure, adoption and labor outcomes must remain separate."
   ],
   "uncertainty": [
     "No current study can tell a reader whether their own job will be lost to AI.",
-    "The new graduate result is an exposure-based difference-in-differences study, not a firm-adoption experiment; time-varying shocks correlated with major exposure remain possible.",
-    "Job postings, hires, employment, initial earnings, hours and task use answer different questions and can move differently."
+    "The central early-career findings are exposure-based, not observed-adoption experiments. Remote work, education, pre-trends, other simultaneous shocks and sample selection remain live attribution problems.",
+    "Employment, hires, postings, initial earnings, hours and task use are different outcomes that can move differently."
   ],
-  "checked_at": "2026-09-14T07:28:00Z",
-  "meaningfully_updated_at": "2026-09-14T07:28:00Z",
-  "freshness_note": "Updated 14 September 2026 after a new Census study of graduates, a broad job-posting cross-check and new task-adoption data. We will revise the answer when later cohorts, observed-adoption studies or stronger causal designs change it."
+  "checked_at": "2026-09-14T10:04:06Z",
+  "meaningfully_updated_at": "2026-09-14T10:04:06Z",
+  "freshness_note": "Updated 14 September 2026 after a revised ADP payroll analysis and a new cross-country remote-work attribution challenge. We will revise when monitored sources, later cohorts or observed-adoption studies change the balance."
 }

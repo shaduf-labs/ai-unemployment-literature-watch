@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0.0",
   "default_page": "what-jobs-most-likely-affected",
-  "meaningfully_updated_at": "2026-09-13T05:59:20.000Z",
+  "meaningfully_updated_at": "2026-09-14T10:04:06Z",
   "pages": [
     {
       "id": "what-jobs-most-likely-affected",
       "slug": "",
-      "label": "What jobs are most likely affected?",
-      "icon": "radar",
-      "group": "Start here",
-      "description": "A cumulative, evidence-bound analysis of which jobs appear most likely to be affected by AI across the studies in the library. It separates exposure, adoption and observed labor-market effects.",
+      "label": "The evidence",
+      "icon": "",
+      "group": "Explore",
+      "description": "The current evidence-bound answer on AI, work and entry-level risk, with what the research can and cannot show.",
       "parent": null,
       "entrypoint": "index.html",
       "entrypoint_type": "html_fragment",
@@ -23,10 +23,10 @@
     {
       "id": "what-changed",
       "slug": "what-changed",
-      "label": "What Changed",
-      "icon": "sparkles",
-      "group": "Follow the evidence",
-      "description": "Dated research reports showing new findings, reversals and unresolved questions. Browse by calendar, table, list or gallery.",
+      "label": "Updates",
+      "icon": "",
+      "group": "Explore",
+      "description": "Dated research updates, reversals and unresolved questions.",
       "parent": null,
       "entrypoint": "what-changed/index.html",
       "entrypoint_type": "html_fragment",
@@ -41,10 +41,10 @@
     {
       "id": "study-library",
       "slug": "study-library",
-      "label": "Study Library",
-      "icon": "library",
-      "group": "Follow the evidence",
-      "description": "A growing library of the studies behind AI job claims, organized by outcome, occupation, place, method and strength of evidence.",
+      "label": "Study library",
+      "icon": "",
+      "group": "Explore",
+      "description": "Study cards with outcomes, populations, methods and limits.",
       "parent": null,
       "entrypoint": "study-library/index.html",
       "entrypoint_type": "html_fragment",
@@ -59,20 +59,20 @@
     {
       "id": "headline-decoder",
       "slug": "headline-decoder",
-      "label": "Headline Decoder",
-      "icon": "scan-search",
-      "group": "Understand the claims",
-      "description": "Learn to separate exposure, AI use, observed outcomes, forecasts and causal evidence before a headline shapes a career decision.",
+      "label": "Read claims",
+      "icon": "",
+      "group": "Explore",
+      "description": "How to separate exposure, use, observed outcomes, forecasts and causal evidence.",
       "parent": null,
       "entrypoint": "headline-decoder/index.html",
-      "entrypoint_type": "html_fragment",
       "redirects": [
         "/p/ai-unemployment-literature-watch/how-to-read-ai-job-claims/",
         "/p/ai-unemployment-literature-watch/how-to-read/"
       ],
       "visibility": "public",
       "indexable": true,
-      "tools": []
+      "tools": [],
+      "entrypoint_type": "html_fragment"
     }
   ]
 }
