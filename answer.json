@@ -1,23 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The strongest early U.S. warning is hiring: a Census working paper finds that 22- to 24-year-olds in the most AI-exposed industry-state cells were hired less often after ChatGPT's launch. That is a serious signal, not a settled AI job-loss count. The study uses exposure rather than observed adoption and finds pandemic-era, remote-work and education trends tangled with the same industries. In Denmark, linked records show task reorganization but no detectable earnings or recorded-hours effect in the first two years. AI is changing work faster than the broad outcome data can yet prove a single story.",
+  "current_answer": "The U.S. warning is sharper at labor-market entry: a new Census working paper finds that graduates from the most AI-exposed majors were less likely to be employed immediately after graduation and earned less in full-quarter initial jobs after ChatGPT's release. That reinforces the earlier 22- to 24-year-old hiring signal, but neither study observes firm-level AI adoption or rules out every major- or industry-specific shock. Broader U.S. job-posting research finds little distinct AI-driven decline, while task-level data show use is widespread but often shallow. The evidence points to a serious, concentrated early-career risk signal, not a proven economy-wide job-loss verdict.",
   "catalogue_card": {
-    "question": "Are entry-level jobs already being hit by AI?",
-    "text": "A U.S. working paper finds a sharp early-career hiring drop in the most AI-exposed industries. The warning is real; its cause is not settled."
+    "question": "Are AI-exposed graduates already paying a price?",
+    "text": "A new Census study finds weaker initial employment and pay in the most AI-exposed majors. The warning is sharper; the cause is still not settled."
   },
   "summary": [
-    "U.S. administrative-data research finds a persistent relative drop in hiring of 22- to 24-year-olds in the most AI-exposed industry-state cells after ChatGPT's launch. The author identifies plausible non-AI explanations that still need to be separated.",
-    "A Census firm survey finds AI use is substantial in employment-weighted terms, while most AI-using firms report task augmentation only. Firm-reported AI-related employment declines were rare in that survey window.",
-    "A Danish linked-data study rules out earnings or recorded-hours effects above 2% over its first two years, while finding new AI-related tasks and occupational movement among adopters.",
-    "Global exposure is broad but is not a layoff count: the ILO estimates that one in four workers are in occupations with some generative-AI exposure."
+    "A Census working paper finds that graduates in the most AI-exposed decile of U.S. majors were five percentage points less likely to have initial employment and had 13% lower full-quarter initial earnings after ChatGPT's release, relative to the bottom six deciles.",
+    "The result reinforces an earlier Census finding of lower hiring and employment among 22- to 24-year-olds in highly exposed industry-state cells, but both studies assign exposure rather than observe firm AI rollout.",
+    "A Federal Reserve analysis of broad U.S. job postings finds little evidence of a distinct AI-driven decline in labor demand. That does not measure graduate entry or realized hires.",
+    "Task-level U.S. survey data show AI use is widespread but shallow: at least one in five workers use it in more than 80% of occupations, while most occupations and tasks remain below half adoption.",
+    "Danish linked records still show task reorganization without detectable earnings or recorded-hours effects larger than 2% over the first two years. Outcomes differ by population, place and margin."
   ],
   "uncertainty": [
     "No current study can tell a reader whether their own job will be lost to AI.",
-    "The U.S. early-career result is an exposure-based association, not a clean firm-adoption experiment.",
-    "Hiring, employment, wages, hours and task content can move differently across countries and occupations."
+    "The new graduate result is an exposure-based difference-in-differences study, not a firm-adoption experiment; time-varying shocks correlated with major exposure remain possible.",
+    "Job postings, hires, employment, initial earnings, hours and task use answer different questions and can move differently."
   ],
-  "checked_at": "2026-09-13T07:28:00Z",
-  "meaningfully_updated_at": "2026-09-13T07:28:00Z",
-  "freshness_note": "First evidence map checked 13 September 2026. We will revise the answer when a new study, a revision or better outcome data changes it."
+  "checked_at": "2026-09-14T07:28:00Z",
+  "meaningfully_updated_at": "2026-09-14T07:28:00Z",
+  "freshness_note": "Updated 14 September 2026 after a new Census study of graduates, a broad job-posting cross-check and new task-adoption data. We will revise the answer when later cohorts, observed-adoption studies or stronger causal designs change it."
 }

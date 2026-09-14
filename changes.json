@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-14-graduate-entry-and-broad-postings",
+      "changed_at": "2026-09-14T07:28:00Z",
+      "summary": "A new Census graduate study strengthens the U.S. early-career warning with initial employment and earnings outcomes, while broad job-posting research still finds no distinct AI-driven decline. The answer is now sharper and more bounded.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-14-graduate-entry"
+    },
+    {
       "change_id": "2026-09-13-first-evidence-map",
       "changed_at": "2026-09-13T07:28:00Z",
       "summary": "First public evidence map: early-career hiring is the sharpest U.S. warning, but its AI attribution is unresolved; firm reports and Danish records show task change without a common wage-or-hours result.",

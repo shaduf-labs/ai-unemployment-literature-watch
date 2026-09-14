@@ -2,12 +2,42 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "census-college-graduate-2026",
+      "source_type": "U.S. Census Bureau working paper",
+      "title": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors",
+      "source_url": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html",
+      "claim": "Graduates from the most AI-exposed majors had lower initial employment and full-quarter earnings after ChatGPT's release, but the exposure-based design cannot rule out every coincident field-specific shock.",
+      "accessed_at": "2026-09-14T07:16:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nyfed-ai-job-postings-2026",
+      "source_type": "Federal Reserve research analysis",
+      "title": "Do Job Postings Show Early Labor Market Effects of AI?",
+      "source_url": "https://www.frbsf.org/research-and-insights/publications/system-research-new-york-fed/2026/06/do-job-postings-show-early-labor-market-effects-of-ai/",
+      "claim": "Broad U.S. job-posting data provide little indication of a distinct AI-driven decline in labor demand since ChatGPT's release, despite slower overall hiring.",
+      "accessed_at": "2026-09-14T07:20:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "stlouis-task-adoption-2026",
+      "source_type": "Federal Reserve research analysis",
+      "title": "What Work Does Generative AI Do?",
+      "source_url": "https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do",
+      "claim": "U.S. worker survey data show widespread but shallow task-level AI use and demonstrate that occupational exposure is an incomplete proxy for adoption.",
+      "accessed_at": "2026-09-14T07:20:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "census-early-career-2026",
       "source_type": "U.S. Census Bureau working paper",
       "title": "You’re (not) Hired: Artificial Intelligence and Early Career Hiring in the Quarterly Workforce Indicators",
       "source_url": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-27.html",
       "claim": "Early-career hiring and employment declined relative to less-exposed industry-state cells after ChatGPT's launch; the paper identifies unresolved pandemic-era and exposure-related confounding.",
-      "accessed_at": "2026-09-13T07:20:00Z",
+      "accessed_at": "2026-09-14T07:18:00Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -18,7 +48,7 @@
       "source_url": "https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-25.pdf",
       "claim": "In the late-2025 to early-2026 survey window, most AI-using firms reported task augmentation only and few reported an AI-related employment decrease.",
       "accessed_at": "2026-09-13T07:22:00Z",
-      "relation": "supports",
+      "relation": "context",
       "publication_basis": "linked-summary"
     },
     {
@@ -27,8 +57,8 @@
       "title": "Still Waters, Rapid Currents: Early Labor Market Transformation under Generative AI",
       "source_url": "https://www.nber.org/papers/w33777",
       "claim": "Danish linked records show task reorganization but no detectable earnings or recorded-hours effect larger than 2% over two years.",
-      "accessed_at": "2026-09-13T07:22:00Z",
-      "relation": "supports",
+      "accessed_at": "2026-09-14T07:18:00Z",
+      "relation": "limits",
       "publication_basis": "linked-summary"
     },
     {
