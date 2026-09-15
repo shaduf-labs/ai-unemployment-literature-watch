@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ramp-ai-spend-headcount-2026",
+      "source_type": "Ramp Economics Lab and Revelio Labs working-paper presentation",
+      "title": "Does AI eliminate jobs? Economists find heavy adopters hire more.",
+      "source_url": "https://ramp.com/data/heavy-ai-adopters-hire-more",
+      "claim": "A company-authored firm-data study reports that high-intensity U.S. AI spenders grew total and entry-level headcount after adoption, but it does not establish causation because adopters differed before adoption and the data are proprietary.",
+      "accessed_at": "2026-09-15T07:12:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "stanford-early-career-payroll-2026",
       "source_type": "Stanford Digital Economy Lab research update",
       "title": "No Widespread Displacement, but the AI Employment Gap for Young Workers Has Widened to 19%",

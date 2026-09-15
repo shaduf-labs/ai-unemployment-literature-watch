@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-15-actual-adoption-counterpoint",
+      "changed_at": "2026-09-15T07:12:00Z",
+      "summary": "A firm-data study of recorded AI spending reports headcount growth among selected heavy U.S. adopters. It separates actual adoption from occupational exposure but does not settle the early-career risk signal or prove cause.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-15-actual-adoption-counterpoint"
+    },
+    {
       "change_id": "2026-09-14-payroll-gap-and-attribution-challenge",
       "changed_at": "2026-09-14T10:04:06Z",
       "summary": "A revised Stanford payroll analysis raises the early-career warning to a 19% relative gap, while a new cross-country study makes remote work a concrete rival explanation. The answer is stronger on risk and stricter on cause.",

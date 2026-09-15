@@ -1,25 +1,26 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The U.S. early-career warning is stronger, but the causal fight is harder. Census hiring and graduate records, plus a revised Stanford analysis of ADP payroll data, all find weaker outcomes for young workers in more AI-exposed work; Stanford puts the 22–25 employment gap at 19% relative to less-exposed peers. That is not a causal verdict: the Stanford authors call it descriptive, and a new cross-country paper finds remote-work exposure can absorb much of a similar junior-hiring pattern. Broad U.S. postings still show little distinct AI-driven decline. Watch entry routes closely; do not call the whole job market lost.",
+  "current_answer": "AI job evidence just split along a line that headlines blur. Several U.S. exposure studies find weaker early-career outcomes, but a separate firm-data study using recorded AI spending reports that high-intensity U.S. adopters added total and entry-level headcount over two years. That is not a clean reversal: the firms were already growth-oriented and the study does not prove AI caused the gains. Broad U.S. postings still show little distinct AI-driven decline. Watch entry routes and actual adoption separately; neither an exposure score nor an AI purchase can forecast your job.",
   "catalogue_card": {
-    "question": "Is the 19% AI job gap real?",
-    "text": "A revised payroll study finds a larger early-career gap. A new remote-work challenge means the AI verdict is still open."
+    "question": "Does actual AI adoption mean firms are cutting jobs?",
+    "text": "A new firm-spending study says heavy adopters added staff. Its selection limits keep the entry-level verdict open."
   },
   "summary": [
-    "A revised Stanford analysis of ADP payroll data finds U.S. workers aged 22–25 in highly AI-exposed occupations were about 19% below the employment level they would have reached by keeping pace with less-exposed peers through June 2026; experienced workers did not show a comparable gap.",
-    "The authors call the pattern descriptive, not causal. They report pre-existing trends, education differences, sample-representativeness limits and sensitivity when overall firm hiring is controlled.",
-    "Two U.S. Census studies separately find lower early-career hires, initial employment and earnings in more AI-exposed industry-state cells or college majors. They also use exposure rather than observed employer adoption.",
+    "A Ramp Economics Lab and Revelio Labs working-paper presentation links U.S. firm AI-vendor spending with workforce data and reports 10.2% total-headcount growth and 12% entry-level-headcount growth over two years for high-intensity adopters.",
+    "The result is associational. Ramp says the high-intensity firms were already larger, more engineering-intensive, more venture-backed and faster growing, and its proprietary sample is not the whole U.S. labor market.",
+    "A revised Stanford analysis of ADP payroll data finds U.S. workers aged 22–25 in highly AI-exposed occupations were about 19% below the employment level they would have reached by keeping pace with less-exposed peers through June 2026; the authors call this descriptive, not causal.",
+    "Two U.S. Census studies separately find lower early-career hires, initial employment or earnings in more AI-exposed industry-state cells or college majors. They use exposure rather than observed employer adoption.",
     "A University of Warwick working paper finds remote-work exposure remains predictive of lower junior hiring and limited-experience ads after joint estimation, while its generative-AI coefficient often attenuates to no statistical distinction from zero.",
-    "A Federal Reserve analysis still finds little indication of a distinct AI-driven fall in broad U.S. job postings. That measure does not settle actual hires or entry outcomes.",
-    "AI use is broader than a simple occupation score but shallow in most tasks and occupations, so exposure, adoption and labor outcomes must remain separate."
+    "A Federal Reserve analysis still finds little indication of a distinct AI-driven fall in broad U.S. job postings. That measure does not settle actual hires or entry outcomes."
   ],
   "uncertainty": [
     "No current study can tell a reader whether their own job will be lost to AI.",
     "The central early-career findings are exposure-based, not observed-adoption experiments. Remote work, education, pre-trends, other simultaneous shocks and sample selection remain live attribution problems.",
-    "Employment, hires, postings, initial earnings, hours and task use are different outcomes that can move differently."
+    "The Ramp result uses an actual spending proxy but its high-intensity adopters were different before adoption and the underlying data are proprietary; it is not a causal or economy-wide employment estimate.",
+    "Employment, hires, postings, entry-level headcount, initial earnings, hours and task use are different outcomes that can move differently."
   ],
-  "checked_at": "2026-09-14T10:04:06Z",
-  "meaningfully_updated_at": "2026-09-14T10:04:06Z",
-  "freshness_note": "Updated 14 September 2026 after a revised ADP payroll analysis and a new cross-country remote-work attribution challenge. We will revise when monitored sources, later cohorts or observed-adoption studies change the balance."
+  "checked_at": "2026-09-15T07:11:58.884Z",
+  "meaningfully_updated_at": "2026-09-15T07:12:00Z",
+  "freshness_note": "Updated 15 September 2026 after adding a firm-level AI-spending and workforce counterpoint. We will revise when independent adoption studies, later cohorts or observed wage and hiring results change the balance."
 }
