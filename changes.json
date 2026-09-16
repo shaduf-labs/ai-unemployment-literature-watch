@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-16-norway-early-career-counter-signal",
+      "changed_at": "2026-09-16T07:15:00.000Z",
+      "summary": "A population-register study finds no robust young-worker employment displacement in Norway and flags pre-trend contamination. The U.S. entry warning remains, but it cannot be treated as a universal AI verdict.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-16-norway-counter-signal"
+    },
+    {
       "change_id": "2026-09-15-actual-adoption-counterpoint",
       "changed_at": "2026-09-15T07:12:00Z",
       "summary": "A firm-data study of recorded AI spending reports headcount growth among selected heavy U.S. adopters. It separates actual adoption from occupational exposure but does not settle the early-career risk signal or prove cause.",

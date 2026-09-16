@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "norway-early-career-2026",
+      "source_type": "CESifo Working Paper 12752",
+      "title": "Labor Market Consequences of Generative AI: Early Evidence from Norway",
+      "source_url": "https://www.ifo.de/en/cesifo/publications/2026/working-paper/labor-market-consequences-generative-ai-early-evidence-norway",
+      "claim": "Population-wide Norwegian records find no robust statistically significant employment displacement for young workers in highly exposed occupations; longer pre-trends and backdated placebos weaken a simple post-ChatGPT story.",
+      "accessed_at": "2026-09-16T07:15:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "eib-ai-employment-europe-2026",
+      "source_type": "European Investment Bank working paper",
+      "title": "AI adoption, productivity and employment: Evidence from European firms",
+      "source_url": "https://www.eib.org/en/publications/20250383-economics-working-paper-2026-02",
+      "claim": "A pooled 2019–2024 firm study reports higher labor productivity and no adverse firm-level employment effect in its instrumented AI-adoption specification; it is broader than generative AI and does not measure entry routes.",
+      "accessed_at": "2026-09-16T07:15:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ramp-ai-spend-headcount-2026",
       "source_type": "Ramp Economics Lab and Revelio Labs working-paper presentation",
       "title": "Does AI eliminate jobs? Economists find heavy adopters hire more.",

@@ -18,7 +18,7 @@
   "question": "What does the latest research actually show about AI’s effects on employment, hiring, wages and the structure of work, and which conclusions change as new evidence arrives?",
   "cadence": "Daily at 07:00 UTC",
   "release_state": "live",
-  "latest_research_at": "2026-09-15T07:11:58.884Z",
+  "latest_research_at": "2026-09-16T07:16:00.000Z",
   "public_repo": "https://github.com/shaduf-labs/ai-unemployment-literature-watch",
   "related_pools": []
 }
