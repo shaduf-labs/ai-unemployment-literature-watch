@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "dallasfed-texas-ai-postings-2026",
+      "source_type": "Federal Reserve Bank of Dallas research analysis",
+      "title": "Job postings show early signs of AI automation impact",
+      "source_url": "https://www.dallasfed.org/research/economics/2026/0901",
+      "claim": "Texas online postings fell relatively more in occupations with more generative-AI-automatable tasks after ChatGPT. This is a regional, exposure-linked online-demand result, not a causal estimate of firm adoption, layoffs or national employment.",
+      "accessed_at": "2026-09-17T07:11:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "siepr-job-loss-fears-2026",
+      "source_type": "Stanford Institute for Economic Policy Research working paper",
+      "title": "Job Loss Fears in the First Years of Generative Artificial Intelligence",
+      "source_url": "https://siepr.stanford.edu/publications/working-paper/job-loss-fears-first-years-generative-artificial-intelligence",
+      "claim": "The working-paper summary reports no statistically significant response in postings or layoffs for more-exposed occupations, limiting any claim that the Texas result is already a national outcome.",
+      "accessed_at": "2026-09-17T07:11:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "norway-early-career-2026",
       "source_type": "CESifo Working Paper 12752",
       "title": "Labor Market Consequences of Generative AI: Early Evidence from Norway",

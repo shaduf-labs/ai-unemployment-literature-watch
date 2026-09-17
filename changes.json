@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-17-texas-postings-split",
+      "changed_at": "2026-09-17T07:11:00.000Z",
+      "summary": "A Texas analysis finds an exposure-linked pullback in online job postings, while broad U.S. postings still show little distinct decline. The AI hiring warning is now more concrete, but also more clearly regional and unresolved.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-17-texas-postings-split"
+    },
+    {
       "change_id": "2026-09-16-norway-early-career-counter-signal",
       "changed_at": "2026-09-16T07:15:00.000Z",
       "summary": "A population-register study finds no robust young-worker employment displacement in Norway and flags pre-trend contamination. The U.S. entry warning remains, but it cannot be treated as a universal AI verdict.",

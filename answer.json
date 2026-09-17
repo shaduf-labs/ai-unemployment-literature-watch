@@ -1,25 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The early-career AI warning just met a serious counter-signal. Three U.S. exposure studies find weaker hiring, employment or initial earnings for young people in more exposed work. A new population-wide Norwegian study finds negative but statistically non-robust estimates for workers aged 22–25, and its backdated placebo tests can be larger than the post-ChatGPT effect. That does not erase the U.S. pattern: the countries, labor markets, data and methods differ, and neither side observes a clean employer-by-employer AI rollout. The honest verdict is harder: entry routes may be tightening in some settings, but there is no universal, causal AI job-loss finding yet.",
+  "current_answer": "Texas just added a real AI-related hiring warning: a Dallas Fed analysis finds fewer online postings in more automatable occupations after ChatGPT, including an estimated 2.6% aggregate effect on Texas Lightcast postings in 2025. That is not a layoff count, a national result or a clean adoption experiment. A broader U.S. posting analysis still finds little distinct AI-driven decline, while U.S. entry-level studies and a Norwegian null result point in different directions. The evidence now says the risk is concentrated, regional and unresolved—not imaginary, but not a universal verdict about your job.",
   "catalogue_card": {
-    "question": "Did AI really squeeze young workers out of work?",
-    "text": "A Norwegian population study finds no robust young-worker displacement. The U.S. warning is real, but it is no longer a universal story."
+    "question": "Did AI cut hiring in Texas?",
+    "text": "A Texas posting study finds a real pullback in more-automatable work. It is a regional warning, not proof that AI eliminated jobs everywhere."
   },
   "summary": [
-    "A Norwegian CESifo working paper uses population-wide employer-employee records from 2015 through March 2025 and finds no robust statistically significant employment displacement among ages 22–25 in highly generative-AI-exposed occupations.",
-    "Its young-worker estimates are negative but statistically insignificant across three designs. Backdated placebo estimates can be larger, warning that apparent post-ChatGPT decline may partly be a secular trend.",
-    "Three U.S. exposure studies still report weaker early-career hiring, employment or initial earnings, and the revised Stanford payroll analysis reports a 19% relative gap for ages 22–25. Those findings remain descriptive or associational rather than adoption-based causal estimates.",
-    "An EIB firm study reports no adverse employment effect in its instrumented broad-AI adoption model. It covers 2019–2024, broadly defined AI and firm headcount, so it does not settle generative-AI entry routes.",
-    "A Federal Reserve analysis still finds little distinct AI-driven decline in broad U.S. job postings. Postings are not realized hires, and a broad result does not erase a narrow one."
+    "A Dallas Fed analysis of millions of Texas Lightcast online job postings finds that postings for more generative-AI-automatable positions were about 8% lower relative to less-exposed positions by 2025 Q1; the authors calculate a 2.6% aggregate Texas posting effect in 2025.",
+    "A balanced panel of incumbent Texas firms shows a similar 8–9% posting pullback by early 2026, so the result is not explained only by new firms or firm exits in the authors’ data.",
+    "The Texas measure is based on occupational tasks associated with actual Claude use, but it does not observe an employer’s AI rollout. It measures online ads, not hires, employment, wages or layoffs.",
+    "A broad U.S. Federal Reserve posting analysis still finds little indication of a distinct AI-driven decline. The regional split could reflect geography, timing, method or exposure measurement; it is not a national verdict.",
+    "Three U.S. exposure studies still report weaker early-career hiring, employment or initial earnings, while Norwegian records find no robust young-worker displacement. Those results remain different populations and designs, not a common causal estimate."
   ],
   "uncertainty": [
-    "No current study can tell a reader whether their own job will be lost to AI.",
-    "The U.S. early-career findings are exposure-based, not observed-adoption experiments. Remote work, education, pre-trends, other simultaneous shocks and sample selection remain live attribution problems.",
-    "The Norwegian study is population-wide but Norway-specific; it relies on mapped occupational exposure rather than observed adoption and has only a short post-ChatGPT window through March 2025.",
-    "Broad firm-level results can hide occupational reallocation, hiring-path changes, pay effects and later consequences. Employment, hires, postings, earnings, hours and task use can move differently."
+    "The Texas study measures online job postings and an occupational automation-exposure score, not realized hires, employment, layoffs or firm-level AI adoption.",
+    "Texas and broad U.S. posting analyses differ in geography, period, exposure metric and specification, so their contrast does not identify the cause of the split.",
+    "The U.S. early-career findings are exposure-based, not observed-adoption experiments. Remote work, education, pre-trends, other shocks and sample selection remain live attribution problems.",
+    "No current study can tell a reader whether their own job will be lost to AI."
   ],
-  "freshness_note": "Updated 16 September 2026 after a Norwegian population-register counter-signal and a broader European firm-adoption result. We will revise when comparable studies observe adoption and track early hiring, pay and employment across countries.",
-  "checked_at": "2026-09-16T07:15:00.000Z",
-  "meaningfully_updated_at": "2026-09-16T07:15:00.000Z"
+  "freshness_note": "Updated 17 September 2026 after a Texas analysis found an exposure-linked pullback in online postings. We will revise when comparable work applies the same method across regions, observes adoption and follows postings through to hiring, employment and pay.",
+  "checked_at": "2026-09-17T07:11:00.000Z",
+  "meaningfully_updated_at": "2026-09-17T07:11:00.000Z"
 }
