@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:4eadfbf6-a3bb-4bf4-80bf-fa38427966a7",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-18T07:00:00.000Z",
+      "completed_at": "2026-09-18T07:13:00.000Z",
+      "title": "The national graduate AI unemployment alarm just met a hard counter-signal.",
+      "summary": "A new U.S. CPS study finds no statistically significant summer unemployment spike among recent college graduates, narrowing but not erasing the entry-level warning.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-18-graduate-unemployment-counter-signal",
+      "entrypoint": "research/2026-09-18-graduate-unemployment-counter-signal/index.html"
+    },
+    {
       "run_id": "run:2a3c0a34-f87e-40a2-ac4f-bfb0a60aadbc",
       "status": "completed",
       "answer_change": "meaningful_change",

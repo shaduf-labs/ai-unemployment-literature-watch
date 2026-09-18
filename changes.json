@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-18-graduate-unemployment-counter-signal",
+      "changed_at": "2026-09-18T07:12:00.000Z",
+      "summary": "A new U.S. CPS study finds no statistically significant summer-2026 relative unemployment spike among recent college graduates. It challenges a national AI-unemployment headline but does not erase separate initial-employment, earnings or posting warnings.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-18-graduate-unemployment-counter-signal"
+    },
+    {
       "change_id": "2026-09-17-texas-postings-split",
       "changed_at": "2026-09-17T07:11:00.000Z",
       "summary": "A Texas analysis finds an exposure-linked pullback in online job postings, while broad U.S. postings still show little distinct decline. The AI hiring warning is now more concrete, but also more clearly regional and unresolved.",

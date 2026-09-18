@@ -1,25 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Texas just added a real AI-related hiring warning: a Dallas Fed analysis finds fewer online postings in more automatable occupations after ChatGPT, including an estimated 2.6% aggregate effect on Texas Lightcast postings in 2025. That is not a layoff count, a national result or a clean adoption experiment. A broader U.S. posting analysis still finds little distinct AI-driven decline, while U.S. entry-level studies and a Norwegian null result point in different directions. The evidence now says the risk is concentrated, regional and unresolved—not imaginary, but not a universal verdict about your job.",
+  "current_answer": "A new U.S. check finds no statistically significant summer-2026 unemployment spike among recent college graduates relative to earlier summers, older graduates or young adults without a college degree. That blocks a clean national “AI has made graduates unemployed” headline. It does not clear the entry-level risk: other U.S. studies find weaker initial employment, earnings or postings in more AI-exposed work. Those sources measure different cohorts and outcomes, not a common AI-adoption experiment. The evidence now says the entry problem is real enough to watch, but too mixed to call a national AI unemployment verdict for your career.",
   "catalogue_card": {
-    "question": "Did AI cut hiring in Texas?",
-    "text": "A Texas posting study finds a real pullback in more-automatable work. It is a regional warning, not proof that AI eliminated jobs everywhere."
+    "question": "Did AI cause a national graduate unemployment spike?",
+    "text": "Not in a new summer-2026 CPS check. That result cannot erase separate warnings about initial jobs, pay or local postings."
   },
   "summary": [
-    "A Dallas Fed analysis of millions of Texas Lightcast online job postings finds that postings for more generative-AI-automatable positions were about 8% lower relative to less-exposed positions by 2025 Q1; the authors calculate a 2.6% aggregate Texas posting effect in 2025.",
-    "A balanced panel of incumbent Texas firms shows a similar 8–9% posting pullback by early 2026, so the result is not explained only by new firms or firm exits in the authors’ data.",
-    "The Texas measure is based on occupational tasks associated with actual Claude use, but it does not observe an employer’s AI rollout. It measures online ads, not hires, employment, wages or layoffs.",
-    "A broad U.S. Federal Reserve posting analysis still finds little indication of a distinct AI-driven decline. The regional split could reflect geography, timing, method or exposure measurement; it is not a national verdict.",
-    "Three U.S. exposure studies still report weaker early-career hiring, employment or initial earnings, while Norwegian records find no robust young-worker displacement. Those results remain different populations and designs, not a common causal estimate."
+    "A September 2026 IZA discussion paper using U.S. CPS microdata finds no statistically significant summer-2026 relative unemployment increase among recent college graduates, whether it compares them with earlier summers, older graduates or young adults without a college degree.",
+    "The result remains null when the authors include “sidelined unemployed,” so the finding is not only a narrow unemployment-definition artifact in that paper.",
+    "The paper does not observe employer AI adoption. In occupation interactions, it finds some evidence that remote-work availability, rather than AI exposure alone, is positively related to 2026 unemployment.",
+    "A Census administrative-record study still finds lower initial employment and earnings for graduates in the most AI-exposed majors after ChatGPT. Initial job matches and summer unemployment are different outcomes; neither study settles the other.",
+    "Texas posting evidence and the broad U.S. posting counter-signal remain relevant, but neither is a count of recent-graduate unemployment or a personal forecast."
   ],
   "uncertainty": [
-    "The Texas study measures online job postings and an occupational automation-exposure score, not realized hires, employment, layoffs or firm-level AI adoption.",
-    "Texas and broad U.S. posting analyses differ in geography, period, exposure metric and specification, so their contrast does not identify the cause of the split.",
-    "The U.S. early-career findings are exposure-based, not observed-adoption experiments. Remote work, education, pre-trends, other shocks and sample selection remain live attribution problems.",
+    "The new CPS result covers a short summer window and relative unemployment comparisons; it does not measure an employer’s generative-AI adoption, first-job quality, earnings or vacancies.",
+    "The Census graduate study and the CPS study use different cohorts, data, periods, outcomes and comparison groups. Their contrast does not identify the cause of either pattern.",
+    "U.S. early-career findings remain largely exposure-based. Remote work, education, pre-trends, other shocks and sample selection remain live attribution problems.",
     "No current study can tell a reader whether their own job will be lost to AI."
   ],
-  "freshness_note": "Updated 17 September 2026 after a Texas analysis found an exposure-linked pullback in online postings. We will revise when comparable work applies the same method across regions, observes adoption and follows postings through to hiring, employment and pay.",
-  "checked_at": "2026-09-17T07:11:00.000Z",
-  "meaningfully_updated_at": "2026-09-17T07:11:00.000Z"
+  "freshness_note": "Updated 18 September 2026 after a new U.S. CPS analysis found no statistically significant summer unemployment spike among recent college graduates. We will revise when a common design follows the same cohorts from search through first job, earnings and later employment while observing employer AI adoption.",
+  "checked_at": "2026-09-18T07:12:00.000Z",
+  "meaningfully_updated_at": "2026-09-18T07:12:00.000Z"
 }

@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "iza-recent-grad-unemployment-2026",
+      "source_type": "IZA Discussion Paper 18945",
+      "title": "The Early Impacts of AI on Employment among Recent College Graduates",
+      "source_url": "https://www.iza.org/publications/dp/18945/the-early-impacts-of-ai-on-employment-among-recent-college-graduates",
+      "claim": "Using U.S. CPS microdata, the paper finds no statistically significant summer-2026 relative unemployment spike among recent college graduates. It is a short-run unemployment result, not an employer-adoption estimate or a measure of first-job quality.",
+      "accessed_at": "2026-09-18T07:12:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "dallasfed-texas-ai-postings-2026",
       "source_type": "Federal Reserve Bank of Dallas research analysis",
       "title": "Job postings show early signs of AI automation impact",
