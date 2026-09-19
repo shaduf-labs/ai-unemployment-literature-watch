@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-19-denmark-adoption-hiring",
+      "changed_at": "2026-09-19T07:42:00.000Z",
+      "summary": "Added Danish reported-adoption and recruitment evidence, a California unemployment-claims counter-signal, and an updated current answer that separates hiring restraint from a broad layoff claim.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-19-denmark-adoption-hiring"
+    },
+    {
       "change_id": "2026-09-18-graduate-unemployment-counter-signal",
       "changed_at": "2026-09-18T07:12:00.000Z",
       "summary": "A new U.S. CPS study finds no statistically significant summer-2026 relative unemployment spike among recent college graduates. It challenges a national AI-unemployment headline but does not erase separate initial-employment, earnings or posting warnings.",

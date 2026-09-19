@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "danmarks-nationalbank-ai-adoption-2026",
+      "source_type": "Danmarks Nationalbank Working Paper 223",
+      "title": "AI Adoption and Firm Size: Employment Effects in Monthly Administrative Data",
+      "source_url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/working-paper/2026/ai-adoption-and-firm-size-employment-effects-in-monthly-administrative-data",
+      "claim": "Danish firms first reporting AI use in 2023 had employment growth 11% below non-adopters by late 2025 relative to prior trends, driven by lower recruitment and concentrated in smaller firms. This is an adoption-linked association, not proof that AI alone caused the gap or an economy-wide employment result.",
+      "accessed_at": "2026-09-19T07:24:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "california-ai-unemployment-tracker-2026",
+      "source_type": "California Employment Development Department tracker",
+      "title": "AI and the Labor Market",
+      "source_url": "https://edd.ca.gov/aitracker",
+      "claim": "In its August 2026 update, California’s tracker reports modest declines in three-month initial unemployment-insurance claims from high-exposure occupations under both potential-exposure and observed-use measures, within recent fluctuations. It groups claims by occupation rather than identifying employer AI adoption.",
+      "accessed_at": "2026-09-19T07:24:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "iza-recent-grad-unemployment-2026",
       "source_type": "IZA Discussion Paper 18945",
       "title": "The Early Impacts of AI on Employment among Recent College Graduates",

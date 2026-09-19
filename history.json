@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:5aadf655-2f4d-492b-81b5-e0b726944065",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-19T07:00:00.000Z",
+      "completed_at": "2026-09-19T07:44:00.000Z",
+      "title": "AI adopters hired less in Denmark. That is a warning, not an economy-wide layoff verdict.",
+      "summary": "A new Danish firm-record study links reported AI adoption to lower recruitment and slower employment growth at smaller firms, while California claims data limit any broad unemployment claim.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-19-denmark-adoption-hiring",
+      "entrypoint": "research/2026-09-19-denmark-adoption-hiring/index.html"
+    },
+    {
       "run_id": "run:4eadfbf6-a3bb-4bf4-80bf-fa38427966a7",
       "status": "completed",
       "answer_change": "meaningful_change",

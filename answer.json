@@ -1,25 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A new U.S. check finds no statistically significant summer-2026 unemployment spike among recent college graduates relative to earlier summers, older graduates or young adults without a college degree. That blocks a clean national “AI has made graduates unemployed” headline. It does not clear the entry-level risk: other U.S. studies find weaker initial employment, earnings or postings in more AI-exposed work. Those sources measure different cohorts and outcomes, not a common AI-adoption experiment. The evidence now says the entry problem is real enough to watch, but too mixed to call a national AI unemployment verdict for your career.",
+  "current_answer": "AI adopters hired less in Denmark: firms first reporting AI use in 2023 had employment growth 11% below non-adopters by late 2025 relative to their earlier trend, driven by lower recruitment and concentrated in smaller firms. That is a serious adoption-linked hiring warning, not proof that AI caused every missing job or that an economy-wide layoff wave has begun. California’s latest exposure-based unemployment-claims tracker moved slightly down, not up, while broad U.S. posting and Nordic results still limit a universal verdict. The risk now looks more concentrated and outcome-specific—not imaginary, but not a forecast for your job.",
   "catalogue_card": {
-    "question": "Did AI cause a national graduate unemployment spike?",
-    "text": "Not in a new summer-2026 CPS check. That result cannot erase separate warnings about initial jobs, pay or local postings."
+    "question": "What changed in the AI jobs evidence?",
+    "text": "A Danish study links reported AI adoption to slower hiring at smaller firms. It is closer to the cause than an exposure score, but it is not an economy-wide layoff verdict."
   },
   "summary": [
-    "A September 2026 IZA discussion paper using U.S. CPS microdata finds no statistically significant summer-2026 relative unemployment increase among recent college graduates, whether it compares them with earlier summers, older graduates or young adults without a college degree.",
-    "The result remains null when the authors include “sidelined unemployed,” so the finding is not only a narrow unemployment-definition artifact in that paper.",
-    "The paper does not observe employer AI adoption. In occupation interactions, it finds some evidence that remote-work availability, rather than AI exposure alone, is positively related to 2026 unemployment.",
-    "A Census administrative-record study still finds lower initial employment and earnings for graduates in the most AI-exposed majors after ChatGPT. Initial job matches and summer unemployment are different outcomes; neither study settles the other.",
-    "Texas posting evidence and the broad U.S. posting counter-signal remain relevant, but neither is a count of recent-graduate unemployment or a personal forecast."
+    "A Danish firm-record study finds slower employment growth after reported AI adoption, driven by lower recruitment and concentrated in smaller firms.",
+    "California’s latest high-exposure unemployment-claims update did not show a surge, so hiring restraint and unemployment must remain separate.",
+    "The decisive next tests will replicate firm-level adoption studies across countries and follow recruitment into wages, separations and unemployment."
   ],
   "uncertainty": [
-    "The new CPS result covers a short summer window and relative unemployment comparisons; it does not measure an employer’s generative-AI adoption, first-job quality, earnings or vacancies.",
-    "The Census graduate study and the CPS study use different cohorts, data, periods, outcomes and comparison groups. Their contrast does not identify the cause of either pattern.",
-    "U.S. early-career findings remain largely exposure-based. Remote work, education, pre-trends, other shocks and sample selection remain live attribution problems.",
-    "No current study can tell a reader whether their own job will be lost to AI."
+    "Adoption is non-random in the Danish study, so firm differences and concurrent changes can still explain part of the association.",
+    "Denmark and California measure different outcomes and treatments; neither finding predicts a reader’s own job.",
+    "U.S. early-career results remain exposure-based, with rival explanations including remote work and pre-trends."
   ],
-  "freshness_note": "Updated 18 September 2026 after a new U.S. CPS analysis found no statistically significant summer unemployment spike among recent college graduates. We will revise when a common design follows the same cohorts from search through first job, earnings and later employment while observing employer AI adoption.",
-  "checked_at": "2026-09-18T07:12:00.000Z",
-  "meaningfully_updated_at": "2026-09-18T07:12:00.000Z"
+  "checked_at": "2026-09-19T07:42:00.000Z",
+  "meaningfully_updated_at": "2026-09-19T07:42:00.000Z",
+  "freshness_note": "Checked 19 September 2026. The Danish adoption-linked recruitment result materially updates the current answer; the California tracker limits a broad unemployment interpretation."
 }
