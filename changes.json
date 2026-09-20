@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-20-cepr-scenario-boundary",
+      "changed_at": "2026-09-20T07:18:00.000Z",
+      "summary": "Added a new CEPR 2030 scenario and separated its 4% cognitive-employment figure from observed job losses. The current answer now leads with the forecast boundary while retaining the narrower Danish hiring warning.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-20-cepr-scenario-boundary"
+    },
+    {
       "change_id": "2026-09-19-denmark-adoption-hiring",
       "changed_at": "2026-09-19T07:42:00.000Z",
       "summary": "Added Danish reported-adoption and recruitment evidence, a California unemployment-claims counter-signal, and an updated current answer that separates hiring restraint from a broad layoff claim.",

@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "cepr-economic-scenarios-2026",
+      "source_type": "CEPR discussion paper",
+      "title": "Economic Scenarios for Transformative AI",
+      "source_url": "https://cepr.org/publications/dp21939",
+      "claim": "A 4% decline in cognitive employment by 2030 appears in one conditional “substantial change” scenario. It is model output, not an observed 2026 job-loss result or a stated-probability forecast.",
+      "accessed_at": "2026-09-20T07:18:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "danmarks-nationalbank-ai-adoption-2026",
       "source_type": "Danmarks Nationalbank Working Paper 223",
       "title": "AI Adoption and Firm Size: Employment Effects in Monthly Administrative Data",

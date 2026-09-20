@@ -1,22 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "AI adopters hired less in Denmark: firms first reporting AI use in 2023 had employment growth 11% below non-adopters by late 2025 relative to their earlier trend, driven by lower recruitment and concentrated in smaller firms. That is a serious adoption-linked hiring warning, not proof that AI caused every missing job or that an economy-wide layoff wave has begun. California’s latest exposure-based unemployment-claims tracker moved slightly down, not up, while broad U.S. posting and Nordic results still limit a universal verdict. The risk now looks more concentrated and outcome-specific—not imaginary, but not a forecast for your job.",
+  "current_answer": "A 4% AI job-loss number is a 2030 model scenario, not a count of jobs already gone. A new CEPR paper maps assumed AI-capability paths into three futures; its ‘substantial change’ scenario has cognitive employment 4% lower by 2030 and is consistent with median U.S. survey expectations. The sharpest observed warning remains narrower: smaller Danish firms that reported AI use in 2023 later had 11% slower employment growth, driven by recruitment. That association is not causal or universal. U.S. exposure-based studies still show mixed early-career and posting signals; there is no measured economy-wide layoff verdict.",
   "catalogue_card": {
-    "question": "What changed in the AI jobs evidence?",
-    "text": "A Danish study links reported AI adoption to slower hiring at smaller firms. It is closer to the cause than an exposure score, but it is not an economy-wide layoff verdict."
+    "question": "Is the 4% AI jobs figure a measured result?",
+    "text": "No. It is a conditional 2030 model scenario. The strongest observed warning is still slower hiring at some Danish AI adopters—not a count of jobs already erased."
   },
   "summary": [
-    "A Danish firm-record study finds slower employment growth after reported AI adoption, driven by lower recruitment and concentrated in smaller firms.",
-    "California’s latest high-exposure unemployment-claims update did not show a surge, so hiring restraint and unemployment must remain separate.",
-    "The decisive next tests will replicate firm-level adoption studies across countries and follow recruitment into wages, separations and unemployment."
+    "The CEPR paper’s 4% cognitive-employment decline belongs to one 2030 scenario, not a measured job-loss result today.",
+    "The sharpest observed warning remains slower recruitment and employment growth at smaller Danish firms that reported AI adoption; the study does not establish cause or a universal effect.",
+    "Broad U.S. and Nordic counter-signals still block an economy-wide layoff verdict. The next test is whether observed firm adoption changes hiring, pay, separations and unemployment across comparable firms."
   ],
   "uncertainty": [
-    "Adoption is non-random in the Danish study, so firm differences and concurrent changes can still explain part of the association.",
-    "Denmark and California measure different outcomes and treatments; neither finding predicts a reader’s own job.",
-    "U.S. early-career results remain exposure-based, with rival explanations including remote work and pre-trends."
+    "The CEPR scenario depends on assumed capabilities, automation and reallocation, and it assigns no probability to the illustrated paths.",
+    "The Danish adoption study is an association in one country; adopters can differ from other firms before and after reported use.",
+    "U.S. early-career and posting studies use exposure and different outcomes, leaving remote work, education, pre-trends and other explanations unresolved.",
+    "No current study can predict a reader’s own job loss or prescribe a career decision."
   ],
-  "checked_at": "2026-09-19T07:42:00.000Z",
-  "meaningfully_updated_at": "2026-09-19T07:42:00.000Z",
-  "freshness_note": "Checked 19 September 2026. The Danish adoption-linked recruitment result materially updates the current answer; the California tracker limits a broad unemployment interpretation."
+  "checked_at": "2026-09-20T07:18:00.000Z",
+  "meaningfully_updated_at": "2026-09-20T07:18:00.000Z",
+  "freshness_note": "Checked 20 September 2026. A new 2030 employment scenario changes how a precise AI job-loss number must be read; it does not add a measured economy-wide job-loss result."
 }
