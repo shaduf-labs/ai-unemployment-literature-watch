@@ -1,23 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A 4% AI job-loss number is a 2030 model scenario, not a count of jobs already gone. A new CEPR paper maps assumed AI-capability paths into three futures; its ‘substantial change’ scenario has cognitive employment 4% lower by 2030 and is consistent with median U.S. survey expectations. The sharpest observed warning remains narrower: smaller Danish firms that reported AI use in 2023 later had 11% slower employment growth, driven by recruitment. That association is not causal or universal. U.S. exposure-based studies still show mixed early-career and posting signals; there is no measured economy-wide layoff verdict.",
+  "current_answer": "A Swedish test of an AI-project grant found more job ads, not a detected headcount boom or collapse. Among firms that applied for first-time AI-project funding, recipients were 24 percentage points more likely to post a vacancy five years later, especially in white-collar work, but the study did not detect a total-employment, hiring or separation effect. That is a causal estimate of a Swedish grant among applicant firms—not proof that generative AI raises jobs everywhere. U.S. early-career exposure studies and a Danish reported-adoption study still show narrower, contested hiring warnings, while the 4% 2030 figure remains a model scenario, not jobs already lost.",
   "catalogue_card": {
-    "question": "Is the 4% AI jobs figure a measured result?",
-    "text": "No. It is a conditional 2030 model scenario. The strongest observed warning is still slower hiring at some Danish AI adopters—not a count of jobs already erased."
+    "question": "Did a real AI rollout cut jobs in Sweden?",
+    "text": "The closest causal test here found the opposite of a simple layoff story: an AI-project grant increased vacancy posting, while the study detected no change in headcount, hiring or separations."
   },
   "summary": [
-    "The CEPR paper’s 4% cognitive-employment decline belongs to one 2030 scenario, not a measured job-loss result today.",
-    "The sharpest observed warning remains slower recruitment and employment growth at smaller Danish firms that reported AI adoption; the study does not establish cause or a universal effect.",
-    "Broad U.S. and Nordic counter-signals still block an economy-wide layoff verdict. The next test is whether observed firm adoption changes hiring, pay, separations and unemployment across comparable firms."
+    "A Swedish grant for first-time AI projects made recipient firms more likely to post vacancies, especially white-collar vacancies, five years later.",
+    "The study did not detect a change in total employment, hiring or separations. More job ads are not proof of more completed hires or jobs.",
+    "The result is a Swedish grant effect among applicant firms, mostly before widespread generative-AI chatbot use. It does not settle the separate U.S. early-career or Danish hiring signals.",
+    "A 4% 2030 cognitive-employment figure remains one model scenario, not a current job-loss count."
   ],
   "uncertainty": [
-    "The CEPR scenario depends on assumed capabilities, automation and reallocation, and it assigns no probability to the illustrated paths.",
-    "The Danish adoption study is an association in one country; adopters can differ from other firms before and after reported use.",
-    "U.S. early-career and posting studies use exposure and different outcomes, leaving remote work, education, pre-trends and other explanations unresolved.",
+    "The intervention was a grant for first-time AI projects, not randomized use of one named system or generative AI.",
+    "The sample is 190 Swedish applicant firms. Synthetic difference-in-differences improves the comparison but cannot make every changing difference disappear.",
+    "Vacancies measure attempted recruitment. The paper did not find a statistically detectable effect on its register measures of total employment, hiring or separations.",
     "No current study can predict a reader’s own job loss or prescribe a career decision."
   ],
-  "checked_at": "2026-09-20T07:18:00.000Z",
-  "meaningfully_updated_at": "2026-09-20T07:18:00.000Z",
-  "freshness_note": "Checked 20 September 2026. A new 2030 employment scenario changes how a precise AI job-loss number must be read; it does not add a measured economy-wide job-loss result."
+  "checked_at": "2026-09-21T07:54:00.000Z",
+  "meaningfully_updated_at": "2026-09-21T07:54:00.000Z",
+  "freshness_note": "Checked 21 September 2026. A newly added quasi-experimental Swedish grant study changes the evidence map: AI-project support increased vacancy posting without a detected headcount, hiring or separation effect."
 }

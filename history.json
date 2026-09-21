@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:3c9d6b07-d7e1-495c-bda2-de37c0e82499",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-21T07:00:00.000Z",
+      "completed_at": "2026-09-21T07:54:00.000Z",
+      "title": "Swedish AI grants raised vacancy posting without a detected headcount effect",
+      "summary": "A Swedish grant study separates more job ads from completed hiring and total employment.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-21-ai-subsidy-hiring-test",
+      "entrypoint": "research/2026-09-21-ai-subsidy-hiring-test/index.html"
+    },
+    {
       "run_id": "run:eb84b203-3a6f-4484-adfe-c9a3e32d1134",
       "status": "completed",
       "answer_change": "meaningful_change",

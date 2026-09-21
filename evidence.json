@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "sweden-ai-subsidy-vacancies-2025",
+      "source_type": "IZA Discussion Paper 18267",
+      "title": "The Effects of Artificial Intelligence on Jobs: Evidence from an AI Subsidy Program",
+      "source_url": "https://docs.iza.org/dp18267.pdf",
+      "claim": "Among Swedish firms applying for first-time AI-project grants, awardees became more likely to post vacancies five years later, especially white-collar vacancies. The study did not find statistically detectable effects on total employment, hiring or separations. It identifies a grant effect, not a universal generative-AI effect.",
+      "accessed_at": "2026-09-21T07:25:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "cepr-economic-scenarios-2026",
       "source_type": "CEPR discussion paper",
       "title": "Economic Scenarios for Transformative AI",
