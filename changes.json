@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-22-broad-us-tracker",
+      "changed_at": "2026-09-22T07:06:00.000Z",
+      "summary": "Added Yale Budget Lab’s update through August 2026: its broad U.S. tracker still finds no clear AI labor-market footprint. The current answer now separates that aggregate counter-signal from unresolved early-career and regional warnings.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-22-broad-us-tracker"
+    },
+    {
       "change_id": "2026-09-21-sweden-ai-subsidy-hiring-test",
       "changed_at": "2026-09-21T07:54:00.000Z",
       "summary": "Added a quasi-experimental Swedish AI-grant study: awarded firms posted more vacancies, especially white-collar vacancies, while the study did not detect effects on total employment, hiring or separations. The current answer now separates job ads from completed hiring and headcount.",

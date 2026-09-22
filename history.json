@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:ec6d749c-355b-4504-ac20-23ca9c780a9d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-22T07:00:00.000Z",
+      "completed_at": "2026-09-22T07:08:54.000Z",
+      "title": "The broad U.S. AI jobs check still cannot find a clear footprint.",
+      "summary": "Yale’s update with August CPS data limits an economy-wide AI layoff claim while leaving narrower entry-level and regional warnings unresolved.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-22-broad-us-tracker",
+      "entrypoint": "research/2026-09-22-broad-us-tracker/index.html"
+    },
+    {
       "run_id": "run:3c9d6b07-d7e1-495c-bda2-de37c0e82499",
       "status": "completed",
       "answer_change": "meaningful_change",

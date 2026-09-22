@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A Swedish test of an AI-project grant found more job ads, not a detected headcount boom or collapse. Among firms that applied for first-time AI-project funding, recipients were 24 percentage points more likely to post a vacancy five years later, especially in white-collar work, but the study did not detect a total-employment, hiring or separation effect. That is a causal estimate of a Swedish grant among applicant firms—not proof that generative AI raises jobs everywhere. U.S. early-career exposure studies and a Danish reported-adoption study still show narrower, contested hiring warnings, while the 4% 2030 figure remains a model scenario, not jobs already lost.",
+  "current_answer": "The broad U.S. jobs data still do not prove an AI layoff wave. Yale Budget Lab’s 15 September update, using CPS data through August, finds no clear AI-related footprint in occupational churn, unemployed workers’ exposure, AI-use measures or its exposure comparison. That is a serious limit on an economy-wide collapse claim—not an all-clear for new graduates or particular fields. U.S. early-career, graduate and Texas posting studies still show narrower exposure-linked warnings, but they do not share Yale’s population, outcomes or AI measure. Read the outcome before a headline changes your plans.",
   "catalogue_card": {
-    "question": "Did a real AI rollout cut jobs in Sweden?",
-    "text": "The closest causal test here found the opposite of a simple layoff story: an AI-project grant increased vacancy posting, while the study detected no change in headcount, hiring or separations."
+    "question": "Has AI already caused a U.S. jobs collapse?",
+    "text": "The latest broad U.S. check says no: CPS-based monitoring still finds no clear AI labor-market footprint. That limits a collapse headline, but it cannot clear the narrower risks facing new entrants or particular fields."
   },
   "summary": [
-    "A Swedish grant for first-time AI projects made recipient firms more likely to post vacancies, especially white-collar vacancies, five years later.",
-    "The study did not detect a change in total employment, hiring or separations. More job ads are not proof of more completed hires or jobs.",
-    "The result is a Swedish grant effect among applicant firms, mostly before widespread generative-AI chatbot use. It does not settle the separate U.S. early-career or Danish hiring signals.",
-    "A 4% 2030 cognitive-employment figure remains one model scenario, not a current job-loss count."
+    "Yale Budget Lab’s 15 September update, using CPS data through August, finds no clear AI-related U.S. labor-market disruption in the measures it tracks.",
+    "Its occupational churn, unemployed workers’ exposure, AI-use and synthetic exposure comparisons do not show a distinct broad AI footprint.",
+    "That broad counter-signal does not erase narrower exposure-linked warnings in early-career hiring, graduate entry or Texas postings; the populations, outcomes and methods differ.",
+    "An aggregate monitor cannot forecast an individual worker’s risk or settle whether an employer will cut, hire or reorganize a role."
   ],
   "uncertainty": [
-    "The intervention was a grant for first-time AI projects, not randomized use of one named system or generative AI.",
-    "The sample is 190 Swedish applicant firms. Synthetic difference-in-differences improves the comparison but cannot make every changing difference disappear.",
-    "Vacancies measure attempted recruitment. The paper did not find a statistically detectable effect on its register measures of total employment, hiring or separations.",
-    "No current study can predict a reader’s own job loss or prescribe a career decision."
+    "The tracker is observational monitoring, not a randomized employer AI-adoption study.",
+    "A broad CPS-based result can miss concentrated effects by age, occupation, region, firm, job quality or later period.",
+    "Early-career and regional studies use different exposure-based comparisons, so neither side is a common causal verdict.",
+    "No study in this map can predict a reader’s personal job loss or prescribe a career move."
   ],
-  "checked_at": "2026-09-21T07:54:00.000Z",
-  "meaningfully_updated_at": "2026-09-21T07:54:00.000Z",
-  "freshness_note": "Checked 21 September 2026. A newly added quasi-experimental Swedish grant study changes the evidence map: AI-project support increased vacancy posting without a detected headcount, hiring or separation effect."
+  "checked_at": "2026-09-22T07:06:00.000Z",
+  "meaningfully_updated_at": "2026-09-22T07:06:00.000Z",
+  "freshness_note": "Checked 22 September 2026. Yale Budget Lab’s update with August CPS data adds a broad U.S. counter-signal: no clear AI-related labor-market footprint in the tracker’s current measures."
 }

@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "yale-ai-labor-tracker-2026",
+      "source_type": "Yale Budget Lab labor-market tracker",
+      "title": "Tracking the Impact of AI on the Labor Market",
+      "source_url": "https://budgetlab.yale.edu/research/tracking-impact-ai-labor-market",
+      "claim": "In its September 15 update using August 2026 CPS microdata, Yale Budget Lab finds no clear AI-related U.S. labor-market disruption in its occupational churn, unemployment-exposure, AI-use and synthetic exposure-comparison measures. This limits an economy-wide jobs-collapse claim but does not establish that narrower or later effects are absent.",
+      "accessed_at": "2026-09-22T07:06:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "sweden-ai-subsidy-vacancies-2025",
       "source_type": "IZA Discussion Paper 18267",
       "title": "The Effects of Artificial Intelligence on Jobs: Evidence from an AI Subsidy Program",
