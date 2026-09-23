@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The broad U.S. jobs data still do not prove an AI layoff wave. Yale Budget Lab’s 15 September update, using CPS data through August, finds no clear AI-related footprint in occupational churn, unemployed workers’ exposure, AI-use measures or its exposure comparison. That is a serious limit on an economy-wide collapse claim—not an all-clear for new graduates or particular fields. U.S. early-career, graduate and Texas posting studies still show narrower exposure-linked warnings, but they do not share Yale’s population, outcomes or AI measure. Read the outcome before a headline changes your plans.",
+  "current_answer": "AI adoption now has a measured workforce-reorganization signal, not a layoff verdict. A new Stanford working paper follows foreign affiliates of multinational companies in 41 countries and identifies adoption from company GenAI job ads. By March 2026, treated affiliates had a 1.9-point lower junior share than matched controls; senior employment was 6.7% higher, while the estimated 2.5% fall in junior employment was imprecise. That is stronger than an exposure map, but it is not proof of an economy-wide jobs collapse. Yale’s broad U.S. tracker still finds no clear footprint through August. The live risk is a shift in entry routes inside AI-adopting firms, not a demonstrated mass layoff wave.",
   "catalogue_card": {
-    "question": "Has AI already caused a U.S. jobs collapse?",
-    "text": "The latest broad U.S. check says no: CPS-based monitoring still finds no clear AI labor-market footprint. That limits a collapse headline, but it cannot clear the narrower risks facing new entrants or particular fields."
+    "question": "Are AI adopters cutting jobs—or changing who gets hired?",
+    "text": "The newest adoption study finds AI-adopting multinationals shifted their workforce toward senior workers by March 2026. Junior share fell, but the study did not show a clear junior headcount cut or an economy-wide layoff wave."
   },
   "summary": [
-    "Yale Budget Lab’s 15 September update, using CPS data through August, finds no clear AI-related U.S. labor-market disruption in the measures it tracks.",
-    "Its occupational churn, unemployed workers’ exposure, AI-use and synthetic exposure comparisons do not show a distinct broad AI footprint.",
-    "That broad counter-signal does not erase narrower exposure-linked warnings in early-career hiring, graduate entry or Texas postings; the populations, outcomes and methods differ.",
-    "An aggregate monitor cannot forecast an individual worker’s risk or settle whether an employer will cut, hire or reorganize a role."
+    "A Stanford working paper uses job-advertisement evidence of GenAI adoption and employment records for foreign affiliates of multinationals across 41 countries.",
+    "By March 2026, AI-adopting affiliates had a 1.9-percentage-point lower junior employment share than matched controls; senior employment was 6.7% higher, while the estimated 2.5% drop in junior employment was not statistically precise.",
+    "This is an adoption-linked workforce-composition result, not a mass-layoff count or a measure of the whole economy. It helps explain how AI can affect entry routes while broad U.S. indicators remain flat.",
+    "The study relies on a proxy for adoption, an instrumental-variable assumption and LinkedIn/Revelio data concentrated in digitally visible multinational firms."
   ],
   "uncertainty": [
-    "The tracker is observational monitoring, not a randomized employer AI-adoption study.",
-    "A broad CPS-based result can miss concentrated effects by age, occupation, region, firm, job quality or later period.",
-    "Early-career and regional studies use different exposure-based comparisons, so neither side is a common causal verdict.",
-    "No study in this map can predict a reader’s personal job loss or prescribe a career move."
+    "The Stanford paper treats a company GenAI job advertisement as adoption; it does not observe the exact start of use and can miss firms that use AI without advertising for it.",
+    "Its causal interpretation depends on the cross-border peer-adoption instrument affecting an affiliate only through its parent company’s adoption; the authors cannot rule out every other channel.",
+    "The main estimates cover foreign affiliates of larger multinationals, and LinkedIn-derived records overrepresent managers and professionals, so they do not represent every worker or economy.",
+    "Yale’s broad U.S. monitor can still miss a concentrated, delayed or job-quality effect; neither source predicts a reader’s personal job risk or justifies a career move."
   ],
-  "checked_at": "2026-09-22T07:06:00.000Z",
-  "meaningfully_updated_at": "2026-09-22T07:06:00.000Z",
-  "freshness_note": "Checked 22 September 2026. Yale Budget Lab’s update with August CPS data adds a broad U.S. counter-signal: no clear AI-related labor-market footprint in the tracker’s current measures."
+  "checked_at": "2026-09-23T07:03:00.000Z",
+  "meaningfully_updated_at": "2026-09-23T07:03:00.000Z",
+  "freshness_note": "Checked 23 September 2026. Stanford’s new 41-country working paper adds an adoption-linked junior-versus-senior workforce result through March 2026; it changes the answer from exposure-only warnings to a direct but bounded reorganization signal."
 }

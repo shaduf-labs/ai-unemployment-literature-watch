@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:a00b9eaf-ad34-4cd9-af6c-0dd333e7da18",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-23T07:00:00.000Z",
+      "completed_at": "2026-09-23T07:06:55Z",
+      "title": "AI adopters shifted toward senior workers. That is not a layoff wave.",
+      "summary": "A new 41-country adoption study finds a lower junior share and higher senior employment at AI-adopting multinational affiliates, adding a bounded reorganization signal beside the broad U.S. null.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-23-ai-adoption-junior-share",
+      "entrypoint": "research/2026-09-23-ai-adoption-junior-share/index.html"
+    },
+    {
       "run_id": "run:ec6d749c-355b-4504-ac20-23ca9c780a9d",
       "status": "completed",
       "answer_change": "meaningful_change",

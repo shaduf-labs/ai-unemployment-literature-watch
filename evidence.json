@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "stanford-cross-country-ai-adoption-2026",
+      "source_type": "Stanford Digital Economy Lab working paper",
+      "title": "How Does AI Change Labor Demand? Evidence from 41 Countries",
+      "source_url": "https://digitaleconomy.stanford.edu/publication/how-does-ai-change-labor-demand/",
+      "claim": "A 41-country instrumented study classifies company GenAI job advertisements as adoption and estimates a lower junior employment share plus higher senior employment at adopting multinational affiliates by March 2026. It is an adoption-linked workforce-composition result, not a mass-layoff count or economy-wide employment finding.",
+      "accessed_at": "2026-09-23T07:03:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "yale-ai-labor-tracker-2026",
       "source_type": "Yale Budget Lab labor-market tracker",
       "title": "Tracking the Impact of AI on the Labor Market",
