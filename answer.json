@@ -1,24 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "AI adoption now has a measured workforce-reorganization signal, not a layoff verdict. A new Stanford working paper follows foreign affiliates of multinational companies in 41 countries and identifies adoption from company GenAI job ads. By March 2026, treated affiliates had a 1.9-point lower junior share than matched controls; senior employment was 6.7% higher, while the estimated 2.5% fall in junior employment was imprecise. That is stronger than an exposure map, but it is not proof of an economy-wide jobs collapse. Yale’s broad U.S. tracker still finds no clear footprint through August. The live risk is a shift in entry routes inside AI-adopting firms, not a demonstrated mass layoff wave.",
+  "current_answer": "A new Texas records study puts a measured cost on the early-career warning: graduates from more AI-automatable majors were less likely to find Texas employment within a year and earned less after ChatGPT. That is an association across majors, not a record of an employer’s AI use or proof that AI caused any one graduate’s result. A separate 41-country study still signals a lower junior share at AI-adopting multinationals, while Yale’s broad U.S. monitor finds no clear footprint through August. The live risk is a weaker entry route in some settings, not demonstrated AI mass unemployment.",
   "catalogue_card": {
-    "question": "Are AI adopters cutting jobs—or changing who gets hired?",
-    "text": "The newest adoption study finds AI-adopting multinationals shifted their workforce toward senior workers by March 2026. Junior share fell, but the study did not show a clear junior headcount cut or an economy-wide layoff wave."
+    "question": "Is AI already making entry-level work harder to get?",
+    "text": "New Texas records show lower first-year employment and earnings for graduates from more AI-exposed majors after ChatGPT. The study measured a regional association, not employer adoption, personal odds or a mass layoff wave."
   },
   "summary": [
-    "A Stanford working paper uses job-advertisement evidence of GenAI adoption and employment records for foreign affiliates of multinationals across 41 countries.",
-    "By March 2026, AI-adopting affiliates had a 1.9-percentage-point lower junior employment share than matched controls; senior employment was 6.7% higher, while the estimated 2.5% drop in junior employment was not statistically precise.",
-    "This is an adoption-linked workforce-composition result, not a mass-layoff count or a measure of the whole economy. It helps explain how AI can affect entry routes while broad U.S. indicators remain flat.",
-    "The study relies on a proxy for adoption, an instrumental-variable assumption and LinkedIn/Revelio data concentrated in digitally visible multinational firms."
+    "A Federal Reserve Bank of Dallas analysis links Texas public-university education records to Texas employment and earnings records for recent graduates.",
+    "After ChatGPT’s release, a 10-percentage-point higher major-level share of generative-AI-automatable tasks was associated with a 1.7-point lower probability of Texas employment within a year and about 5% lower earnings among those employed.",
+    "The study’s pre-ChatGPT differences were stable, but it uses a task-exposure score rather than observed employer adoption. It cannot prove AI caused the gap or forecast one graduate’s outcome.",
+    "The new Texas signal sits beside a lower junior share at sampled AI-adopting multinationals, a U.S. CPS no-spike graduate-unemployment result and Yale’s broad U.S. null. Those outcomes and populations do not cancel one another."
   ],
   "uncertainty": [
-    "The Stanford paper treats a company GenAI job advertisement as adoption; it does not observe the exact start of use and can miss firms that use AI without advertising for it.",
-    "Its causal interpretation depends on the cross-border peer-adoption instrument affecting an affiliate only through its parent company’s adoption; the authors cannot rule out every other channel.",
-    "The main estimates cover foreign affiliates of larger multinationals, and LinkedIn-derived records overrepresent managers and professionals, so they do not represent every worker or economy.",
-    "Yale’s broad U.S. monitor can still miss a concentrated, delayed or job-quality effect; neither source predicts a reader’s personal job risk or justifies a career move."
+    "The Texas study measures differences by a major’s task-exposure score, not verified employer adoption, and its post-ChatGPT comparison can still reflect other field-specific changes.",
+    "Its records cover Texas public-university graduates and Texas employment, so they do not supply a national result or a personal forecast.",
+    "The adoption-linked multinational study and the broad U.S. tracker cover different populations and outcomes; neither settles future junior hiring, wages or individual job risk."
   ],
-  "checked_at": "2026-09-23T07:03:00.000Z",
-  "meaningfully_updated_at": "2026-09-23T07:03:00.000Z",
-  "freshness_note": "Checked 23 September 2026. Stanford’s new 41-country working paper adds an adoption-linked junior-versus-senior workforce result through March 2026; it changes the answer from exposure-only warnings to a direct but bounded reorganization signal."
+  "checked_at": "2026-09-24T07:07:31.000Z",
+  "meaningfully_updated_at": "2026-09-24T07:07:31.000Z",
+  "freshness_note": "Checked 24 September 2026. The new Texas graduate analysis changes the early-career evidence map; the broad U.S. and adoption-linked evidence remain in view."
 }

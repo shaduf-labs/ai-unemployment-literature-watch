@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-24-texas-graduate-outcomes",
+      "changed_at": "2026-09-24T07:07:31.000Z",
+      "summary": "Added a Texas administrative-record study: graduates from more AI-exposed majors had lower first-year Texas employment and earnings after ChatGPT. The current answer now separates a second entry-level warning from employer adoption, graduate unemployment and a broad U.S. verdict.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-24-texas-graduate-outcomes"
+    },
+    {
       "change_id": "2026-09-23-cross-country-ai-adoption-junior-share",
       "changed_at": "2026-09-23T07:03:00.000Z",
       "summary": "Added a 41-country adoption-linked study: AI-adopting multinational affiliates shifted toward senior workers, with a 1.9-point lower junior share by March 2026. The current answer now separates a workforce-composition warning from a mass-layoff claim and the broad U.S. null.",

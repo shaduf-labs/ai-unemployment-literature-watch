@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:051307cc-d6a0-4e75-8131-44ceb5ced642",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-24T07:00:00.000Z",
+      "completed_at": "2026-09-24T07:07:31.000Z",
+      "title": "Texas graduate records deepen the early-career AI warning. They do not prove the cause.",
+      "summary": "A new Texas administrative-record study links higher major-level GenAI exposure to lower first-year employment and earnings, adding an independent regional signal beside the broad U.S. null and the graduate-unemployment counter-signal.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-24-texas-graduate-outcomes",
+      "entrypoint": "research/2026-09-24-texas-graduate-outcomes/index.html"
+    },
+    {
       "run_id": "run:a00b9eaf-ad34-4cd9-af6c-0dd333e7da18",
       "status": "completed",
       "answer_change": "meaningful_change",

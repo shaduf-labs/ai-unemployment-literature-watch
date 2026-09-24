@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "dallasfed-texas-graduate-outcomes-2026",
+      "source_type": "Federal Reserve Bank of Dallas research analysis",
+      "title": "AI plays a role in weak labor market for college graduates",
+      "source_url": "https://www.dallasfed.org/research/economics/2026/0922",
+      "claim": "Texas public-university graduates from more generative-AI-automatable majors had lower first-year Texas employment and earnings after ChatGPT’s release. The study measures a regional exposure-by-time association, not observed employer adoption, a personal forecast or a national layoff result.",
+      "accessed_at": "2026-09-24T07:07:31.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "stanford-cross-country-ai-adoption-2026",
       "source_type": "Stanford Digital Economy Lab working paper",
       "title": "How Does AI Change Labor Demand? Evidence from 41 Countries",
