@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:3f88aa61-cc7a-4d1b-b0e4-34de25d6364c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-25T07:00:00.000Z",
+      "completed_at": "2026-09-25T07:15:00Z",
+      "title": "AI-exposed jobs posted higher pay. Their entry-level share still collapsed.",
+      "summary": "A new U.S. job-posting analysis finds faster advertised-pay growth in highly AI-exposed occupations but a sharp shift from entry-level to senior ads, complicating both wage-collapse and all-clear claims.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-25-advertised-pay-and-entry-share",
+      "entrypoint": "research/2026-09-25-advertised-pay-and-entry-share/index.html"
+    },
+    {
       "run_id": "run:051307cc-d6a0-4e75-8131-44ceb5ced642",
       "status": "completed",
       "answer_change": "meaningful_change",

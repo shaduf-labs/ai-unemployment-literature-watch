@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:indeed-ai-exposure-advertised-pay-2026",
+      "source_type": "labor-market analysis of job postings",
+      "source_url": "https://hiringlab.indeed.com/2026/09/17/ai-exposure-isnt-squeezing-advertised-pay-in-the-us-its-boosting-it/",
+      "title": "AI Exposure Isn’t Squeezing Advertised Pay in the US — It’s Boosting It",
+      "claim": "In U.S. job postings with advertised salaries, pay rose faster in the most AI-exposed occupations, while their entry-level share fell sharply. The exposure-based analysis does not prove employer adoption or causation.",
+      "accessed_at": "2026-09-25T07:04:14Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "dallasfed-texas-graduate-outcomes-2026",
       "source_type": "Federal Reserve Bank of Dallas research analysis",
       "title": "AI plays a role in weak labor market for college graduates",

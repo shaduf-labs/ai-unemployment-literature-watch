@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-25-advertised-pay-and-entry-share",
+      "changed_at": "2026-09-25T07:04:14Z",
+      "summary": "Added a U.S. advertised-pay result: highly AI-exposed occupations posted faster pay growth while their entry-level share shrank. The current answer now separates a seniority-shift warning from actual wages, AI adoption and a broad employment verdict.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-25-advertised-pay-and-entry-share"
+    },
+    {
       "change_id": "2026-09-24-texas-graduate-outcomes",
       "changed_at": "2026-09-24T07:07:31.000Z",
       "summary": "Added a Texas administrative-record study: graduates from more AI-exposed majors had lower first-year Texas employment and earnings after ChatGPT. The current answer now separates a second entry-level warning from employer adoption, graduate unemployment and a broad U.S. verdict.",

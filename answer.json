@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A new Texas records study puts a measured cost on the early-career warning: graduates from more AI-automatable majors were less likely to find Texas employment within a year and earned less after ChatGPT. That is an association across majors, not a record of an employer’s AI use or proof that AI caused any one graduate’s result. A separate 41-country study still signals a lower junior share at AI-adopting multinationals, while Yale’s broad U.S. monitor finds no clear footprint through August. The live risk is a weaker entry route in some settings, not demonstrated AI mass unemployment.",
+  "current_answer": "AI-exposed work may be paying more while opening fewer junior doors. A new U.S. job-posting analysis finds advertised pay rose faster in highly AI-exposed occupations, while the entry-level share of their postings fell from 29% to 10% between 2021 and 2026. That does not prove AI caused either pattern: the analysis uses exposure, not employer adoption, and a shift toward senior roles can lift advertised pay. It changes the evidence map by showing why a pay headline cannot dismiss the entry-route warning. Texas graduate records still show lower first-year employment and earnings in more-exposed majors, while Yale’s broad U.S. monitor still finds no clear economy-wide footprint. The live risk is uneven restructuring and a harder entry route in some settings, not demonstrated AI mass unemployment.",
   "catalogue_card": {
-    "question": "Is AI already making entry-level work harder to get?",
-    "text": "New Texas records show lower first-year employment and earnings for graduates from more AI-exposed majors after ChatGPT. The study measured a regional association, not employer adoption, personal odds or a mass layoff wave."
+    "question": "Can AI-exposed jobs pay more and still be harder to enter?",
+    "text": "A new U.S. posting analysis finds faster advertised-pay growth in highly AI-exposed work, while entry-level openings make up a much smaller share of its ads. It tracks exposure and posted jobs, not employer adoption, actual pay or your odds."
   },
   "summary": [
-    "A Federal Reserve Bank of Dallas analysis links Texas public-university education records to Texas employment and earnings records for recent graduates.",
-    "After ChatGPT’s release, a 10-percentage-point higher major-level share of generative-AI-automatable tasks was associated with a 1.7-point lower probability of Texas employment within a year and about 5% lower earnings among those employed.",
-    "The study’s pre-ChatGPT differences were stable, but it uses a task-exposure score rather than observed employer adoption. It cannot prove AI caused the gap or forecast one graduate’s outcome.",
-    "The new Texas signal sits beside a lower junior share at sampled AI-adopting multinationals, a U.S. CPS no-spike graduate-unemployment result and Yale’s broad U.S. null. Those outcomes and populations do not cancel one another."
+    "Indeed Hiring Lab analyzed millions of U.S. postings with advertised salaries. Pay in the most AI-exposed occupations rose about 46% from 2021 to mid-2026, compared with 25% in the least-exposed group.",
+    "The same postings show a marked seniority shift in the most-exposed occupations: entry-level ads fell from 29% to 10% of that group’s postings, while senior ads rose from 22% to 47%.",
+    "This is not proof that AI caused a wage gain or the junior shift. The analysis uses occupational exposure, and holding seniority mix constant reduces the post-ChatGPT pay estimate to 2.4%, which is not statistically significant.",
+    "The result changes the entry-level evidence map: advertised pay can rise while the first rung shrinks. Texas graduate records, U.S. graduate unemployment data and Yale’s broad monitor still measure different outcomes and do not cancel one another."
   ],
   "uncertainty": [
-    "The Texas study measures differences by a major’s task-exposure score, not verified employer adoption, and its post-ChatGPT comparison can still reflect other field-specific changes.",
-    "Its records cover Texas public-university graduates and Texas employment, so they do not supply a national result or a personal forecast.",
-    "The adoption-linked multinational study and the broad U.S. tracker cover different populations and outcomes; neither settles future junior hiring, wages or individual job risk."
+    "Indeed measures advertised U.S. jobs with salaries and an occupational exposure score, not actual wages, employer AI deployment, hires, layoffs or a personal outcome.",
+    "The exposure-linked advertised-pay premium falls when seniority composition is held constant, and that most-controlled estimate is not statistically significant.",
+    "Texas graduate records, job postings and Yale’s broad monitor cover different populations and outcomes; together they do not establish a national causal effect or a personal forecast."
   ],
-  "checked_at": "2026-09-24T07:07:31.000Z",
-  "meaningfully_updated_at": "2026-09-24T07:07:31.000Z",
-  "freshness_note": "Checked 24 September 2026. The new Texas graduate analysis changes the early-career evidence map; the broad U.S. and adoption-linked evidence remain in view."
+  "checked_at": "2026-09-25T07:04:14Z",
+  "meaningfully_updated_at": "2026-09-25T07:04:14Z",
+  "freshness_note": "Checked 25 September 2026. A new U.S. advertised-pay and seniority analysis changes the structure-of-work evidence; it does not settle AI causation, realized pay or an economy-wide employment effect."
 }
