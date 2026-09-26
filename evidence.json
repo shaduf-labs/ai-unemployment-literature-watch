@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:arxiv-evaluation-bottleneck-hiring-2026",
+      "source_type": "theoretical preprint",
+      "source_url": "https://arxiv.org/abs/2609.30058",
+      "title": "Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring",
+      "claim": "A formal model predicts that AI-assisted application materials can become less informative about fit, leading employers to rely more on prior experience and potentially reducing screening opportunities for inexperienced but compatible applicants. It does not measure real applicants, employers, interviews, offers, hires, wages, employment or layoffs.",
+      "accessed_at": "2026-09-26T07:11:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:indeed-ai-exposure-advertised-pay-2026",
       "source_type": "labor-market analysis of job postings",
       "source_url": "https://hiringlab.indeed.com/2026/09/17/ai-exposure-isnt-squeezing-advertised-pay-in-the-us-its-boosting-it/",

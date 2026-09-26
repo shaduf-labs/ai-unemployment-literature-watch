@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:44954678-a7b3-4ff2-889e-3f476a11cf12",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-26T07:00:00.000Z",
+      "completed_at": "2026-09-26T07:11:00Z",
+      "title": "AI may change hiring before the interview. A new theory explains how.",
+      "summary": "A new formal model identifies a possible entry barrier when AI makes applications less informative and employers lean more on prior experience. It is a mechanism, not evidence of real hiring effects.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-26-evaluation-bottleneck-hiring",
+      "entrypoint": "research/2026-09-26-evaluation-bottleneck-hiring/index.html"
+    },
+    {
       "run_id": "run:3f88aa61-cc7a-4d1b-b0e4-34de25d6364c",
       "status": "completed",
       "answer_change": "meaningful_change",
