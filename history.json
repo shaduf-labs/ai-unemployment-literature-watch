@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:manual:2d2a91793add62774246fa15e694da1a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-27T15:47:00Z",
+      "completed_at": "2026-09-27T15:55:19Z",
+      "title": "AI interviews raised offers in one experiment. That does not mean more jobs.",
+      "summary": "A randomized Philippine customer-service hiring experiment found 12% more offers after AI voice interviews than human interviews; the result is bounded to one hiring stage and firm.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-27-voice-ai-interviews",
+      "entrypoint": "research/2026-09-27-voice-ai-interviews/index.html"
+    },
+    {
       "run_id": "run:44954678-a7b3-4ff2-889e-3f476a11cf12",
       "status": "completed",
       "answer_change": "meaningful_change",

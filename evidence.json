@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:voice-ai-interviews-philippines-2026",
+      "source_type": "revised randomized field-experiment working paper",
+      "source_url": "https://arxiv.org/pdf/2607.28222",
+      "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews",
+      "claim": "At one Philippine recruiting firm, eligible entry-level customer-service applications were randomized across interview modes. AI voice interviews increased offer rates by 12% relative to human interviews, with human hiring decisions retained. This does not identify net employment effects.",
+      "accessed_at": "2026-09-27T15:52:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:arxiv-evaluation-bottleneck-hiring-2026",
       "source_type": "theoretical preprint",
       "source_url": "https://arxiv.org/abs/2609.30058",

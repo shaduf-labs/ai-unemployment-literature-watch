@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A new theory says AI can change hiring before anyone is hired: if AI-assisted applications make written materials less informative, employers may put more weight on prior experience and screen fewer inexperienced candidates. The paper does not test this with real applicants or employers. Measured U.S. evidence still shows a narrower, unresolved entry-route warning: highly AI-exposed work can have fewer junior openings even when advertised pay rises. Those exposure-based results do not prove AI caused the pattern. Yale’s broad U.S. monitor still finds no clear economy-wide footprint. The live conclusion is not mass unemployment; it is that entry routes may be changing through several possible channels that need direct measurement.",
+  "current_answer": "AI can change who gets through a hiring process, but the direction is not fixed. In a randomized Philippine customer-service recruiting experiment, AI voice interviews led to 12% more job offers than human interviews; people still made hiring decisions. That is direct evidence about one interview stage, not proof that AI creates more jobs overall. U.S. exposure-based studies still show narrower warnings about junior openings and graduate entry, while a broad U.S. monitor has not found a clear economy-wide AI jobs footprint. The unresolved question is which AI uses improve access, which restrict it, and for whom.",
   "catalogue_card": {
-    "question": "Could AI make it harder to prove you are the right candidate?",
-    "text": "A new hiring model says AI-written applications could make employers lean harder on prior experience. It is a theory, not evidence that real employers are screening fewer people."
+    "question": "Can an AI interviewer improve your odds of an offer?",
+    "text": "In one randomized Philippine customer-service study, AI voice interviews raised offer rates 12%. Humans still made hiring decisions; this does not show net job creation."
   },
   "summary": [
-    "A new formal model asks what happens when AI makes applications easier to generate and tailor but less useful as evidence of applicant fit. It predicts that employers may rely more on prior experience when screening is costly.",
-    "In the model, inexperienced applicants who are a good fit can lose screening opportunities because their written materials no longer distinguish them as well. A lower-cost intermediate assessment can restore a path to screening.",
-    "This is not hiring data. The paper does not observe AI-assisted applications, employers, interviews, offers, hires, wages, employment or layoffs.",
-    "Measured U.S. posting and graduate evidence still supports only a narrower, exposure-based concern about entry routes. A broad U.S. monitor still finds no clear economy-wide AI labor-market footprint."
+    "A randomized experiment at one Philippine recruitment firm found more offers, starts and short-term retention after AI voice interviews than after human interviews.",
+    "Human recruiters assessed the interviews and decided whom to hire. The study isolates the interviewer, not AI-written applications or automated hiring decisions.",
+    "The result does not show more jobs across a market. U.S. exposure-based early-career warnings and a broad U.S. no-clear-footprint monitor cover different settings and outcomes."
   ],
   "uncertainty": [
-    "The new paper is a theoretical preprint. It does not measure application assistance, screening, interviews, offers, hires, wages, employment or layoffs.",
-    "The U.S. junior-opening and early-career results use occupational exposure rather than records of employer AI deployment, so their causal attribution remains unresolved.",
-    "A broad U.S. monitor, regional postings, graduate records and theory cover different populations and outcomes. Together they do not establish a national effect or a personal forecast."
+    "The interview experiment covers one Philippine recruiting firm and entry-level customer-service applicants; it does not test AI-written applications or U.S. labor-market outcomes.",
+    "The U.S. junior-opening and graduate results use exposure proxies, not firm-level AI rollout, so AI attribution remains uncertain.",
+    "Higher offer and start rates in a recruitment process do not establish net job creation, wages or unemployment effects."
   ],
-  "checked_at": "2026-09-26T07:11:00Z",
-  "meaningfully_updated_at": "2026-09-26T07:11:00Z",
-  "freshness_note": "Checked 26 September 2026. A new theoretical hiring paper adds a plausible screening channel for entry barriers, but it is not empirical evidence of changed hiring or an economy-wide labor-market effect."
+  "checked_at": "2026-09-27T15:52:00Z",
+  "meaningfully_updated_at": "2026-09-27T15:52:00Z",
+  "freshness_note": "Checked 27 September 2026. A revised field experiment adds a narrow causal finding on interviews and offers, not a national employment result."
 }
