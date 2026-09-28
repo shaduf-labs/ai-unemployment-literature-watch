@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "AI can change who gets through a hiring process, but the direction is not fixed. In a randomized Philippine customer-service recruiting experiment, AI voice interviews led to 12% more job offers than human interviews; people still made hiring decisions. That is direct evidence about one interview stage, not proof that AI creates more jobs overall. U.S. exposure-based studies still show narrower warnings about junior openings and graduate entry, while a broad U.S. monitor has not found a clear economy-wide AI jobs footprint. The unresolved question is which AI uses improve access, which restrict it, and for whom.",
+  "current_answer": "U.S. occupations more exposed to large language models show a split in pay: posted wages rose, but wages for workers who stayed in their jobs fell in a new working-paper comparison. Hires and separations both rose, while unemployed workers per new ad increased. This is an association by occupation, not proof that employers used AI or that AI caused wage cuts. The narrower U.S. entry warnings, a Philippine interview experiment with more offers, and a broad U.S. monitor with no clear economy-wide footprint still measure different outcomes.",
   "catalogue_card": {
-    "question": "Can an AI interviewer improve your odds of an offer?",
-    "text": "In one randomized Philippine customer-service study, AI voice interviews raised offer rates 12%. Humans still made hiring decisions; this does not show net job creation."
+    "question": "Did AI-exposed U.S. jobs get a pay raise?",
+    "text": "Posted wages rose, but pay for workers who stayed fell in a new U.S. occupational comparison. The study does not prove AI caused either change."
   },
   "summary": [
-    "A randomized experiment at one Philippine recruitment firm found more offers, starts and short-term retention after AI voice interviews than after human interviews.",
-    "Human recruiters assessed the interviews and decided whom to hire. The study isolates the interviewer, not AI-written applications or automated hiring decisions.",
-    "The result does not show more jobs across a market. U.S. exposure-based early-career warnings and a broad U.S. no-clear-footprint monitor cover different settings and outcomes."
+    "A Cleveland Fed working paper finds higher advertised pay but lower real pay for continuously employed workers in more LLM-exposed U.S. occupations.",
+    "Hires and separations both rose, while the net worker-flow difference was not statistically significant.",
+    "Occupational exposure and job-ad AI mentions do not establish employer AI adoption or a causal AI wage effect."
   ],
   "uncertainty": [
-    "The interview experiment covers one Philippine recruiting firm and entry-level customer-service applicants; it does not test AI-written applications or U.S. labor-market outcomes.",
-    "The U.S. junior-opening and graduate results use exposure proxies, not firm-level AI rollout, so AI attribution remains uncertain.",
-    "Higher offer and start rates in a recruitment process do not establish net job creation, wages or unemployment effects."
+    "The Cleveland Fed paper compares occupational LLM exposure, not verified employer AI deployment, and cannot isolate AI from other changes.",
+    "Its roughly 1% new-hire wage point estimate is not statistically distinguishable from zero; the reported 0.9% incumbent-wage decline is statistically significant in the later period.",
+    "The worker-flow and wage patterns do not establish a national net employment effect or an individual career forecast."
   ],
-  "checked_at": "2026-09-27T15:52:00Z",
-  "meaningfully_updated_at": "2026-09-27T15:52:00Z",
-  "freshness_note": "Checked 27 September 2026. A revised field experiment adds a narrow causal finding on interviews and offers, not a national employment result."
+  "checked_at": "2026-09-28T07:06:45Z",
+  "meaningfully_updated_at": "2026-09-28T07:06:45Z",
+  "freshness_note": "Checked 28 September 2026. New occupational evidence separates posted pay, new-hire pay and incumbent pay; AI causation remains unproven."
 }

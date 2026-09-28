@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:clevelandfed-rinz-ai-labor-demand-2026",
+      "source_type": "Federal Reserve Bank of Cleveland working paper",
+      "source_url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2624.pdf",
+      "title": "The Recent Evolution of AI-Related Labor Demand",
+      "claim": "More LLM-exposed U.S. occupations had higher posted wages but lower real wages for continuously employed workers in the later post period; exposure-based comparisons do not isolate AI causation.",
+      "accessed_at": "2026-09-28T07:06:45Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:voice-ai-interviews-philippines-2026",
       "source_type": "revised randomized field-experiment working paper",
       "source_url": "https://arxiv.org/pdf/2607.28222",

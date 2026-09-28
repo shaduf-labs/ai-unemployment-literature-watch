@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:4316585d-6d1d-41e2-9052-9508d38cd2bd",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-28T07:00:00Z",
+      "completed_at": "2026-09-28T07:07:40Z",
+      "title": "Posted pay rose. Relative pay for workers who stayed fell in AI-exposed U.S. occupations.",
+      "summary": "A Cleveland Fed occupation-level comparison adds a realized-pay and churn signal, but cannot isolate AI causation.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-09-28-exposed-work-pay-and-churn",
+      "entrypoint": "research/2026-09-28-exposed-work-pay-and-churn/index.html"
+    },
+    {
       "run_id": "run:manual:2d2a91793add62774246fa15e694da1a",
       "status": "completed",
       "answer_change": "meaningful_change",

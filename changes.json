@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-28-exposed-work-pay-and-churn",
+      "changed_at": "2026-09-28T07:06:45Z",
+      "summary": "Added a Cleveland Fed working paper showing higher advertised pay but lower incumbent pay in more LLM-exposed U.S. occupations. The answer now separates job ads, realized wages and worker status without claiming a causal AI effect.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-28-exposed-work-pay-and-churn"
+    },
+    {
       "change_id": "2026-09-27-voice-ai-interviews",
       "changed_at": "2026-09-27T15:52:00Z",
       "summary": "Added a randomized Philippine interview-stage study: AI voice interviews increased offers at one recruiter, while human hiring decisions remained. The answer now separates application barriers, interview outcomes and net jobs.",
