@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "iza-cowgill-screening-experiment-2026",
+      "source_type": "IZA discussion paper and published journal article",
+      "title": "Does AI Cheapen Talk? Theory and Evidence From Global Entrepreneurship and Hiring",
+      "source_url": "https://docs.iza.org/dp18442.pdf",
+      "claim": "Controlled hiring and startup-pitch exercises found 4–9% lower pooled screening accuracy with ChatGPT-assisted pitches on average; a non-English-speaking subgroup showed improved accuracy. No actual hire or employment outcome was measured.",
+      "accessed_at": "2026-09-29T07:06:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "tilburg-cover-letter-field-experiments-2026",
+      "source_type": "peer-reviewed labor-economics article; official abstract inspected",
+      "title": "Labor Market Signals: The Role of Large Language Models",
+      "source_url": "https://research.tilburguniversity.edu/en/publications/labor-market-signals-the-role-of-large-language-models-2/",
+      "claim": "Two cover-letter field experiments reported better letter quality with LLM assistance but no increase in their interview-invitation outcome; modelled matching inefficiency is not observed job loss.",
+      "accessed_at": "2026-09-29T07:06:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:clevelandfed-rinz-ai-labor-demand-2026",
       "source_type": "Federal Reserve Bank of Cleveland working paper",
       "source_url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2624.pdf",

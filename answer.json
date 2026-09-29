@@ -1,22 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "U.S. occupations more exposed to large language models show a split in pay: posted wages rose, but wages for workers who stayed in their jobs fell in a new working-paper comparison. Hires and separations both rose, while unemployed workers per new ad increased. This is an association by occupation, not proof that employers used AI or that AI caused wage cuts. The narrower U.S. entry warnings, a Philippine interview experiment with more offers, and a broad U.S. monitor with no clear economy-wide footprint still measure different outcomes.",
+  "current_answer": "A controlled hiring-and-investor-pitch experiment found that ChatGPT-assisted text made prior expertise harder to judge on average: pooled screening accuracy fell by 4–9%. In a non-English-speaking subgroup, accuracy improved instead. The exercises did not measure real job offers, hires, wages or employment. A separate cover-letter study reported better letters but no increase in its interview-invitation outcome. Separate U.S. occupation data still show rising posted pay alongside lower pay for workers who stayed, while narrow entry-level warnings and a broad no-clear-footprint monitor cover different outcomes. No study here predicts one person’s job risk.",
   "catalogue_card": {
-    "question": "Did AI-exposed U.S. jobs get a pay raise?",
-    "text": "Posted wages rose, but pay for workers who stayed fell in a new U.S. occupational comparison. The study does not prove AI caused either change."
+    "question": "Did AI-written pitches make hiring harder to judge?",
+    "text": "In a controlled hiring-and-investor-pitch test, ChatGPT-assisted text reduced accuracy in identifying prior experience on average. The study did not measure real hires, and some non-English-speaking writers saw the opposite result."
   },
   "summary": [
-    "A Cleveland Fed working paper finds higher advertised pay but lower real pay for continuously employed workers in more LLM-exposed U.S. occupations.",
-    "Hires and separations both rose, while the net worker-flow difference was not statistically significant.",
-    "Occupational exposure and job-ad AI mentions do not establish employer AI adoption or a causal AI wage effect."
+    "A controlled 2023 experiment found a 4–9% pooled screening-accuracy loss when pitch writers could use ChatGPT.",
+    "The direction reversed for writers from non-English-speaking contexts.",
+    "A separate peer-reviewed cover-letter study reports better written applications but no increase in its interview-invitation outcome.",
+    "The exercise measured judgments about experience, not real applications, job offers, wages or employment."
   ],
   "uncertainty": [
-    "The Cleveland Fed paper compares occupational LLM exposure, not verified employer AI deployment, and cannot isolate AI from other changes.",
-    "Its roughly 1% new-hire wage point estimate is not statistically distinguishable from zero; the reported 0.9% incumbent-wage decline is statistically significant in the later period.",
-    "The worker-flow and wage patterns do not establish a national net employment effect or an individual career forecast."
+    "The new 4–9% estimate pools hiring and startup-investing simulations, not actual recruitment outcomes.",
+    "Only the official abstract and university summary of the separate cover-letter study were accessible; full methods and invitation measure were not verified.",
+    "The no-AI draft always came before the AI-assisted draft, and reviewers knew when AI was available; real-world use and evaluation may differ.",
+    "The wage and early-career studies do not identify one common causal AI effect, and broad U.S. indicators can miss narrow changes."
   ],
-  "checked_at": "2026-09-28T07:06:45Z",
-  "meaningfully_updated_at": "2026-09-28T07:06:45Z",
-  "freshness_note": "Checked 28 September 2026. New occupational evidence separates posted pay, new-hire pay and incumbent pay; AI causation remains unproven."
+  "checked_at": "2026-09-29T07:06:00Z",
+  "meaningfully_updated_at": "2026-09-29T07:06:00Z",
+  "freshness_note": "Checked 29 September 2026. Added controlled screening evidence; actual hiring effects remain unmeasured."
 }
