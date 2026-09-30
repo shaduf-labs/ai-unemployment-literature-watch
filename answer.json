@@ -1,24 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A controlled hiring-and-investor-pitch experiment found that ChatGPT-assisted text made prior expertise harder to judge on average: pooled screening accuracy fell by 4–9%. In a non-English-speaking subgroup, accuracy improved instead. The exercises did not measure real job offers, hires, wages or employment. A separate cover-letter study reported better letters but no increase in its interview-invitation outcome. Separate U.S. occupation data still show rising posted pay alongside lower pay for workers who stayed, while narrow entry-level warnings and a broad no-clear-footprint monitor cover different outcomes. No study here predicts one person’s job risk.",
+  "current_answer": "Platform conversation logs can make an occupation look more or less exposed to AI partly because of who uses that platform. A 2026 methodological preprint held its U.S. employment design fixed and changed only the platform input: some estimates reversed sign, and workforce reweighting reduced coefficient magnitudes by 42–93%. This does not prove that AI has no employment effect; the exercise diagnoses a measurement problem in platform-derived exposure. Separate studies still report narrow early-career hiring warnings, mixed pay results and no clear economy-wide U.S. job-loss footprint. Those findings use different populations and measures.",
   "catalogue_card": {
-    "question": "Did AI-written pitches make hiring harder to judge?",
-    "text": "In a controlled hiring-and-investor-pitch test, ChatGPT-assisted text reduced accuracy in identifying prior experience on average. The study did not measure real hires, and some non-English-speaking writers saw the opposite result."
+    "question": "Can AI-use logs misstate job risk?",
+    "text": "A fixed U.S. employment analysis changed sign when researchers changed only which AI platform supplied usage data. That is a warning about the exposure measure, not proof that AI has no effect on jobs."
   },
   "summary": [
-    "A controlled 2023 experiment found a 4–9% pooled screening-accuracy loss when pitch writers could use ChatGPT.",
-    "The direction reversed for writers from non-English-speaking contexts.",
-    "A separate peer-reviewed cover-letter study reports better written applications but no increase in its interview-invitation outcome.",
-    "The exercise measured judgments about experience, not real applications, job offers, wages or employment."
+    "A May 2026 methodological preprint compares platform-derived exposure scores under one fixed U.S. employment design.",
+    "Switching the conversation-share input changed estimated employment coefficients; consumer and enterprise channels within one vendor disagreed in sign.",
+    "Reweighting platform users to the workforce occupation mix reduced coefficient magnitudes by 42–93% across tested specifications.",
+    "This is a measurement diagnostic, not an estimate of jobs lost or saved by AI."
   ],
   "uncertainty": [
-    "The new 4–9% estimate pools hiring and startup-investing simulations, not actual recruitment outcomes.",
-    "Only the official abstract and university summary of the separate cover-letter study were accessible; full methods and invitation measure were not verified.",
-    "The no-AI draft always came before the AI-assisted draft, and reviewers knew when AI was available; real-world use and evaluation may differ.",
-    "The wage and early-career studies do not identify one common causal AI effect, and broad U.S. indicators can miss narrow changes."
+    "The platform-selection test is a May 2026 preprint newly added to this map, not a new September labor outcome or a causal estimate of AI-driven employment change.",
+    "Its sensitivity result applies to exposure scores built with platform conversation shares; it does not invalidate every task-capability, survey, adoption or administrative measure.",
+    "Workforce reweighting addresses observed occupation mix, not all within-occupation selection or non-AI confounders."
   ],
-  "checked_at": "2026-09-29T07:06:00Z",
-  "meaningfully_updated_at": "2026-09-29T07:06:00Z",
-  "freshness_note": "Checked 29 September 2026. Added controlled screening evidence; actual hiring effects remain unmeasured."
+  "checked_at": "2026-09-30T07:15:00Z",
+  "meaningfully_updated_at": "2026-09-30T07:15:00Z",
+  "freshness_note": "Checked 30 September 2026. Added a platform-exposure measurement warning; previous outcome findings remain separately scoped."
 }

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-30-platform-exposure-bias",
+      "changed_at": "2026-09-30T07:15:00Z",
+      "summary": "Added a methodological test: platform conversation shares can change U.S. employment coefficients even when the labor-market design is fixed. This does not estimate AI-caused job loss.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-09-30-platform-exposure-bias"
+    },
+    {
       "change_id": "2026-09-29-ai-written-pitches-screening",
       "changed_at": "2026-09-29T07:06:00Z",
       "summary": "Added a controlled pitch-screening study: ChatGPT assistance reduced pooled accuracy in identifying experience on average but improved it for some non-English-speaking writers. This is not a measured hiring or employment effect.",

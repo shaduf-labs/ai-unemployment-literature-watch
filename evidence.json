@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "yin-ogut-platform-exposure-2026",
+      "source_type": "arXiv methodological preprint, version 2",
+      "source_url": "https://arxiv.org/pdf/2605.21743",
+      "title": "Who Uses AI? Platform Selection and the Measurement of Occupational AI Exposure",
+      "claim": "Holding a U.S. employment design fixed, changing platform conversation-share inputs changed coefficient size and sometimes sign; workforce reweighting attenuated tested coefficients by 42–93%. This is not a causal AI employment effect.",
+      "accessed_at": "2026-09-30T07:15:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "iza-cowgill-screening-experiment-2026",
       "source_type": "IZA discussion paper and published journal article",
       "title": "Does AI Cheapen Talk? Theory and Evidence From Global Entrepreneurship and Hiring",
