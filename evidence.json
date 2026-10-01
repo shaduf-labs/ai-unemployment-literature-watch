@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:iza-software-entry-vacancies-2026",
+      "source_type": "IZA discussion paper, June 2026",
+      "source_url": "https://docs.iza.org/dp18723.pdf",
+      "title": "Generative AI and the Redefinition of Entry-Level Software Work",
+      "claim": "U.S. software-developer postings show a roughly 14–15% relative junior-versus-senior decline in the 12 months after ChatGPT’s release and more experience required within some titles. Ads are not hires, and AI attribution is unresolved.",
+      "accessed_at": "2026-10-01T10:03:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "yin-ogut-platform-exposure-2026",
       "source_type": "arXiv methodological preprint, version 2",
       "source_url": "https://arxiv.org/pdf/2605.21743",

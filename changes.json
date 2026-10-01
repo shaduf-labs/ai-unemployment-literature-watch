@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-01-junior-software-vacancies",
+      "changed_at": "2026-10-01T10:03:00Z",
+      "summary": "Added a U.S. software-vacancy study: junior ads fell roughly 14–15% relative to senior ads after ChatGPT, but the study does not establish AI-caused hires or job losses.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-01-junior-software-vacancies"
+    },
+    {
       "change_id": "2026-09-30-platform-exposure-bias",
       "changed_at": "2026-09-30T07:15:00Z",
       "summary": "Added a methodological test: platform conversation shares can change U.S. employment coefficients even when the labor-market design is fixed. This does not estimate AI-caused job loss.",

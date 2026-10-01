@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Platform conversation logs can make an occupation look more or less exposed to AI partly because of who uses that platform. A 2026 methodological preprint held its U.S. employment design fixed and changed only the platform input: some estimates reversed sign, and workforce reweighting reduced coefficient magnitudes by 42–93%. This does not prove that AI has no employment effect; the exercise diagnoses a measurement problem in platform-derived exposure. Separate studies still report narrow early-career hiring warnings, mixed pay results and no clear economy-wide U.S. job-loss footprint. Those findings use different populations and measures.",
+  "current_answer": "A U.S. software-developer posting study found roughly 14–15% fewer junior vacancies relative to senior vacancies in the year after ChatGPT’s release than in the year before. Employers also raised experience requirements within some job titles. This is a specific entry-route warning, not a count of hires or layoffs. The study compares online ads around November 2022, not firms with and without verified AI adoption; the wider tech hiring slowdown remains a rival explanation. Other research finds mixed early-career and wage patterns and no clear economy-wide U.S. AI job-loss footprint. Those outcomes cannot be collapsed into one verdict.",
   "catalogue_card": {
-    "question": "Can AI-use logs misstate job risk?",
-    "text": "A fixed U.S. employment analysis changed sign when researchers changed only which AI platform supplied usage data. That is a warning about the exposure measure, not proof that AI has no effect on jobs."
+    "question": "Did AI shrink junior software openings?",
+    "text": "A U.S. study found roughly 14–15% fewer junior software ads relative to senior ads after ChatGPT. It did not count hires or isolate AI from the wider tech slowdown."
   },
   "summary": [
-    "A May 2026 methodological preprint compares platform-derived exposure scores under one fixed U.S. employment design.",
-    "Switching the conversation-share input changed estimated employment coefficients; consumer and enterprise channels within one vendor disagreed in sign.",
-    "Reweighting platform users to the workforce occupation mix reduced coefficient magnitudes by 42–93% across tested specifications.",
-    "This is a measurement diagnostic, not an estimate of jobs lost or saved by AI."
+    "A June 2026 IZA paper newly reviewed here compares U.S. software-developer postings around ChatGPT’s November 2022 release.",
+    "Junior ads requiring up to three years of experience fell roughly 14–15% relative to senior ads requiring four or more years in its main comparison.",
+    "Experience requirements rose within some job titles; remaining junior ads emphasized problem solving, communication and detail more than AI-specific skills.",
+    "The public release is a time marker. The study does not measure employer AI adoption, completed hires or layoffs."
   ],
   "uncertainty": [
-    "The platform-selection test is a May 2026 preprint newly added to this map, not a new September labor outcome or a causal estimate of AI-driven employment change.",
-    "Its sensitivity result applies to exposure scores built with platform conversation shares; it does not invalidate every task-capability, survey, adoption or administrative measure.",
-    "Workforce reweighting addresses observed occupation mix, not all within-occupation selection or non-AI confounders."
+    "The IZA study was published in June 2026 and newly reviewed here on 1 October; it does not measure a fresh October labor outcome.",
+    "The 14–15% figure is a relative junior-versus-senior vacancy estimate for U.S. software developers, not an absolute drop in junior jobs or a causal effect of AI."
   ],
-  "checked_at": "2026-09-30T07:15:00Z",
-  "meaningfully_updated_at": "2026-09-30T07:15:00Z",
-  "freshness_note": "Checked 30 September 2026. Added a platform-exposure measurement warning; previous outcome findings remain separately scoped."
+  "checked_at": "2026-10-01T10:03:00Z",
+  "meaningfully_updated_at": "2026-10-01T10:03:00Z",
+  "freshness_note": "Checked 1 October 2026. Added a June software-vacancy study; its estimate is not a new October labor outcome."
 }
