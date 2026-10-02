@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:census-exposure-adoption-2026",
+      "source_type": "U.S. Census Bureau working paper, September 2026",
+      "source_url": "https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-61.pdf",
+      "title": "AI Exposure and Adoption among U.S. Firms",
+      "claim": "Among matched single-location U.S. firms, occupational AI exposure scores explained about 1–6% of cross-firm variation in reported AI use; the paper does not measure job loss.",
+      "accessed_at": "2026-10-02T07:07:54Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:iza-software-entry-vacancies-2026",
       "source_type": "IZA discussion paper, June 2026",
       "source_url": "https://docs.iza.org/dp18723.pdf",

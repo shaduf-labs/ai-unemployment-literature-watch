@@ -1,22 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A U.S. software-developer posting study found roughly 14–15% fewer junior vacancies relative to senior vacancies in the year after ChatGPT’s release than in the year before. Employers also raised experience requirements within some job titles. This is a specific entry-route warning, not a count of hires or layoffs. The study compares online ads around November 2022, not firms with and without verified AI adoption; the wider tech hiring slowdown remains a rival explanation. Other research finds mixed early-career and wage patterns and no clear economy-wide U.S. AI job-loss footprint. Those outcomes cannot be collapsed into one verdict.",
+  "current_answer": "A U.S. software-developer posting study found roughly 14–15% fewer junior vacancies relative to senior vacancies after ChatGPT’s release, but it did not count hires or isolate AI as the cause. A new Census study sharpens that boundary: among matched single-location U.S. firms, occupational AI-exposure scores explain only about 1–6% of variation in reported AI use. Exposure is a warning about where AI could matter, not proof that an employer adopted it or cut jobs. Other early-career and wage findings remain mixed, and a broad U.S. tracker has not found a clear economy-wide AI job-loss footprint.",
   "catalogue_card": {
-    "question": "Did AI shrink junior software openings?",
-    "text": "A U.S. study found roughly 14–15% fewer junior software ads relative to senior ads after ChatGPT. It did not count hires or isolate AI from the wider tech slowdown."
+    "question": "Does an AI risk score mean your firm uses AI?",
+    "text": "Not reliably. A U.S. Census study found exposure scores explained only about 1–6% of variation in reported AI use across matched single-location firms. It measured adoption, not job losses."
   },
   "summary": [
-    "A June 2026 IZA paper newly reviewed here compares U.S. software-developer postings around ChatGPT’s November 2022 release.",
-    "Junior ads requiring up to three years of experience fell roughly 14–15% relative to senior ads requiring four or more years in its main comparison.",
-    "Experience requirements rose within some job titles; remaining junior ads emphasized problem solving, communication and detail more than AI-specific skills.",
-    "The public release is a time marker. The study does not measure employer AI adoption, completed hires or layoffs."
+    "A September 2026 Census working paper links 14 occupational exposure scores to U.S. firms’ reported AI use.",
+    "Exposure positively predicts adoption but explains only about 1–6% of variation across matched single-location firms.",
+    "This does not erase the junior software vacancy warning; it limits claims that exposure-based changes were caused by observed AI use.",
+    "The new paper does not count hires, wages, layoffs or personal job risk."
   ],
   "uncertainty": [
-    "The IZA study was published in June 2026 and newly reviewed here on 1 October; it does not measure a fresh October labor outcome.",
-    "The 14–15% figure is a relative junior-versus-senior vacancy estimate for U.S. software developers, not an absolute drop in junior jobs or a causal effect of AI."
+    "The Census result is a cross-firm association for matched single-location U.S. firms and broad AI use, not a generative-AI-only or employment estimate.",
+    "The AI-use question changed wording in November 2025; the study analyzes both versions but cannot remove every reporting or linkage bias.",
+    "The earlier junior software result measures relative online ads, not completed hires or a causal AI effect."
   ],
-  "checked_at": "2026-10-01T10:03:00Z",
-  "meaningfully_updated_at": "2026-10-01T10:03:00Z",
-  "freshness_note": "Checked 1 October 2026. Added a June software-vacancy study; its estimate is not a new October labor outcome."
+  "checked_at": "2026-10-02T07:07:54Z",
+  "meaningfully_updated_at": "2026-10-02T07:07:54Z",
+  "freshness_note": "Checked 2 October 2026. Added a September firm-level measurement study; this is not a new October job outcome."
 }

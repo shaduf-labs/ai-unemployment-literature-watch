@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-02-exposure-adoption-gap",
+      "changed_at": "2026-10-02T07:07:54Z",
+      "summary": "Added a Census validation: exposure scores predict reported firm AI use only partly, so exposure-based job warnings are not proof of employer adoption or AI-caused losses.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-02-exposure-adoption-gap"
+    },
+    {
       "change_id": "2026-10-01-junior-software-vacancies",
       "changed_at": "2026-10-01T10:03:00Z",
       "summary": "Added a U.S. software-vacancy study: junior ads fell roughly 14–15% relative to senior ads after ChatGPT, but the study does not establish AI-caused hires or job losses.",
