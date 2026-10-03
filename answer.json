@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A U.S. software-developer posting study found roughly 14–15% fewer junior vacancies relative to senior vacancies after ChatGPT’s release, but it did not count hires or isolate AI as the cause. A new Census study sharpens that boundary: among matched single-location U.S. firms, occupational AI-exposure scores explain only about 1–6% of variation in reported AI use. Exposure is a warning about where AI could matter, not proof that an employer adopted it or cut jobs. Other early-career and wage findings remain mixed, and a broad U.S. tracker has not found a clear economy-wide AI job-loss footprint.",
+  "current_answer": "A new working-paper abstract reports 20% more startup formation in industries with higher generative-AI task exposure than in less-exposed industries after the technology spread. It also reports industry-level employment and wage growth from new entrants, despite smaller individual startups. This is a possible job-creation channel, not proof that AI caused the growth or that existing workers gained. Separately, U.S. junior software ads weakened relative to senior ads, but they did not count hires or isolate AI. The evidence still does not support one universal verdict on jobs.",
   "catalogue_card": {
-    "question": "Does an AI risk score mean your firm uses AI?",
-    "text": "Not reliably. A U.S. Census study found exposure scores explained only about 1–6% of variation in reported AI use across matched single-location firms. It measured adoption, not job losses."
+    "question": "Could AI create firms even while entry jobs shrink?",
+    "text": "A CEPR abstract reports 20% more startup formation in more GenAI-exposed industries. It also reports entry-linked job growth, but does not prove AI caused a net gain for workers."
   },
   "summary": [
-    "A September 2026 Census working paper links 14 occupational exposure scores to U.S. firms’ reported AI use.",
-    "Exposure positively predicts adoption but explains only about 1–6% of variation across matched single-location firms.",
-    "This does not erase the junior software vacancy warning; it limits claims that exposure-based changes were caused by observed AI use.",
-    "The new paper does not count hires, wages, layoffs or personal job risk."
+    "A new CEPR abstract reports 20% more startup formation in industries with higher generative-AI task exposure after diffusion.",
+    "It reports industry-level employment and wage growth from new entry despite smaller individual startups.",
+    "The accessible abstract does not establish AI causation or show what happened to incumbents and displaced workers.",
+    "A separate U.S. junior-software vacancy warning remains; startup entry and job ads are different outcomes."
   ],
   "uncertainty": [
-    "The Census result is a cross-firm association for matched single-location U.S. firms and broad AI use, not a generative-AI-only or employment estimate.",
-    "The AI-use question changed wording in November 2025; the study analyzes both versions but cannot remove every reporting or linkage bias.",
-    "The earlier junior software result measures relative online ads, not completed hires or a causal AI effect."
+    "Only the CEPR abstract and author summary were inspected; full methods and precise labor estimates were not available.",
+    "The abstract does not specify geography or enough detail to rule out concurrent industry trends.",
+    "Industry exposure is not observed AI adoption by each startup; new-firm gains are not a personal job forecast."
   ],
-  "checked_at": "2026-10-02T07:07:54Z",
-  "meaningfully_updated_at": "2026-10-02T07:07:54Z",
-  "freshness_note": "Checked 2 October 2026. Added a September firm-level measurement study; this is not a new October job outcome."
+  "checked_at": "2026-10-03T07:05:23Z",
+  "meaningfully_updated_at": "2026-10-03T07:05:23Z",
+  "freshness_note": "Checked 3 October 2026. Added a startup-entry counter-signal from a September working-paper abstract; it is not a verified net jobs estimate."
 }

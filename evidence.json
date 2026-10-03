@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:cepr-startup-entry-2026",
+      "source_type": "CEPR discussion-paper abstract and author summary",
+      "source_url": "https://cepr.org/publications/dp21982",
+      "title": "Prompted to Start: How Generative AI is Transforming Entrepreneurship",
+      "claim": "More GenAI-exposed industries had 20% more startup formation after diffusion, with reported industry-level employment and wage growth from new entry. Abstract-level access does not establish causality or precise labor estimates.",
+      "accessed_at": "2026-10-03T07:05:23Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:census-exposure-adoption-2026",
       "source_type": "U.S. Census Bureau working paper, September 2026",
       "source_url": "https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-61.pdf",

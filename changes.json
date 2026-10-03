@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-03-startup-entry-counter-signal",
+      "changed_at": "2026-10-03T07:05:23Z",
+      "summary": "Added a CEPR startup-entry counter-signal: more entry and reported industry-level labor growth in more GenAI-exposed industries, with causal and coverage limits explicit.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-03-startup-entry-counter-signal"
+    },
+    {
       "change_id": "2026-10-02-exposure-adoption-gap",
       "changed_at": "2026-10-02T07:07:54Z",
       "summary": "Added a Census validation: exposure scores predict reported firm AI use only partly, so exposure-based job warnings are not proof of employer adoption or AI-caused losses.",
