@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A new working-paper abstract reports 20% more startup formation in industries with higher generative-AI task exposure than in less-exposed industries after the technology spread. It also reports industry-level employment and wage growth from new entrants, despite smaller individual startups. This is a possible job-creation channel, not proof that AI caused the growth or that existing workers gained. Separately, U.S. junior software ads weakened relative to senior ads, but they did not count hires or isolate AI. The evidence still does not support one universal verdict on jobs.",
+  "current_answer": "New firms do not automatically replace the jobs that exposed employers cut. A U.S. working-paper abstract reports that more AI-exposed existing startups reduced employment, especially in junior roles; greater entry by smaller firms left aggregate startup employment unchanged in its sample. A separate CEPR abstract reports 20% more startup formation and entry-linked labor growth in more exposed industries, while a UK abstract detects no statistically significant entry increase. These studies use different populations and measures, and none proves AI caused a net jobs gain or loss for all workers. The broad U.S. labor-market collapse claim remains unsupported; narrower entry risks remain open.",
   "catalogue_card": {
-    "question": "Could AI create firms even while entry jobs shrink?",
-    "text": "A CEPR abstract reports 20% more startup formation in more GenAI-exposed industries. It also reports entry-linked job growth, but does not prove AI caused a net gain for workers."
+    "question": "Do more AI-era startups mean more jobs?",
+    "text": "Not necessarily. One U.S. study reports more startup entry but no aggregate startup-jobs gain; a UK study finds no clear entry increase. Both are exposure-based, not proof of AI causation."
   },
   "summary": [
-    "A new CEPR abstract reports 20% more startup formation in industries with higher generative-AI task exposure after diffusion.",
-    "It reports industry-level employment and wage growth from new entry despite smaller individual startups.",
-    "The accessible abstract does not establish AI causation or show what happened to incumbents and displaced workers.",
-    "A separate U.S. junior-software vacancy warning remains; startup entry and job ads are different outcomes."
+    "A U.S. startup study reports fewer jobs at more exposed existing firms, mainly junior roles; new entrants offset the loss in its aggregate startup-employment measure.",
+    "A CEPR study reports more formation and entry-linked industry labor growth, but a UK study detects no significant firm-entry increase. Different samples and outcomes prevent a clean winner.",
+    "No paper establishes a national AI-caused net jobs change or a personal career forecast."
   ],
   "uncertainty": [
-    "Only the CEPR abstract and author summary were inspected; full methods and precise labor estimates were not available.",
-    "The abstract does not specify geography or enough detail to rule out concurrent industry trends.",
-    "Industry exposure is not observed AI adoption by each startup; new-firm gains are not a personal job forecast."
+    "The Gupta and Agarwal full papers were not inspected; abstract-level methods and uncertainty remain unverified.",
+    "The papers count different populations and endpoints; firm formation is not completed hiring.",
+    "Industry task exposure does not show actual AI use by every firm."
   ],
-  "checked_at": "2026-10-03T07:05:23Z",
-  "meaningfully_updated_at": "2026-10-03T07:05:23Z",
-  "freshness_note": "Checked 3 October 2026. Added a startup-entry counter-signal from a September working-paper abstract; it is not a verified net jobs estimate."
+  "checked_at": "2026-10-04T07:12:00Z",
+  "meaningfully_updated_at": "2026-10-04T07:12:00Z",
+  "freshness_note": "Checked 4 October 2026. Startup entry no longer appears as a stand-alone jobs counter-signal; one U.S. abstract reports flat aggregate startup employment after offsetting losses."
 }

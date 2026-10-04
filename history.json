@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:8e0ffa97-8439-416e-8592-a2a5e7652e81",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-04T07:00:00Z",
+      "completed_at": "2026-10-04T07:12:19Z",
+      "title": "More startups did not mean more startup jobs in one U.S. study",
+      "summary": "A U.S. startup paper reports new entry offsetting incumbent job losses, leaving aggregate startup employment unchanged; a UK paper finds no clear entry increase.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-04-startup-jobs-accounting",
+      "entrypoint": "research/2026-10-04-startup-jobs-accounting/index.html"
+    },
+    {
       "run_id": "run:e1afebf3-a2f7-4595-9609-b54f241aeb03",
       "status": "completed",
       "answer_change": "meaningful_change",

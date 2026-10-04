@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-04-startup-jobs-accounting",
+      "changed_at": "2026-10-04T07:12:00Z",
+      "summary": "A U.S. startup study reports that more entry offset jobs lost at exposed incumbents without raising aggregate startup employment; a UK entry null narrows generalization of the prior startup-growth signal.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-04-startup-jobs-accounting"
+    },
+    {
       "change_id": "2026-10-03-startup-entry-counter-signal",
       "changed_at": "2026-10-03T07:05:23Z",
       "summary": "Added a CEPR startup-entry counter-signal: more entry and reported industry-level labor growth in more GenAI-exposed industries, with causal and coverage limits explicit.",

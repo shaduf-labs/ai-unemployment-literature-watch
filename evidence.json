@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gupta-startup-employment-2026",
+      "source_type": "SSRN working-paper abstract; revised July 2026",
+      "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5971474",
+      "title": "Generative AI and Entrepreneurship",
+      "claim": "More exposed existing U.S. startups reduced employment, mainly junior roles; smaller new entrants offset this in aggregate startup employment. Abstract-level result; not a national causal AI estimate.",
+      "accessed_at": "2026-10-04T07:12:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:agarwal-uk-firm-entry-2026",
+      "source_type": "SSRN working-paper abstract; posted September 2026",
+      "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7509858",
+      "title": "Born Small, Staying Small: Generative Artificial Intelligence and the Organization of New Firms",
+      "claim": "UK industry LLM exposure was not associated with a statistically significant firm-entry increase; more exposed new firms had smaller founding teams. Incorporation and directors are not employee counts.",
+      "accessed_at": "2026-10-04T07:12:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:cepr-startup-entry-2026",
       "source_type": "CEPR discussion-paper abstract and author summary",
       "source_url": "https://cepr.org/publications/dp21982",
