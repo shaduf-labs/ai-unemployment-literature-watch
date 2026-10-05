@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "New firms do not automatically replace the jobs that exposed employers cut. A U.S. working-paper abstract reports that more AI-exposed existing startups reduced employment, especially in junior roles; greater entry by smaller firms left aggregate startup employment unchanged in its sample. A separate CEPR abstract reports 20% more startup formation and entry-linked labor growth in more exposed industries, while a UK abstract detects no statistically significant entry increase. These studies use different populations and measures, and none proves AI caused a net jobs gain or loss for all workers. The broad U.S. labor-market collapse claim remains unsupported; narrower entry risks remain open.",
+  "current_answer": "Job ads may change before a worker loses a job. A U.S. preprint scores 9.37 million online postings and finds that, after mid-2023, both shifts in which roles were advertised and changes in listed tasks within comparable job categories contributed to a decline in measured GenAI exposure. That is a change in vacancy text, not proof AI caused employers to redesign jobs or cut staff. Separate studies still warn of weaker junior entry in specific samples, while a broad U.S. tracker finds no clear economy-wide AI jobs footprint. The startup evidence also shows why more new firms need not mean more startup jobs. No study here predicts an individual worker’s outcome.",
   "catalogue_card": {
-    "question": "Do more AI-era startups mean more jobs?",
-    "text": "Not necessarily. One U.S. study reports more startup entry but no aggregate startup-jobs gain; a UK study finds no clear entry increase. Both are exposure-based, not proof of AI causation."
+    "question": "Are job ads changing before jobs disappear?",
+    "text": "A U.S. study finds changing task descriptions within comparable advertised roles. It measures AI-exposure scores in ads, not AI-caused layoffs or completed hires."
   },
   "summary": [
-    "A U.S. startup study reports fewer jobs at more exposed existing firms, mainly junior roles; new entrants offset the loss in its aggregate startup-employment measure.",
-    "A CEPR study reports more formation and entry-linked industry labor growth, but a UK study detects no significant firm-entry increase. Different samples and outcomes prevent a clean winner.",
-    "No paper establishes a national AI-caused net jobs change or a personal career forecast."
+    "U.S. posting data show that both the mix of advertised roles and listed tasks within comparable categories changed as measured GenAI exposure fell after mid-2023.",
+    "The posting result does not establish that employers adopted AI, redesigned the same job or cut workers; its exposure trend began before ChatGPT.",
+    "Narrow junior-entry warnings and a broad U.S. no-clear-footprint result still use different outcomes. Startup entry is not equivalent to net jobs or similar-pay opportunities."
   ],
   "uncertainty": [
-    "The Gupta and Agarwal full papers were not inspected; abstract-level methods and uncertainty remain unverified.",
-    "The papers count different populations and endpoints; firm formation is not completed hiring.",
-    "Industry task exposure does not show actual AI use by every firm."
+    "The new posting study scores vacancy text with LLMs; realized job tasks and worker outcomes are not observed.",
+    "Within-group changes do not track the same firm or job over time. The early-2022 exposure peak limits AI attribution.",
+    "Existing hiring and startup studies cover different populations and cannot predict individual risk."
   ],
-  "checked_at": "2026-10-04T07:12:00Z",
-  "meaningfully_updated_at": "2026-10-04T07:12:00Z",
-  "freshness_note": "Checked 4 October 2026. Startup entry no longer appears as a stand-alone jobs counter-signal; one U.S. abstract reports flat aggregate startup employment after offsetting losses."
+  "checked_at": "2026-10-05T07:21:08Z",
+  "meaningfully_updated_at": "2026-10-05T07:21:08Z",
+  "freshness_note": "Checked 5 October 2026. Added full-paper evidence that AI-exposure scores in U.S. job ads move through both posting mix and within-category task text, without a causal or worker-outcome claim."
 }

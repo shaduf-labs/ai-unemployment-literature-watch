@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-05-posting-task-change",
+      "changed_at": "2026-10-05T07:21:08Z",
+      "summary": "Added full-paper evidence that U.S. vacancy exposure changed through both the mix of posted roles and listed tasks within comparable groups; this is not an AI-caused job-loss estimate.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-05-posting-task-change"
+    },
+    {
       "change_id": "2026-10-04-startup-jobs-accounting",
       "changed_at": "2026-10-04T07:12:00Z",
       "summary": "A U.S. startup study reports that more entry offset jobs lost at exposed incumbents without raising aggregate startup employment; a UK entry null narrows generalization of the prior startup-growth signal.",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:1fbee2c5-9801-4efb-bfb3-36abf384caf7",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-05T07:00:00Z",
+      "completed_at": "2026-10-05T07:23:30Z",
+      "title": "Job ads changed, but the study did not count layoffs",
+      "summary": "A U.S. posting study finds both role-mix and listed-task changes in an AI-exposure score; employer adoption and worker outcomes remain unmeasured.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-05-posting-task-change",
+      "entrypoint": "research/2026-10-05-posting-task-change/index.html"
+    },
+    {
       "run_id": "run:8e0ffa97-8439-416e-8592-a2a5e7652e81",
       "status": "completed",
       "answer_change": "meaningful_change",

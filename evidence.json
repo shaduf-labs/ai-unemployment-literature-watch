@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:wang-posting-task-reorganization-2026",
+      "source_type": "arXiv preprint, full PDF, May 2026",
+      "source_url": "https://arxiv.org/pdf/2605.23159",
+      "title": "Generative AI and the Reorganization of Labor Demand",
+      "claim": "U.S. online postings show both cross-role reallocation and within-category listed-task changes in a declining LLM-scored exposure index after 2023Q3. Not observed AI adoption, actual work or job loss.",
+      "accessed_at": "2026-10-05T07:21:08Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gupta-startup-employment-2026",
       "source_type": "SSRN working-paper abstract; revised July 2026",
       "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5971474",
