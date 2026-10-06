@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Job ads may change before a worker loses a job. A U.S. preprint scores 9.37 million online postings and finds that, after mid-2023, both shifts in which roles were advertised and changes in listed tasks within comparable job categories contributed to a decline in measured GenAI exposure. That is a change in vacancy text, not proof AI caused employers to redesign jobs or cut staff. Separate studies still warn of weaker junior entry in specific samples, while a broad U.S. tracker finds no clear economy-wide AI jobs footprint. The startup evidence also shows why more new firms need not mean more startup jobs. No study here predicts an individual worker’s outcome.",
+  "current_answer": "Factory AI-skill job ads show a large posted-pay gap, not a raise for workers. A Federal Reserve analysis finds broad AI skills in about 11% of U.S. manufacturing ads in late 2025, while explicit generative-AI skills were in under 1%. AI-skill ads advertised about 70% higher average pay than manufacturing ads overall, but different jobs, employers and locations may explain much of that gap. The note does not track hires, accepted wages or layoffs. Separate studies still warn about weaker junior entry in specific samples; a broad U.S. tracker finds no clear economy-wide AI jobs footprint. None predicts your personal outcome.",
   "catalogue_card": {
-    "question": "Are job ads changing before jobs disappear?",
-    "text": "A U.S. study finds changing task descriptions within comparable advertised roles. It measures AI-exposure scores in ads, not AI-caused layoffs or completed hires."
+    "question": "Are factory AI job ads paying workers more?",
+    "text": "AI-skill manufacturing ads show about 70% higher average advertised pay, but a Federal Reserve note does not track hires or worker raises. Explicit GenAI requests remain rare."
   },
   "summary": [
-    "U.S. posting data show that both the mix of advertised roles and listed tasks within comparable categories changed as measured GenAI exposure fell after mid-2023.",
-    "The posting result does not establish that employers adopted AI, redesigned the same job or cut workers; its exposure trend began before ChatGPT.",
-    "Narrow junior-entry warnings and a broad U.S. no-clear-footprint result still use different outcomes. Startup entry is not equivalent to net jobs or similar-pay opportunities."
+    "Broad AI skills reached about 11% of U.S. manufacturing ads in late 2025; explicit generative-AI skills remained under 1% through July 2026.",
+    "AI-skill ads showed about 70% higher average advertised pay than manufacturing ads overall. This unadjusted comparison is not a raise or causal AI premium.",
+    "Separate narrow junior-entry warnings and broad U.S. jobs measures still use different outcomes; none predicts individual risk."
   ],
   "uncertainty": [
-    "The new posting study scores vacancy text with LLMs; realized job tasks and worker outcomes are not observed.",
-    "Within-group changes do not track the same firm or job over time. The early-2022 exposure peak limits AI attribution.",
-    "Existing hiring and startup studies cover different populations and cannot predict individual risk."
+    "The manufacturing note measures online ads, not completed hires, accepted pay, layoffs or a causal AI effect.",
+    "AI-skill pay gaps may reflect occupation, employer, location and changing wage-reporting coverage.",
+    "Junior hiring and broad-market studies cover different populations and cannot provide personal odds."
   ],
-  "checked_at": "2026-10-05T07:21:08Z",
-  "meaningfully_updated_at": "2026-10-05T07:21:08Z",
-  "freshness_note": "Checked 5 October 2026. Added full-paper evidence that AI-exposure scores in U.S. job ads move through both posting mix and within-category task text, without a causal or worker-outcome claim."
+  "checked_at": "2026-10-06T07:05:12Z",
+  "meaningfully_updated_at": "2026-10-06T07:05:12Z",
+  "freshness_note": "Checked 6 October 2026. Added a U.S. manufacturing posting result that separates broad AI skills, explicit GenAI requests, advertised pay and actual worker outcomes."
 }

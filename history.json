@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:6e456e31-3aed-4fd1-97dc-15d27b424e5d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-06T07:00:00Z",
+      "completed_at": "2026-10-06T07:07:50Z",
+      "title": "Factory AI-skill ads pay more, but workers’ wages were not measured",
+      "summary": "A Federal Reserve note separates broad AI-skill requests from rare explicit GenAI requests and unadjusted posted pay from worker outcomes.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-06-factory-ai-skill-ads",
+      "entrypoint": "research/2026-10-06-factory-ai-skill-ads/index.html"
+    },
+    {
       "run_id": "run:1fbee2c5-9801-4efb-bfb3-36abf384caf7",
       "status": "completed",
       "answer_change": "meaningful_change",

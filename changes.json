@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-06-factory-ai-skill-ads",
+      "changed_at": "2026-10-06T07:05:12Z",
+      "summary": "A Federal Reserve manufacturing note finds broad AI skills in ads and a large unadjusted posted-pay gap; it does not show worker raises, hires or layoffs.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-06-factory-ai-skill-ads"
+    },
+    {
       "change_id": "2026-10-05-posting-task-change",
       "changed_at": "2026-10-05T07:21:08Z",
       "summary": "Added full-paper evidence that U.S. vacancy exposure changed through both the mix of posted roles and listed tasks within comparable groups; this is not an AI-caused job-loss estimate.",

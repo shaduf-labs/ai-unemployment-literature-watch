@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:fed-manufacturing-ai-postings-2026",
+      "source_type": "Federal Reserve FEDS Note, original Lightcast posting analysis, September 2026",
+      "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/ai-on-the-factory-floor-evidence-from-manufacturing-job-postings-20260930.html",
+      "title": "AI on the Factory Floor: Evidence from Manufacturing Job Postings",
+      "claim": "U.S. manufacturing ads increasingly request broad AI skills; unadjusted advertised-pay gaps do not measure worker raises, hires or AI-caused layoffs.",
+      "accessed_at": "2026-10-06T07:05:12Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:wang-posting-task-reorganization-2026",
       "source_type": "arXiv preprint, full PDF, May 2026",
       "source_url": "https://arxiv.org/pdf/2605.23159",
