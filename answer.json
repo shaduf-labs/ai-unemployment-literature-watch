@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Factory AI-skill job ads show a large posted-pay gap, not a raise for workers. A Federal Reserve analysis finds broad AI skills in about 11% of U.S. manufacturing ads in late 2025, while explicit generative-AI skills were in under 1%. AI-skill ads advertised about 70% higher average pay than manufacturing ads overall, but different jobs, employers and locations may explain much of that gap. The note does not track hires, accepted wages or layoffs. Separate studies still warn about weaker junior entry in specific samples; a broad U.S. tracker finds no clear economy-wide AI jobs footprint. None predicts your personal outcome.",
+  "current_answer": "Young-worker entry can weaken in AI-exposed work without proving that AI-using firms caused the decline. In a Danish survey linked to records through December 2024, the early-career share in 11 exposed occupations fell, but workplaces encouraging chatbot use showed no extra decline relative to other workplaces; the authors rule out a difference larger than about one-third of a percentage point. This is another result from a study already in our ledger, not a new replication. It does not erase U.S. graduate and hiring warnings or a later 41-country affiliate study that uses a different adoption proxy. U.S. factory AI-skill ads still show higher advertised pay, not worker raises. None of these findings predicts your own job.",
   "catalogue_card": {
-    "question": "Are factory AI job ads paying workers more?",
-    "text": "AI-skill manufacturing ads show about 70% higher average advertised pay, but a Federal Reserve note does not track hires or worker raises. Explicit GenAI requests remain rare."
+    "question": "Did AI-using firms cause the junior-job slide?",
+    "text": "A Danish study found no extra early-career-share decline at workplaces encouraging chatbots through 2024. It cannot settle U.S. or later hiring risks."
   },
   "summary": [
-    "Broad AI skills reached about 11% of U.S. manufacturing ads in late 2025; explicit generative-AI skills remained under 1% through July 2026.",
-    "AI-skill ads showed about 70% higher average advertised pay than manufacturing ads overall. This unadjusted comparison is not a raise or causal AI premium.",
-    "Separate narrow junior-entry warnings and broad U.S. jobs measures still use different outcomes; none predicts individual risk."
+    "Early-career share fell in AI-exposed Danish occupations, but workplaces encouraging chatbots showed no extra decline through December 2024.",
+    "This is a result from an already tracked study, not a second independent study or proof that AI never affects hiring.",
+    "U.S. graduate-entry warnings and later multinational affiliate evidence use other groups, dates and adoption measures; direct attribution remains unsettled."
   ],
   "uncertainty": [
-    "The manufacturing note measures online ads, not completed hires, accepted pay, layoffs or a causal AI effect.",
-    "AI-skill pay gaps may reflect occupation, employer, location and changing wage-reporting coverage.",
-    "Junior hiring and broad-market studies cover different populations and cannot provide personal odds."
+    "The Danish comparison covers selected occupations and data through December 2024; employer encouragement is not randomized AI adoption.",
+    "The Danish null does not identify why its exposed occupations lost early-career share or settle U.S. and later multinational findings.",
+    "The Brookings article presents the same underlying Danish study already tracked, not an independent replication."
   ],
-  "checked_at": "2026-10-06T07:05:12Z",
-  "meaningfully_updated_at": "2026-10-06T07:05:12Z",
-  "freshness_note": "Checked 6 October 2026. Added a U.S. manufacturing posting result that separates broad AI skills, explicit GenAI requests, advertised pay and actual worker outcomes."
+  "checked_at": "2026-10-07T07:03:00Z",
+  "meaningfully_updated_at": "2026-10-07T07:03:00Z",
+  "freshness_note": "Checked 7 October 2026. Added the Danish employer-adoption comparison from the authors’ new exposition of an already tracked study; no independent replication."
 }

@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:brookings-denmark-adoption-entry-2026",
+      "source_type": "Author-authored exposition of an existing Danish working paper, October 2026",
+      "source_url": "https://www.brookings.edu/articles/still-waters-rapid-currents-early-labor-market-transformation-under-generative-ai/",
+      "title": "Still waters, rapid currents: Early labor market transformation under generative AI",
+      "claim": "No differential early-career-share decline at Danish workplaces encouraging chatbots through December 2024 in 11 exposed occupations; not independent evidence from the underlying NBER study.",
+      "accessed_at": "2026-10-07T07:03:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:fed-manufacturing-ai-postings-2026",
       "source_type": "Federal Reserve FEDS Note, original Lightcast posting analysis, September 2026",
       "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/ai-on-the-factory-floor-evidence-from-manufacturing-job-postings-20260930.html",
