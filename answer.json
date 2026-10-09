@@ -1,22 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Young-worker entry can weaken in AI-exposed work without proving that AI-using firms caused the decline. In a Danish survey linked to records through December 2024, the early-career share in 11 exposed occupations fell, but workplaces encouraging chatbot use showed no extra decline relative to other workplaces; the authors rule out a difference larger than about one-third of a percentage point. This is another result from a study already in our ledger, not a new replication. It does not erase U.S. graduate and hiring warnings or a later 41-country affiliate study that uses a different adoption proxy. U.S. factory AI-skill ads still show higher advertised pay, not worker raises. None of these findings predicts your own job.",
+  "current_answer": "Some Danish firms that first reported AI use in 2023 hired less than their prior trend predicted: the authors report a roughly 9% relative employment gap by September 2025, concentrated in firms with fewer than 100 employees. Those firms were still growing; the gap is not a count of layoffs or proof AI caused it. This is a different Danish study from yesterday’s chatbot-encouragement comparison, which found no extra early-career-share decline through 2024. The populations, AI measures, outcomes and end dates differ. U.S. junior-entry warnings remain live, but no study here predicts whether your own job will go.",
   "catalogue_card": {
-    "question": "Did AI-using firms cause the junior-job slide?",
-    "text": "A Danish study found no extra early-career-share decline at workplaces encouraging chatbots through 2024. It cannot settle U.S. or later hiring risks."
+    "question": "Are AI-using firms already hiring less?",
+    "text": "A Danish firm-record study links first-time AI use to slower hiring, mainly at small firms. The gap is not a layoff count or proof that AI caused it."
   },
   "summary": [
-    "Early-career share fell in AI-exposed Danish occupations, but workplaces encouraging chatbots showed no extra decline through December 2024.",
-    "This is a result from an already tracked study, not a second independent study or proof that AI never affects hiring.",
-    "U.S. graduate-entry warnings and later multinational affiliate evidence use other groups, dates and adoption measures; direct attribution remains unsettled."
+    "Danish firms first reporting AI use in 2023 had a roughly 9% trend-relative employment gap by September 2025 in the authors’ latest account; their central-bank abstract reports 11% slower growth.",
+    "The gap was concentrated at firms below 100 employees and appeared through fewer hires, not layoffs; the firms still grew.",
+    "This observational firm study does not overturn a separate Danish chatbot-encouragement null through 2024 or predict an individual job."
   ],
   "uncertainty": [
-    "The Danish comparison covers selected occupations and data through December 2024; employer encouragement is not randomized AI adoption.",
-    "The Danish null does not identify why its exposed occupations lost early-career share or settle U.S. and later multinational findings.",
-    "The Brookings article presents the same underlying Danish study already tracked, not an independent replication."
+    "The new Danish firm study is observational: adopters and non-adopters may differ in unmeasured ways despite pre-trend and industry comparisons.",
+    "The central-bank abstract reports 11% slower employment growth; the authors’ CEPR exposition reports a roughly 9% trend-relative gap. The full specification difference was not verified.",
+    "The Danish study covers surveyed private non-financial firms with at least 10 employees and ends September 2025; the small-adopter group employs less than 2% of Danish workers.",
+    "Yesterday’s Danish null is a different sample, adoption proxy, outcome and time window, not a replication of this study."
   ],
-  "checked_at": "2026-10-07T07:03:00Z",
-  "meaningfully_updated_at": "2026-10-07T07:03:00Z",
-  "freshness_note": "Checked 7 October 2026. Added the Danish employer-adoption comparison from the authors’ new exposition of an already tracked study; no independent replication."
+  "checked_at": "2026-10-08T07:08:00Z",
+  "meaningfully_updated_at": "2026-10-08T07:08:00Z",
+  "freshness_note": "Checked 8 October 2026. Added an overlooked Danish working paper through its central-bank abstract and new author exposition; one underlying study, observational."
 }

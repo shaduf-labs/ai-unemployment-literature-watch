@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:denmark-firm-adoption-hiring-2026",
+      "source_type": "Danmarks Nationalbank working paper abstract",
+      "source_url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/working-paper/2026/ai-adoption-and-firm-size-employment-effects-in-monthly-administrative-data",
+      "title": "AI Adoption and Firm Size: Employment Effects in Monthly Administrative Data",
+      "claim": "First-time 2023 Danish firm AI adopters had slower employment growth than non-adopters by late 2025, mainly through fewer hires at smaller firms; observational comparison.",
+      "accessed_at": "2026-10-08T07:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cepr-denmark-firm-adoption-exposition-2026",
+      "source_type": "Authors’ CEPR exposition of the same working paper",
+      "source_url": "https://cepr.org/voxeu/columns/adjustment-danish-labour-market-ai-has-begun",
+      "title": "The adjustment of the Danish labour market to AI has begun",
+      "claim": "Author account gives a roughly 9% trend-relative employment gap by September 2025 and identifies reduced hiring, not layoffs, as the main margin; not independent evidence.",
+      "accessed_at": "2026-10-08T07:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:brookings-denmark-adoption-entry-2026",
       "source_type": "Author-authored exposition of an existing Danish working paper, October 2026",
       "source_url": "https://www.brookings.edu/articles/still-waters-rapid-currents-early-labor-market-transformation-under-generative-ai/",

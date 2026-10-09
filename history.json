@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:a8e56d49-a1bb-408a-a9b0-9c3837f77e5c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-08T07:00:00Z",
+      "completed_at": "2026-10-08T07:09:00Z",
+      "title": "Danish AI adopters slowed hiring, not layoffs",
+      "summary": "A Danish survey-register study links firm AI adoption to a narrow hiring slowdown, while self-selection and different study outcomes limit causal claims.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-08-denmark-ai-adoption-hiring",
+      "entrypoint": "research/2026-10-08-denmark-ai-adoption-hiring/index.html"
+    },
+    {
       "run_id": "run:ebab87ed-911e-4fb7-a96e-e9552eb6ce06",
       "status": "completed",
       "answer_change": "meaningful_change",

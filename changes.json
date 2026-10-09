@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-08-denmark-ai-adoption-hiring",
+      "changed_at": "2026-10-08T07:08:00Z",
+      "summary": "Danish firms first reporting AI use showed slower hiring relative to trend, mainly at small firms; this is an observational gap, not a layoff count.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-08-denmark-ai-adoption-hiring"
+    },
+    {
       "change_id": "2026-10-07-danish-adoption-entry",
       "changed_at": "2026-10-07T07:03:00Z",
       "summary": "A Danish study found no extra early-career-share decline at workplaces encouraging chatbots through 2024; it is the same underlying study already tracked, not a new replication.",
