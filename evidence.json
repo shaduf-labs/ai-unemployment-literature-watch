@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:iza-drydakis-ai-skills-screening-2026",
+      "source_type": "IZA@LISER working paper, full field experiment",
+      "source_url": "https://docs.iza.org/dp18964.pdf",
+      "title": "Artificial Intelligence-Related Digital Skills and Employment Outcomes for Underrepresented Women",
+      "claim": "In 1,016 London matched-vacancy tests, an AI-related certificate increased pooled interview invitations for underrepresented women from 11.1% to 14.2% versus a nondigital certificate; the design measured no hires or wages.",
+      "accessed_at": "2026-10-09T07:28:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:denmark-firm-adoption-hiring-2026",
       "source_type": "Danmarks Nationalbank working paper abstract",
       "source_url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/working-paper/2026/ai-adoption-and-firm-size-employment-effects-in-monthly-administrative-data",

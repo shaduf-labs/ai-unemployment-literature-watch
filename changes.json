@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-09-ai-credential-shortlisting",
+      "changed_at": "2026-10-09T07:28:00Z",
+      "summary": "A London matched-application experiment found a pooled interview-invitation lift from an AI-related certificate for underrepresented women, but not parity, hiring or wage gains.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-09-ai-credential-shortlisting"
+    },
+    {
       "change_id": "2026-10-08-denmark-ai-adoption-hiring",
       "changed_at": "2026-10-08T07:08:00Z",
       "summary": "Danish firms first reporting AI use showed slower hiring relative to trend, mainly at small firms; this is an observational gap, not a layoff count.",

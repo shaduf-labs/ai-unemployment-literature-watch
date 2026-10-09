@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Some Danish firms that first reported AI use in 2023 hired less than their prior trend predicted: the authors report a roughly 9% relative employment gap by September 2025, concentrated in firms with fewer than 100 employees. Those firms were still growing; the gap is not a count of layoffs or proof AI caused it. This is a different Danish study from yesterday’s chatbot-encouragement comparison, which found no extra early-career-share decline through 2024. The populations, AI measures, outcomes and end dates differ. U.S. junior-entry warnings remain live, but no study here predicts whether your own job will go.",
+  "current_answer": "AI is linked to slower hiring at some small Danish firms, but the observational study does not show AI-caused layoffs. A separate London field experiment finds that adding a sector-specific AI-related certificate to fictitious applications raised interview invitations for underrepresented women from 11.1% to 14.2% across four pooled experiments; majority-group women without that certificate received 25.0%. That is a measured shortlisting response, not a job offer, a wage gain or proof an AI course pays off. The study cannot separate AI-specific competence from broader digital literacy. Neither finding predicts an individual worker’s prospects.",
   "catalogue_card": {
-    "question": "Are AI-using firms already hiring less?",
-    "text": "A Danish firm-record study links first-time AI use to slower hiring, mainly at small firms. The gap is not a layoff count or proof that AI caused it."
+    "question": "Does an AI-skills certificate get you hired?",
+    "text": "In a London field test, the certificate raised interview invitations for underrepresented women, but a large gap remained. No hires or wages were measured."
   },
   "summary": [
-    "Danish firms first reporting AI use in 2023 had a roughly 9% trend-relative employment gap by September 2025 in the authors’ latest account; their central-bank abstract reports 11% slower growth.",
-    "The gap was concentrated at firms below 100 employees and appeared through fewer hires, not layoffs; the firms still grew.",
-    "This observational firm study does not overturn a separate Danish chatbot-encouragement null through 2024 or predict an individual job."
+    "A London matched-application experiment found interview invitations for 14.2% of underrepresented women’s applications with an AI-related certificate versus 11.1% with a nondigital certificate, pooled across four identity-signal experiments.",
+    "Majority-group applicants without that certificate received invitations for 25.0%; the experiment cannot isolate AI-specific returns or show equal treatment.",
+    "The Danish firm-adoption hiring slowdown remains an observational warning; neither study estimates an individual worker’s job prospects."
   ],
   "uncertainty": [
-    "The new Danish firm study is observational: adopters and non-adopters may differ in unmeasured ways despite pre-trend and industry comparisons.",
-    "The central-bank abstract reports 11% slower employment growth; the authors’ CEPR exposition reports a roughly 9% trend-relative gap. The full specification difference was not verified.",
-    "The Danish study covers surveyed private non-financial firms with at least 10 employees and ends September 2025; the small-adopter group employs less than 2% of Danish workers.",
-    "Yesterday’s Danish null is a different sample, adoption proxy, outcome and time window, not a replication of this study."
+    "The Danish firm comparison is observational and its central-bank abstract and author account report different growth-gap figures (11% versus roughly 9%).",
+    "The London experiment measures fictitious applicants’ interview invitations in selected 2025 private-sector non-degree vacancies, not actual hires or pay.",
+    "The pooled certificate result varies across identity-signal experiments; the race-specific improvement is not statistically significant.",
+    "The experiment has no general digital-skills comparison or majority-group applicant with the AI certificate, so it cannot isolate AI-specific returns or equal treatment."
   ],
-  "checked_at": "2026-10-08T07:08:00Z",
-  "meaningfully_updated_at": "2026-10-08T07:08:00Z",
-  "freshness_note": "Checked 8 October 2026. Added an overlooked Danish working paper through its central-bank abstract and new author exposition; one underlying study, observational."
+  "checked_at": "2026-10-09T07:28:00Z",
+  "meaningfully_updated_at": "2026-10-09T07:28:00Z",
+  "freshness_note": "Checked 9 October 2026. Added a London field experiment on interview shortlisting; the Danish hiring finding and its limits remain."
 }
