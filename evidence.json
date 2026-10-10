@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:edworkingpapers-ai-college-framing-2026",
+      "source_type": "Annenberg Institute EdWorkingPaper 26-1604, full survey experiment",
+      "source_url": "https://edworkingpapers.com/sites/default/files/ai26-1604.pdf",
+      "title": "Early Evidence on Employer Responses to College Student Use of Generative AI",
+      "claim": "Randomly framing student AI use as replacing effort lowered U.S. hiring professionals’ stated interview and salary-negotiation ratings for hypothetical graduates; no actual hiring or pay was measured.",
+      "accessed_at": "2026-10-10T07:04:57Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:iza-drydakis-ai-skills-screening-2026",
       "source_type": "IZA@LISER working paper, full field experiment",
       "source_url": "https://docs.iza.org/dp18964.pdf",

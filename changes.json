@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-10-hiring-beliefs-survey",
+      "changed_at": "2026-10-10T07:04:57Z",
+      "summary": "A randomized U.S. survey shows that a strong warning about student AI use lowered hiring professionals’ ratings of hypothetical graduates; it measured neither actual hires nor wages.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-10-hiring-beliefs-survey"
+    },
+    {
       "change_id": "2026-10-09-ai-credential-shortlisting",
       "changed_at": "2026-10-09T07:28:00Z",
       "summary": "A London matched-application experiment found a pooled interview-invitation lift from an AI-related certificate for underrepresented women, but not parity, hiring or wage gains.",

@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "AI is linked to slower hiring at some small Danish firms, but the observational study does not show AI-caused layoffs. A separate London field experiment finds that adding a sector-specific AI-related certificate to fictitious applications raised interview invitations for underrepresented women from 11.1% to 14.2% across four pooled experiments; majority-group women without that certificate received 25.0%. That is a measured shortlisting response, not a job offer, a wage gain or proof an AI course pays off. The study cannot separate AI-specific competence from broader digital literacy. Neither finding predicts an individual worker’s prospects.",
+  "current_answer": "A new U.S. survey experiment found that a warning about students using AI instead of learning made hiring professionals rate recent graduates less favorably, especially high-GPA applicants. Those were hypothetical ratings, not interviews, hires or wages. A separate London field test found more interview invitations when some applicants signalled an AI-related certificate, but no job or pay outcome. Danish firm records still link reported AI adoption to slower hiring at some small firms; they do not establish AI-caused layoffs. Evidence for an individual worker remains limited by the population, stage and comparison each study actually measures.",
   "catalogue_card": {
-    "question": "Does an AI-skills certificate get you hired?",
-    "text": "In a London field test, the certificate raised interview invitations for underrepresented women, but a large gap remained. No hires or wages were measured."
+    "question": "Can student AI use hurt a job application?",
+    "text": "A U.S. experiment found a warning about AI replacing student effort lowered hiring managers’ survey ratings. It did not measure real interviews or jobs."
   },
   "summary": [
-    "A London matched-application experiment found interview invitations for 14.2% of underrepresented women’s applications with an AI-related certificate versus 11.1% with a nondigital certificate, pooled across four identity-signal experiments.",
-    "Majority-group applicants without that certificate received invitations for 25.0%; the experiment cannot isolate AI-specific returns or show equal treatment.",
-    "The Danish firm-adoption hiring slowdown remains an observational warning; neither study estimates an individual worker’s job prospects."
+    "In a randomized U.S. survey, a strong warning about student AI use reduced hiring professionals’ ratings of hypothetical recent graduates, especially high-GPA applicants.",
+    "The study tested a belief frame, not actual employer decisions, completed hires or wages.",
+    "A London field test measured interview invitations from an AI-related credential, while Danish firm records link reported adoption to slower hiring at some small firms; neither predicts one worker’s prospects."
   ],
   "uncertainty": [
-    "The Danish firm comparison is observational and its central-bank abstract and author account report different growth-gap figures (11% versus roughly 9%).",
-    "The London experiment measures fictitious applicants’ interview invitations in selected 2025 private-sector non-degree vacancies, not actual hires or pay.",
-    "The pooled certificate result varies across identity-signal experiments; the race-specific improvement is not statistically significant.",
-    "The experiment has no general digital-skills comparison or majority-group applicant with the AI certificate, so it cannot isolate AI-specific returns or equal treatment."
+    "The new U.S. framing experiment measured stated responses to hypothetical resumes, not real hiring or pay.",
+    "Its Prolific sample is selected and cannot establish how common the tested beliefs are among employers.",
+    "The London credential experiment measures invitations, not completed hires, wages or the return from buying a course.",
+    "The Danish firm comparison is observational and its publisher abstract and author account report different growth-gap figures (11% versus roughly 9%)."
   ],
-  "checked_at": "2026-10-09T07:28:00Z",
-  "meaningfully_updated_at": "2026-10-09T07:28:00Z",
-  "freshness_note": "Checked 9 October 2026. Added a London field experiment on interview shortlisting; the Danish hiring finding and its limits remain."
+  "checked_at": "2026-10-10T07:04:57Z",
+  "meaningfully_updated_at": "2026-10-10T07:04:57Z",
+  "freshness_note": "Checked 10 October 2026. Added a U.S. survey experiment on employer ratings; real hiring and pay effects remain unmeasured."
 }
