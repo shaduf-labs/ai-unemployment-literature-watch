@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:nber-copilot-hiring-2026",
+      "source_type": "NBER Summer Institute conference abstract; full study not accessed",
+      "source_url": "https://www.nber.org/conferences/si-2026-labor-studies",
+      "title": "AI-Assisted Programming and Labor Demand",
+      "claim": "Among firms induced to adopt GitHub Copilot by contract renewal, the authors estimate about 35% lower technical-worker hiring within one year and no increase in separations; full methods unverified.",
+      "accessed_at": "2026-10-11T07:08:09Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:wiley-copilot-hiring-2026",
+      "source_type": "Peer-reviewed article abstract; full text and proprietary data not accessed",
+      "source_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/coep.70035",
+      "title": "Firms' GitHub Copilot adoption and labor market outcomes for software engineers",
+      "claim": "Copilot adoption is associated with a 3–5% higher monthly probability of hiring a software engineer, driven by entry-level hires; this is not hiring volume.",
+      "accessed_at": "2026-10-11T07:08:09Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:fed-task-use-2026",
+      "source_type": "Federal Reserve Bank of St. Louis author summary of working paper",
+      "source_url": "https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do",
+      "title": "What Work Does Generative AI Do?",
+      "claim": "U.S. work use reached 45% of workers by May 2026, while fewer than 3% of surveyed tasks had AI-use rates over 50%; no labor outcome measured.",
+      "accessed_at": "2026-10-11T07:08:09Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:edworkingpapers-ai-college-framing-2026",
       "source_type": "Annenberg Institute EdWorkingPaper 26-1604, full survey experiment",
       "source_url": "https://edworkingpapers.com/sites/default/files/ai26-1604.pdf",

@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A new U.S. survey experiment found that a warning about students using AI instead of learning made hiring professionals rate recent graduates less favorably, especially high-GPA applicants. Those were hypothetical ratings, not interviews, hires or wages. A separate London field test found more interview invitations when some applicants signalled an AI-related certificate, but no job or pay outcome. Danish firm records still link reported AI adoption to slower hiring at some small firms; they do not establish AI-caused layoffs. Evidence for an individual worker remains limited by the population, stage and comparison each study actually measures.",
+  "current_answer": "Two studies of GitHub Copilot and hiring point in different directions. A 2026 NBER conference abstract estimates about 35% fewer technical-worker hires within a year among large firms induced to adopt by software-contract renewal, with no matching rise in separations. An April journal paper using LinkedIn and GitHub records associates adoption with a 3–5% higher monthly probability of hiring a software engineer, mainly at entry level. They count different outcomes in different firms; neither figure is a forecast for one worker or proof of an economy-wide job effect.",
   "catalogue_card": {
-    "question": "Can student AI use hurt a job application?",
-    "text": "A U.S. experiment found a warning about AI replacing student effort lowered hiring managers’ survey ratings. It did not measure real interviews or jobs."
+    "question": "Does Copilot cut software hiring?",
+    "text": "One conference estimate finds fewer technical hires after adoption; another study links adoption to a higher chance of any software-engineer hire. Different measures, no personal forecast."
   },
   "summary": [
-    "In a randomized U.S. survey, a strong warning about student AI use reduced hiring professionals’ ratings of hypothetical recent graduates, especially high-GPA applicants.",
-    "The study tested a belief frame, not actual employer decisions, completed hires or wages.",
-    "A London field test measured interview invitations from an AI-related credential, while Danish firm records link reported adoption to slower hiring at some small firms; neither predicts one worker’s prospects."
+    "An NBER 2026 conference abstract estimates about 35% fewer technical hires among large firms induced to adopt GitHub Copilot by contract-renewal timing, without a rise in separations.",
+    "A separate April journal abstract associates adoption with a 3–5% higher monthly probability of a software-engineer hire, driven by entry-level hiring.",
+    "These are different samples and outcomes; the full studies were not accessible here, so a shared causal or economy-wide verdict is not justified."
   ],
   "uncertainty": [
-    "The new U.S. framing experiment measured stated responses to hypothetical resumes, not real hiring or pay.",
-    "Its Prolific sample is selected and cannot establish how common the tested beliefs are among employers.",
-    "The London credential experiment measures invitations, not completed hires, wages or the return from buying a course.",
-    "The Danish firm comparison is observational and its publisher abstract and author account report different growth-gap figures (11% versus roughly 9%)."
+    "The 35% estimate is available here only in an NBER conference abstract; the full paper, slides, precision and robustness checks were not accessible for this run.",
+    "The 3–5% result measures the probability that a firm hires a software engineer in a month, not the number of hires; its full article and proprietary data were not accessible.",
+    "Different samples, adoption definitions, hiring outcomes and research designs prevent treating the estimates as a direct replication or averaging them.",
+    "Neither study supplies an economy-wide effect, worker wages, or an individual job-risk probability."
   ],
-  "checked_at": "2026-10-10T07:04:57Z",
-  "meaningfully_updated_at": "2026-10-10T07:04:57Z",
-  "freshness_note": "Checked 10 October 2026. Added a U.S. survey experiment on employer ratings; real hiring and pay effects remain unmeasured."
+  "checked_at": "2026-10-11T07:08:09Z",
+  "meaningfully_updated_at": "2026-10-11T07:08:09Z",
+  "freshness_note": "Checked 11 October 2026. Added two previously uncatalogued Copilot hiring studies; their denominators and designs differ, and both full methods remain to be checked."
 }
