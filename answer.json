@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Two studies of GitHub Copilot and hiring point in different directions. A 2026 NBER conference abstract estimates about 35% fewer technical-worker hires within a year among large firms induced to adopt by software-contract renewal, with no matching rise in separations. An April journal paper using LinkedIn and GitHub records associates adoption with a 3–5% higher monthly probability of hiring a software engineer, mainly at entry level. They count different outcomes in different firms; neither figure is a forecast for one worker or proof of an economy-wide job effect.",
+  "current_answer": "Evidence on observed AI-related hiring remains mixed and narrow. Two Copilot studies point in different directions but measure different hiring outcomes. A newly reviewed U.S. working paper adds a separate risk: 6.1 million workers in its covered occupations have both high AI task exposure and low average capacity to manage a job transition if displaced. That is a conditional vulnerability estimate, not 6.1 million AI job losses or an individual forecast.",
   "catalogue_card": {
-    "question": "Does Copilot cut software hiring?",
-    "text": "One conference estimate finds fewer technical hires after adoption; another study links adoption to a higher chance of any software-engineer hire. Different measures, no personal forecast."
+    "question": "Who could struggle to recover if AI cuts jobs?",
+    "text": "A U.S. study puts 6.1 million workers in high-exposure occupations with low average capacity to manage a job transition. It measures vulnerability, not layoffs."
   },
   "summary": [
-    "An NBER 2026 conference abstract estimates about 35% fewer technical hires among large firms induced to adopt GitHub Copilot by contract-renewal timing, without a rise in separations.",
-    "A separate April journal abstract associates adoption with a 3–5% higher monthly probability of a software-engineer hire, driven by entry-level hiring.",
-    "These are different samples and outcomes; the full studies were not accessible here, so a shared causal or economy-wide verdict is not justified."
+    "A U.S. working paper identifies 6.1 million workers in high-AI-exposure occupations with low average transition capacity; no AI-caused layoffs were counted.",
+    "The Copilot hiring studies still point in different directions because they count total hires and hiring incidence in different firm samples.",
+    "Neither the vulnerability map nor the hiring studies predict one worker’s future."
   ],
   "uncertainty": [
-    "The 35% estimate is available here only in an NBER conference abstract; the full paper, slides, precision and robustness checks were not accessible for this run.",
-    "The 3–5% result measures the probability that a firm hires a software engineer in a month, not the number of hires; its full article and proprietary data were not accessible.",
-    "Different samples, adoption definitions, hiring outcomes and research designs prevent treating the estimates as a direct replication or averaging them.",
-    "Neither study supplies an economy-wide effect, worker wages, or an individual job-risk probability."
+    "The Copilot studies use different firm samples and hiring denominators; neither establishes an economy-wide effect.",
+    "The adaptive-capacity study combines occupation-level exposure and transition proxies, not observed AI layoffs or realized reemployment.",
+    "Occupation averages conceal individual circumstances; future demand may change the ranking."
   ],
-  "checked_at": "2026-10-11T07:08:09Z",
-  "meaningfully_updated_at": "2026-10-11T07:08:09Z",
-  "freshness_note": "Checked 11 October 2026. Added two previously uncatalogued Copilot hiring studies; their denominators and designs differ, and both full methods remain to be checked."
+  "checked_at": "2026-10-12T07:13:00Z",
+  "meaningfully_updated_at": "2026-10-12T07:13:00Z",
+  "freshness_note": "Checked 12 October 2026. Added an overlooked conditional vulnerability study; the observed hiring conclusion did not reverse."
 }

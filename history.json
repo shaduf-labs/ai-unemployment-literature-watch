@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:06fcb882-653b-4fa6-9dab-8b220b3f86a5",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-12T07:00:00Z",
+      "completed_at": "2026-10-12T07:15:30Z",
+      "title": "6.1 million workers have low capacity to recover if AI displaces them",
+      "summary": "An occupation-level U.S. study adds a conditional vulnerability map, not a new count of layoffs or a personal forecast.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-12-adaptive-capacity",
+      "entrypoint": "research/2026-10-12-adaptive-capacity/index.html"
+    },
+    {
       "run_id": "run:9ba10f6c-a81e-4dcf-a425-31972e0979f5",
       "status": "completed",
       "answer_change": "meaningful_change",

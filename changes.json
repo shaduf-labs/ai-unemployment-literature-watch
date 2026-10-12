@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-12-adaptive-capacity",
+      "changed_at": "2026-10-12T07:13:00Z",
+      "summary": "Added a conditional vulnerability estimate: 6.1 million U.S. workers in high-exposure occupations have low average transition capacity, but the study observes no AI-caused layoffs or reemployment outcomes.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-12-adaptive-capacity"
+    },
+    {
       "change_id": "2026-10-11-copilot-hiring-split",
       "changed_at": "2026-10-11T07:08:09Z",
       "summary": "Added opposing Copilot hiring signals: a conference estimate of fewer technical hires after induced adoption and a journal association with higher monthly incidence of software-engineer hiring. They count different outcomes and do not settle net jobs.",

@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:adaptive-capacity-nber",
+      "source_type": "NBER working paper abstract and author exposition of the same study",
+      "source_url": "https://www.nber.org/papers/w34705",
+      "title": "How Adaptable Are American Workers to AI-Induced Job Displacement?",
+      "claim": "6.1 million workers in covered U.S. occupations have both high AI task exposure and low occupation-average adaptive capacity; this is not an observed layoff count.",
+      "accessed_at": "2026-10-12T07:13:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:nber-copilot-hiring-2026",
       "source_type": "NBER Summer Institute conference abstract; full study not accessed",
       "source_url": "https://www.nber.org/conferences/si-2026-labor-studies",
