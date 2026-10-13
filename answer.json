@@ -3,20 +3,22 @@
   "status": "current",
   "current_answer": "Evidence on observed AI-related hiring remains mixed and narrow. Two Copilot studies point in different directions but measure different hiring outcomes. A newly reviewed U.S. working paper adds a separate risk: 6.1 million workers in its covered occupations have both high AI task exposure and low average capacity to manage a job transition if displaced. That is a conditional vulnerability estimate, not 6.1 million AI job losses or an individual forecast.",
   "catalogue_card": {
-    "question": "Who could struggle to recover if AI cuts jobs?",
-    "text": "A U.S. study puts 6.1 million workers in high-exposure occupations with low average capacity to manage a job transition. It measures vulnerability, not layoffs."
+    "question": "Do AI-skill job ads show jobs being cut?",
+    "text": "A new German journal version reports no link between AI-skill ad share and establishment employment growth through 2023. It is not a test of today’s generative-AI job losses."
   },
   "summary": [
     "A U.S. working paper identifies 6.1 million workers in high-AI-exposure occupations with low average transition capacity; no AI-caused layoffs were counted.",
     "The Copilot hiring studies still point in different directions because they count total hires and hiring incidence in different firm samples.",
-    "Neither the vulnerability map nor the hiring studies predict one worker’s future."
+    "Neither the vulnerability map nor the hiring studies predict one worker’s future.",
+    "A German linked-ad study reports no employment-growth association through 2023; the full journal version was not accessible for checking its changed skill-group result."
   ],
   "uncertainty": [
     "The Copilot studies use different firm samples and hiring denominators; neither establishes an economy-wide effect.",
     "The adaptive-capacity study combines occupation-level exposure and transition proxies, not observed AI layoffs or realized reemployment.",
-    "Occupation averages conceal individual circumstances; future demand may change the ranking."
+    "Occupation averages conceal individual circumstances; future demand may change the ranking.",
+    "A new German journal abstract covers mostly pre-generative-AI adoption; its full methods were not accessible."
   ],
-  "checked_at": "2026-10-12T07:13:00Z",
+  "checked_at": "2026-10-13T07:11:00Z",
   "meaningfully_updated_at": "2026-10-12T07:13:00Z",
-  "freshness_note": "Checked 12 October 2026. Added an overlooked conditional vulnerability study; the observed hiring conclusion did not reverse."
+  "freshness_note": "Checked 13 October 2026. A German study’s journal version and a U.S. retrospective AI-use analysis do not change the current hiring or displacement conclusion."
 }

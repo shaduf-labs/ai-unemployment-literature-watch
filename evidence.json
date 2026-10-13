@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:german-ai-skills-journal-2026",
+      "source_type": "Labour Economics journal pre-proof abstract; full article fetch blocked",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0927537126001260",
+      "title": "Artificial intelligence technologies, skills demand and employment: Evidence from linked job ads",
+      "claim": "German AI-related vacancy share was not associated with total or skill-group employment growth in the 2015–2023 data, according to the 2026 abstract.",
+      "accessed_at": "2026-10-13T07:11:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:german-ai-skills-iab-2024",
+      "source_type": "IAB working-paper abstract; earlier version of the same study",
+      "source_url": "https://iab.de/en/publications/publication/?id=14321662",
+      "title": "Artificial intelligence technologies, skills demand and employment: evidence from linked job ads data",
+      "claim": "The 2024 abstract reported slightly higher employment growth for highly skilled jobs; it is not an independent replication of the journal version.",
+      "accessed_at": "2026-10-13T07:11:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bea-ai-utilization-2026",
+      "source_type": "U.S. BEA working paper, full PDF",
+      "source_url": "https://www.bea.gov/sites/default/files/papers/bea-wp2026-18.pdf",
+      "title": "AI Utilization and Economic Performance",
+      "claim": "Later worker-reported AI use was associated with positive but imprecise prior employment differences; retrospective timing does not identify an AI-caused effect.",
+      "accessed_at": "2026-10-13T07:11:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:adaptive-capacity-nber",
       "source_type": "NBER working paper abstract and author exposition of the same study",
       "source_url": "https://www.nber.org/papers/w34705",
