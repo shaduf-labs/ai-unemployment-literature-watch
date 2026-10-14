@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-14-us-sector-exposure",
+      "changed_at": "2026-10-14T07:05:44Z",
+      "summary": "A U.S. sector study finds higher relative employment where AI could assist tasks through 2024, but it measures exposure rather than employer use and does not settle AI-caused job loss.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-14-us-sector-exposure"
+    },
+    {
       "change_id": "2026-10-13-german-ai-skills-check",
       "changed_at": "2026-10-13T07:11:00Z",
       "summary": "Checked a German AI-skill-ad study’s 2026 journal version against its 2024 draft and a U.S. AI-use study. No new job-loss verdict: the German abstract reports no employment-growth link in its 2015–2023 window.",

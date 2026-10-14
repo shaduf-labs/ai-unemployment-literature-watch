@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-78de77ba66fb0e313006a8a8",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-14T07:00:00Z",
+      "completed_at": "2026-10-14T07:06:59Z",
+      "title": "Sector employment rose where AI could assist tasks, but use was unobserved",
+      "summary": "A U.S. sector study adds a bounded exposure-based counterpoint; the current hiring and displacement answer does not change.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-14-us-sector-exposure",
+      "entrypoint": "research/2026-10-14-us-sector-exposure/index.html"
+    },
+    {
       "run_id": "report-17ff2c692a698df1bedf9240",
       "status": "completed",
       "answer_change": "no_meaningful_change",
