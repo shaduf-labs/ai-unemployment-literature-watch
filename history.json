@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "runs": [
     {
-      "run_id": "run:71fc1e18-d26c-4387-b3f9-9e84547cc423",
+      "run_id": "report-17ff2c692a698df1bedf9240",
       "status": "completed",
       "answer_change": "no_meaningful_change",
       "started_at": "2026-10-13T07:00:00Z",
@@ -13,7 +13,7 @@
       "entrypoint": "research/2026-10-13-german-ai-skills-check/index.html"
     },
     {
-      "run_id": "run:06fcb882-653b-4fa6-9dab-8b220b3f86a5",
+      "run_id": "report-d4d1adda1d0cfaf67d433f67",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-12T07:00:00Z",
@@ -24,7 +24,7 @@
       "entrypoint": "research/2026-10-12-adaptive-capacity/index.html"
     },
     {
-      "run_id": "run:9ba10f6c-a81e-4dcf-a425-31972e0979f5",
+      "run_id": "report-0b0ebb9b546a3d200ac77ffc",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-11T07:00:00Z",
@@ -35,7 +35,7 @@
       "entrypoint": "research/2026-10-11-copilot-hiring-split/index.html"
     },
     {
-      "run_id": "run:d7f17ea9-d583-4ec2-b40e-2473fea4fe1e",
+      "run_id": "report-9e785e1d2fa672fef17530db",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-10T07:00:00Z",
@@ -46,7 +46,7 @@
       "entrypoint": "research/2026-10-10-hiring-beliefs-survey/index.html"
     },
     {
-      "run_id": "run:af1c240a-6db2-4615-97a2-5087ebec2a15",
+      "run_id": "report-4db2d0959839df79964203ea",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-09T07:00:00Z",
@@ -57,7 +57,7 @@
       "entrypoint": "research/2026-10-09-ai-credential-shortlisting/index.html"
     },
     {
-      "run_id": "run:a8e56d49-a1bb-408a-a9b0-9c3837f77e5c",
+      "run_id": "report-8f15680ee5219870b4758632",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-08T07:00:00Z",
@@ -68,7 +68,7 @@
       "entrypoint": "research/2026-10-08-denmark-ai-adoption-hiring/index.html"
     },
     {
-      "run_id": "run:ebab87ed-911e-4fb7-a96e-e9552eb6ce06",
+      "run_id": "report-351d3fdd7f16019b837ff372",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-07T07:00:00Z",
@@ -79,7 +79,7 @@
       "entrypoint": "research/2026-10-07-danish-adoption-entry/index.html"
     },
     {
-      "run_id": "run:6e456e31-3aed-4fd1-97dc-15d27b424e5d",
+      "run_id": "report-53647d5edc45eeaad40549ca",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-06T07:00:00Z",
@@ -90,7 +90,7 @@
       "entrypoint": "research/2026-10-06-factory-ai-skill-ads/index.html"
     },
     {
-      "run_id": "run:1fbee2c5-9801-4efb-bfb3-36abf384caf7",
+      "run_id": "report-fe8006ce87f2e2234a16f17d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-05T07:00:00Z",
@@ -101,7 +101,7 @@
       "entrypoint": "research/2026-10-05-posting-task-change/index.html"
     },
     {
-      "run_id": "run:8e0ffa97-8439-416e-8592-a2a5e7652e81",
+      "run_id": "report-e51b395306d8663c2f12bb7c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-04T07:00:00Z",
@@ -112,7 +112,7 @@
       "entrypoint": "research/2026-10-04-startup-jobs-accounting/index.html"
     },
     {
-      "run_id": "run:e1afebf3-a2f7-4595-9609-b54f241aeb03",
+      "run_id": "report-3ed57bfa7c3c87e5654d5704",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-03T07:00:00Z",
@@ -123,7 +123,7 @@
       "entrypoint": "research/2026-10-03-startup-entry-counter-signal/index.html"
     },
     {
-      "run_id": "run:e1e2455e-bf58-46eb-8e9d-c412a0a5f4bd",
+      "run_id": "report-ff4682ac1a86fabbb2942d61",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-02T07:00:00Z",
@@ -134,7 +134,7 @@
       "entrypoint": "research/2026-10-02-exposure-adoption-gap/index.html"
     },
     {
-      "run_id": "run:a4647e26-9fad-44de-935e-1c55d6d116cb",
+      "run_id": "report-dde39ff4b0de0cd307174409",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-01T09:59:00Z",
@@ -145,7 +145,7 @@
       "entrypoint": "research/2026-10-01-junior-software-vacancies/index.html"
     },
     {
-      "run_id": "run:45f2b086-888c-4b81-bfc9-a0e7b74ca511",
+      "run_id": "report-22cbaa371a13ab95052ad2b4",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-30T07:00:00Z",
@@ -156,7 +156,7 @@
       "entrypoint": "research/2026-09-30-platform-exposure-bias/index.html"
     },
     {
-      "run_id": "run:dc963c69-7551-497f-bf2f-37326d1b8602",
+      "run_id": "report-f2f55ac550c28c5843099903",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-29T07:00:00Z",
@@ -167,7 +167,7 @@
       "entrypoint": "research/2026-09-29-ai-written-pitches-screening/index.html"
     },
     {
-      "run_id": "run:4316585d-6d1d-41e2-9052-9508d38cd2bd",
+      "run_id": "report-73169ce063a972544de581ff",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-28T07:00:00Z",
@@ -178,7 +178,7 @@
       "entrypoint": "research/2026-09-28-exposed-work-pay-and-churn/index.html"
     },
     {
-      "run_id": "run:manual:2d2a91793add62774246fa15e694da1a",
+      "run_id": "report-5009f02774fe6d2b4af62906",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-27T15:47:00Z",
@@ -189,7 +189,7 @@
       "entrypoint": "research/2026-09-27-voice-ai-interviews/index.html"
     },
     {
-      "run_id": "run:44954678-a7b3-4ff2-889e-3f476a11cf12",
+      "run_id": "report-02171f9bfe976d6a788bae27",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-26T07:00:00.000Z",
@@ -200,7 +200,7 @@
       "entrypoint": "research/2026-09-26-evaluation-bottleneck-hiring/index.html"
     },
     {
-      "run_id": "run:3f88aa61-cc7a-4d1b-b0e4-34de25d6364c",
+      "run_id": "report-777abc9fd0c556020dbe0b4d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-25T07:00:00.000Z",
@@ -211,7 +211,7 @@
       "entrypoint": "research/2026-09-25-advertised-pay-and-entry-share/index.html"
     },
     {
-      "run_id": "run:051307cc-d6a0-4e75-8131-44ceb5ced642",
+      "run_id": "report-86760909142d1826d208710b",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-24T07:00:00.000Z",
@@ -222,7 +222,7 @@
       "entrypoint": "research/2026-09-24-texas-graduate-outcomes/index.html"
     },
     {
-      "run_id": "run:a00b9eaf-ad34-4cd9-af6c-0dd333e7da18",
+      "run_id": "report-6f405775bc9a0657f1b56ffa",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-23T07:00:00.000Z",
@@ -233,7 +233,7 @@
       "entrypoint": "research/2026-09-23-ai-adoption-junior-share/index.html"
     },
     {
-      "run_id": "run:ec6d749c-355b-4504-ac20-23ca9c780a9d",
+      "run_id": "report-5c26250d41355740acb6abfe",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-22T07:00:00.000Z",
@@ -244,7 +244,7 @@
       "entrypoint": "research/2026-09-22-broad-us-tracker/index.html"
     },
     {
-      "run_id": "run:3c9d6b07-d7e1-495c-bda2-de37c0e82499",
+      "run_id": "report-4e4ed7810ea987bbda7ab59c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-21T07:00:00.000Z",
@@ -255,7 +255,7 @@
       "entrypoint": "research/2026-09-21-ai-subsidy-hiring-test/index.html"
     },
     {
-      "run_id": "run:eb84b203-3a6f-4484-adfe-c9a3e32d1134",
+      "run_id": "report-af51de3bcb204cba9458c5b4",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-20T07:00:00.000Z",
@@ -266,7 +266,7 @@
       "entrypoint": "research/2026-09-20-cepr-scenario-boundary/index.html"
     },
     {
-      "run_id": "run:5aadf655-2f4d-492b-81b5-e0b726944065",
+      "run_id": "report-a38c9e14654dcd023eca2f48",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-19T07:00:00.000Z",
@@ -277,7 +277,7 @@
       "entrypoint": "research/2026-09-19-denmark-adoption-hiring/index.html"
     },
     {
-      "run_id": "run:4eadfbf6-a3bb-4bf4-80bf-fa38427966a7",
+      "run_id": "report-7e27a2a9fb6f16aa747e08d8",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-18T07:00:00.000Z",
@@ -288,7 +288,7 @@
       "entrypoint": "research/2026-09-18-graduate-unemployment-counter-signal/index.html"
     },
     {
-      "run_id": "run:2a3c0a34-f87e-40a2-ac4f-bfb0a60aadbc",
+      "run_id": "report-a21603aaa05bdb91b3fb186c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-17T07:00:00.000Z",
@@ -299,7 +299,7 @@
       "entrypoint": "research/2026-09-17-texas-postings-split/index.html"
     },
     {
-      "run_id": "run:9916b86f-5881-469e-af98-79a0596bce1e",
+      "run_id": "report-e2c5bf2b078ac3edf94f9525",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-16T07:00:00.000Z",
@@ -310,7 +310,7 @@
       "entrypoint": "research/2026-09-16-norway-counter-signal/index.html"
     },
     {
-      "run_id": "run:8b2c5b18-d99d-4adb-bb76-385fa4ef2ff1",
+      "run_id": "report-3b087934a3384290bb1e61fd",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-15T07:00:00Z",
@@ -321,7 +321,7 @@
       "entrypoint": "research/2026-09-15-actual-adoption-counterpoint/index.html"
     },
     {
-      "run_id": "run:manual:c7bd3f0cd184dfcf0407bff806f99720",
+      "run_id": "report-9da862c4666319ea716e1b97",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-14T10:00:18.779Z",
@@ -332,7 +332,7 @@
       "entrypoint": "research/2026-09-14-early-career-attribution/index.html"
     },
     {
-      "run_id": "run:f4a464a5-5115-4a5b-8d5e-f99402802961",
+      "run_id": "report-ac7148fc127d364194e2531b",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-14T07:00:00Z",
@@ -343,7 +343,7 @@
       "entrypoint": "research/2026-09-14-graduate-entry/index.html"
     },
     {
-      "run_id": "run:3d2461be-2cd4-4fe8-89aa-e76ef0d2a805",
+      "run_id": "report-3c851dceea465238a4bec3ca",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-13T07:00:00Z",
