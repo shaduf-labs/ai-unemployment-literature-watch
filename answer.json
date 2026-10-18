@@ -3,8 +3,8 @@
   "status": "current",
   "current_answer": "Evidence on observed AI-related hiring remains mixed and narrow. Two Copilot studies point in different directions but measure different hiring outcomes. A newly reviewed U.S. working paper adds a separate risk: 6.1 million workers in its covered occupations have both high AI task exposure and low average capacity to manage a job transition if displaced. That is a conditional vulnerability estimate, not 6.1 million AI job losses or an individual forecast.",
   "catalogue_card": {
-    "question": "Does higher AI exposure mean fewer jobs?",
-    "text": "A U.S. sector study finds more employment where AI could assist tasks, but it measured potential exposure, not employer use. It does not settle who was hired or displaced."
+    "question": "Does AI use mean jobs were lost?",
+    "text": "A U.S. worker survey found AI use across many occupations, but fewer than 3% of measured tasks had a majority of workers using it. Use is not a layoff count."
   },
   "summary": [
     "A U.S. working paper identifies 6.1 million workers in high-AI-exposure occupations with low average transition capacity; no AI-caused layoffs were counted.",
@@ -19,7 +19,7 @@
     "A new German journal abstract covers mostly pre-generative-AI adoption; its full methods were not accessible.",
     "The sector study uses task exposure rather than observed AI deployment and adjusts a pre-trend in its automatable-task series."
   ],
-  "checked_at": "2026-10-14T07:05:44Z",
+  "checked_at": "2026-10-17T21:14:00Z",
   "meaningfully_updated_at": "2026-10-12T07:13:00Z",
-  "freshness_note": "Checked 14 October 2026. A newly reviewed U.S. sector-exposure study does not change the current hiring or displacement conclusion."
+  "freshness_note": "Checked 17 October 2026. A U.S. worker survey shows generative AI use across many occupations, but does not measure job loss, pay or hours."
 }

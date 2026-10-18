@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:stlouisfed-task-adoption-2026",
+      "source_type": "Federal Reserve Bank of St. Louis working-paper abstract and author explanation; full PDF not accessed",
+      "source_url": "https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do",
+      "title": "What Work Does Generative AI Do?",
+      "claim": "In a U.S. worker survey, at least 20% of workers used generative AI in more than 80% of occupations, while fewer than 3% of measured tasks had majority use; no labor outcomes were estimated.",
+      "accessed_at": "2026-10-17T21:14:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:nber-phd-ai-writing-2026",
+      "source_type": "NBER Working Paper 35859 author abstract; full paper not accessed",
+      "source_url": "https://www.nber.org/papers/w35859",
+      "title": "How Heavily Are PhD Students Offloading Their Scientific Writing to AI? Evidence from US STEM PhD Dissertations",
+      "claim": "Detected AI writing appears in 29% of 2026 U.S. STEM PhD dissertations and is associated with different career paths within program and cohort; no causal job-loss inference.",
+      "accessed_at": "2026-10-16T07:22:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:cesifo-ai-output-employment-2026",
       "source_type": "CESifo working paper, full PDF",
       "source_url": "https://www.ifo.de/DocDL/cesifo1_wp12579.pdf",

@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-17-task-adoption",
+      "changed_at": "2026-10-17T21:14:00Z",
+      "summary": "A U.S. worker survey finds widespread but often shallow generative AI task use; it measures adoption, not job losses or wages.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-17-task-adoption"
+    },
+    {
+      "change_id": "2026-10-16-phd-writing-careers",
+      "changed_at": "2026-10-16T07:22:00Z",
+      "summary": "A U.S. STEM PhD study links detected AI writing with different post-degree career paths; the association does not show AI caused lost jobs.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-16-phd-writing-careers"
+    },
+    {
       "change_id": "2026-10-14-us-sector-exposure",
       "changed_at": "2026-10-14T07:05:44Z",
       "summary": "A U.S. sector study finds higher relative employment where AI could assist tasks through 2024, but it measures exposure rather than employer use and does not settle AI-caused job loss.",

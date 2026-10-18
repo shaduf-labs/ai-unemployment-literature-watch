@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-6578f68ad7af90eadc14ab1c",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-17T07:00:00Z",
+      "completed_at": "2026-10-17T21:14:00Z",
+      "title": "AI use reaches many jobs, but the survey did not count losses",
+      "summary": "A representative U.S. worker survey separates observed generative AI task use from job-loss claims.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-17-task-adoption",
+      "entrypoint": "research/2026-10-17-task-adoption/index.html"
+    },
+    {
+      "run_id": "report-2abb481c9e9a94b52e92fc20",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-16T07:00:00Z",
+      "completed_at": "2026-10-16T07:24:00Z",
+      "title": "AI-written dissertations track career paths, not lost jobs",
+      "summary": "A specialized U.S. doctoral association raises a training question but does not change the measured jobs answer.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-16-phd-writing-careers",
+      "entrypoint": "research/2026-10-16-phd-writing-careers/index.html"
+    },
+    {
       "run_id": "report-78de77ba66fb0e313006a8a8",
       "status": "completed",
       "answer_change": "no_meaningful_change",
