@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-18-task-performance-gap",
+      "changed_at": "2026-10-18T07:05:00Z",
+      "summary": "An Argentine randomized task test found a narrower education-based performance gap with AI access; it did not measure hiring, wages or job loss.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-18-task-performance-gap"
+    },
+    {
       "change_id": "2026-10-17-task-adoption",
       "changed_at": "2026-10-17T21:14:00Z",
       "summary": "A U.S. worker survey finds widespread but often shallow generative AI task use; it measures adoption, not job losses or wages.",

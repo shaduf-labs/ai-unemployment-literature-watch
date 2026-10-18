@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-040a25fb3891bc8b35ae1e24",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-18T07:00:00Z",
+      "completed_at": "2026-10-18T07:05:55Z",
+      "title": "AI narrowed a task-performance gap, not a job-offer gap",
+      "summary": "An Argentine randomized experiment tested task performance with AI access; no hiring or wage outcomes were measured.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-18-task-performance-gap",
+      "entrypoint": "research/2026-10-18-task-performance-gap/index.html"
+    },
+    {
       "run_id": "report-6578f68ad7af90eadc14ab1c",
       "status": "completed",
       "answer_change": "no_meaningful_change",

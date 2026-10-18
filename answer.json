@@ -3,23 +3,25 @@
   "status": "current",
   "current_answer": "Evidence on observed AI-related hiring remains mixed and narrow. Two Copilot studies point in different directions but measure different hiring outcomes. A newly reviewed U.S. working paper adds a separate risk: 6.1 million workers in its covered occupations have both high AI task exposure and low average capacity to manage a job transition if displaced. That is a conditional vulnerability estimate, not 6.1 million AI job losses or an individual forecast.",
   "catalogue_card": {
-    "question": "Does AI use mean jobs were lost?",
-    "text": "A U.S. worker survey found AI use across many occupations, but fewer than 3% of measured tasks had a majority of workers using it. Use is not a layoff count."
+    "question": "Did AI close a job gap?",
+    "text": "In a randomized Argentine task test, AI narrowed a performance gap by about three-quarters. The study measured no hiring or wages."
   },
   "summary": [
     "A U.S. working paper identifies 6.1 million workers in high-AI-exposure occupations with low average transition capacity; no AI-caused layoffs were counted.",
     "The Copilot hiring studies still point in different directions because they count total hires and hiring incidence in different firm samples.",
     "Neither the vulnerability map nor the hiring studies predict one worker’s future.",
-    "A March 2026 U.S. working paper finds roughly 4% higher relative sector employment with more augmentable-task exposure through 2024; AI use was not observed."
+    "A March 2026 U.S. working paper finds roughly 4% higher relative sector employment with more augmentable-task exposure through 2024; AI use was not observed.",
+    "A randomized Argentine task experiment found a narrower education-based performance gap with AI access, but no job or pay outcomes were measured."
   ],
   "uncertainty": [
     "The Copilot studies use different firm samples and hiring denominators; neither establishes an economy-wide effect.",
     "The adaptive-capacity study combines occupation-level exposure and transition proxies, not observed AI layoffs or realized reemployment.",
     "Occupation averages conceal individual circumstances; future demand may change the ranking.",
     "A new German journal abstract covers mostly pre-generative-AI adoption; its full methods were not accessible.",
-    "The sector study uses task exposure rather than observed AI deployment and adjusts a pre-trend in its automatable-task series."
+    "The sector study uses task exposure rather than observed AI deployment and adjusts a pre-trend in its automatable-task series.",
+    "The Argentine experiment took place outside workplaces and did not test actual job access or wages."
   ],
-  "checked_at": "2026-10-17T21:14:00Z",
+  "checked_at": "2026-10-18T07:05:00Z",
   "meaningfully_updated_at": "2026-10-12T07:13:00Z",
-  "freshness_note": "Checked 17 October 2026. A U.S. worker survey shows generative AI use across many occupations, but does not measure job loss, pay or hours."
+  "freshness_note": "Checked 18 October 2026. An Argentine randomized task experiment shows a narrower education-based performance gap with AI; it did not measure job offers or pay."
 }

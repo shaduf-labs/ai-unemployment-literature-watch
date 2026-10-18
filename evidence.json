@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:argentina-ai-education-task-gap-2026",
+      "source_type": "Preregistered randomized online experiment; full May 2026 arXiv paper",
+      "source_url": "https://arxiv.org/pdf/2608.04198",
+      "title": "Does generative AI narrow education-based productivity gaps?",
+      "claim": "Among 1,174 Argentine adults, randomized GPT-4.1 access narrowed an education-based task-performance gap from 0.548 to 0.139 standard deviations; no hiring or wage outcome was measured.",
+      "accessed_at": "2026-10-18T07:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:stlouisfed-task-adoption-2026",
       "source_type": "Federal Reserve Bank of St. Louis working-paper abstract and author explanation; full PDF not accessed",
       "source_url": "https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do",
