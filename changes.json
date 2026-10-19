@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-19-ai-skill-pay",
+      "changed_at": "2026-10-19T07:10:02Z",
+      "summary": "A Swedish matched-hire study finds a 5–6% AI-skill pay gap versus occupational peers, but no remaining gap within the same firm; it does not measure a return to chatbot training or AI-caused job loss.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-19-ai-skill-pay"
+    },
+    {
       "change_id": "2026-10-18-task-performance-gap",
       "changed_at": "2026-10-18T07:05:00Z",
       "summary": "An Argentine randomized task test found a narrower education-based performance gap with AI access; it did not measure hiring, wages or job loss.",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-b4518605f5b0721124e6fe84",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-19T07:00:00Z",
+      "completed_at": "2026-10-19T07:10:02Z",
+      "title": "AI-skill pay gap disappears within the same firm",
+      "summary": "A Swedish matched-hire study reports an AI-skill pay association explained by higher-paying firms, not a causal training return.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-19-ai-skill-pay",
+      "entrypoint": "research/2026-10-19-ai-skill-pay/index.html"
+    },
+    {
       "run_id": "report-040a25fb3891bc8b35ae1e24",
       "status": "completed",
       "answer_change": "no_meaningful_change",

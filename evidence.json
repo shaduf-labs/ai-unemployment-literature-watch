@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:sweden-ai-skills-firm-pay-2026",
+      "source_type": "Full October 2026 Swedish working paper; prior title Returns to AI skills",
+      "source_url": "https://cms.ratio.se/app/uploads/2026/10/ratio-working-paper-393-hellsten.pdf",
+      "title": "What is an AI worker? Evidence from Matched Vacancy-Hires",
+      "claim": "Swedish 2014–2023 external hires into AI-development or implementation roles earned about 5–6% more than occupational peers after basic controls, but the gap disappeared with firm fixed effects; ordinary chatbot use was excluded.",
+      "accessed_at": "2026-10-19T07:10:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:argentina-ai-education-task-gap-2026",
       "source_type": "Preregistered randomized online experiment; full May 2026 arXiv paper",
       "source_url": "https://arxiv.org/pdf/2608.04198",
