@@ -3,10 +3,11 @@
   "status": "current",
   "current_answer": "Evidence on observed AI-related hiring remains mixed and narrow. Two Copilot studies point in different directions but measure different hiring outcomes. A newly reviewed U.S. working paper adds a separate risk: 6.1 million workers in its covered occupations have both high AI task exposure and low average capacity to manage a job transition if displaced. That is a conditional vulnerability estimate, not 6.1 million AI job losses or an individual forecast.",
   "catalogue_card": {
-    "question": "Does an AI skill raise your pay?",
-    "text": "Swedish AI-skill hires earned about 5–6% more than occupational peers, but the gap vanished within the same firm. This is not a chatbot-training return."
+    "question": "Has AI caused a broad U.S. jobs shift?",
+    "text": "Yale’s 14 October tracker update finds no clear AI labor-market footprint in its broad checks. That does not settle narrower hiring risks or count AI-caused layoffs."
   },
   "summary": [
+    "Yale Budget Lab’s October update still finds no clear U.S. AI labor-market footprint in broad occupational, use and exposure checks; it does not settle narrower risks.",
     "A U.S. working paper identifies 6.1 million workers in high-AI-exposure occupations with low average transition capacity; no AI-caused layoffs were counted.",
     "The Copilot hiring studies still point in different directions because they count total hires and hiring incidence in different firm samples.",
     "Neither the vulnerability map nor the hiring studies predict one worker’s future.",
@@ -21,9 +22,10 @@
     "A new German journal abstract covers mostly pre-generative-AI adoption; its full methods were not accessible.",
     "The sector study uses task exposure rather than observed AI deployment and adjusts a pre-trend in its automatable-task series.",
     "The Argentine experiment took place outside workplaces and did not test actual job access or wages.",
-    "The Swedish AI-skill study covers 2014–2023 external hires and excludes ordinary chatbot use; its observational pay gap cannot identify a causal return to training."
+    "The Swedish AI-skill study covers 2014–2023 external hires and excludes ordinary chatbot use; its observational pay gap cannot identify a causal return to training.",
+    "The October tracker summary did not expose its full updated data vintage or detailed estimates in the page inspected."
   ],
-  "checked_at": "2026-10-19T07:10:02Z",
+  "checked_at": "2026-10-20T07:06:00Z",
   "meaningfully_updated_at": "2026-10-12T07:13:00Z",
-  "freshness_note": "Checked 19 October 2026. A Swedish matched-hire study finds an AI-skill pay association explained by employer sorting; it does not change the observed AI job-loss answer."
+  "freshness_note": "Checked 20 October 2026. Yale’s 14 October broad U.S. tracker update still reports no clear AI labor-market footprint; it does not change the narrower hiring or displacement answer."
 }

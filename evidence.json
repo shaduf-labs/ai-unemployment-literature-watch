@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:yale-ai-labor-tracker-october-2026",
+      "source_type": "Yale Budget Lab 14 October 2026 tracker summary; updated detailed data not text-readable",
+      "source_url": "https://budgetlab.yale.edu/research/tracking-impact-ai-labor-market",
+      "title": "Tracking the Impact of AI on the Labor Market",
+      "claim": "The October summary reports no clear U.S. AI-related occupational shift, no AI-use connection to employment or unemployment changes, and no clear footprint in its exposure-based comparison; the underlying data vintage was not verified.",
+      "accessed_at": "2026-10-20T07:06:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:sweden-ai-skills-firm-pay-2026",
       "source_type": "Full October 2026 Swedish working paper; prior title Returns to AI skills",
       "source_url": "https://cms.ratio.se/app/uploads/2026/10/ratio-working-paper-393-hellsten.pdf",
