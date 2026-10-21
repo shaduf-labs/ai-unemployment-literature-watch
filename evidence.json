@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:lift-france-hiring-2026",
+      "source_type": "Full LIFT HEC Paris working paper, October 2026",
+      "source_url": "https://heclift.github.io/website/files/papers/LIFT_WP_2026-02.pdf",
+      "title": "Exposition des métiers à l’IA générative, adoption par les entreprises et dynamiques du marché du travail en France",
+      "claim": "In metropolitan France private-sector records, young permanent hires declined 28.3% in the highest AI-exposure quintile versus 7.5% in the lowest from November 2022 to March 2026; contract endings also fell; causal AI attribution is not established.",
+      "accessed_at": "2026-10-21T07:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:lift-france-hiring-policy-2026",
+      "source_type": "Companion LIFT HEC Paris policy paper, same study as the full working paper",
+      "source_url": "https://heclift.github.io/website/files/papers/LIFT_PolicyPaper_2026-02.pdf",
+      "title": "IA générative : un gel des embauches de jeunes dans les métiers exposés",
+      "claim": "Reports exact 28.3% versus 7.5% young permanent-hire falls and 23% versus 6% contract-ending falls; this is a companion summary, not an independent replication.",
+      "accessed_at": "2026-10-21T07:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:anthropic-employment-2026",
+      "source_type": "Anthropic Institute internal technical report, October 2026",
+      "source_url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "title": "How employment is changing at Anthropic",
+      "claim": "Junior roles fell from 27% to 9% of technical hires during rapid growth; the report does not estimate AI-caused layoffs or economy-wide outcomes.",
+      "accessed_at": "2026-10-21T07:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:yale-ai-labor-tracker-october-2026",
       "source_type": "Yale Budget Lab 14 October 2026 tracker summary; updated detailed data not text-readable",
       "source_url": "https://budgetlab.yale.edu/research/tracking-impact-ai-labor-market",

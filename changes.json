@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-21-france-junior-hiring",
+      "changed_at": "2026-10-21T07:05:00Z",
+      "summary": "French young permanent hires fell faster in highly AI-exposed occupations, while endings also fell; an Anthropic internal report shows a lower junior share of technical hires. Neither establishes AI-caused layoffs.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-21-france-junior-hiring"
+    },
+    {
       "change_id": "2026-10-20-broad-us-tracker",
       "changed_at": "2026-10-20T07:06:00Z",
       "summary": "Yale’s 14 October broad U.S. tracker update still finds no clear AI labor-market footprint in its visible summary. It does not rule out narrower hiring changes.",
