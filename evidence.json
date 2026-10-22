@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:lambert-schindler-wfh-2026",
+      "source_type": "LSE Centre for Economic Performance discussion paper, June 2026",
+      "title": "The broken ladder: AI, remote work, and early-career hiring",
+      "source_url": "https://cep.lse.ac.uk/pubs/download/dp2193.pdf",
+      "claim": "In four-country resume and vacancy data through 2025, the GenAI-exposure association with lower junior hiring shares attenuates sharply after accounting for correlated remote-work exposure; neither cause is cleanly identified.",
+      "accessed_at": "2026-10-22T07:06:23Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:lift-france-hiring-2026",
       "source_type": "Full LIFT HEC Paris working paper, October 2026",
       "source_url": "https://heclift.github.io/website/files/papers/LIFT_WP_2026-02.pdf",

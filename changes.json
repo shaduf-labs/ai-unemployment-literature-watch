@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-22-remote-work-confound",
+      "changed_at": "2026-10-22T07:06:23Z",
+      "summary": "A four-country hiring study finds the AI-exposure link to a lower junior share weakens sharply when remote-work exposure is included. The newer French hiring gap remains unresolved.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-22-remote-work-confound"
+    },
+    {
       "change_id": "2026-10-21-france-junior-hiring",
       "changed_at": "2026-10-21T07:05:00Z",
       "summary": "French young permanent hires fell faster in highly AI-exposed occupations, while endings also fell; an Anthropic internal report shows a lower junior share of technical hires. Neither establishes AI-caused layoffs.",

@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A new French administrative-record study finds that permanent hires of 21–29-year-olds fell more in highly AI-exposed occupations than in less-exposed ones from November 2022 to March 2026; permanent-contract endings fell too. Anthropic reports a sharply smaller junior share of technical hires at its own growing firm. Neither study identifies how many jobs AI caused to disappear. Broad U.S. tracking still finds no clear economy-wide AI footprint, so the best-supported warning is concentrated entry friction, not proven mass unemployment.",
+  "current_answer": "Junior hiring has weakened in some AI-exposed work, but the cause is less certain than the headline. A four-country study of 2017–2025 hires and vacancies finds that the GenAI-exposure link to falling junior shares weakens sharply after accounting for remote-work exposure. Newer French administrative records still show a large entry-hiring gap through March 2026, and Anthropic reports a lower junior share of technical hires. None isolates how many jobs AI caused to disappear; broad U.S. tracking still finds no clear economy-wide footprint.",
   "catalogue_card": {
-    "question": "Are junior jobs already being cut by AI?",
-    "text": "French permanent hires of 21–29-year-olds fell 28.3% in the most AI-exposed occupations versus 7.5% in the least-exposed by March 2026. The gap is real; AI causation and layoffs are not established."
+    "question": "Did AI shrink the junior job ladder?",
+    "text": "Junior hiring fell in AI-exposed work, but a four-country study finds the apparent AI link weakens sharply after accounting for remote-work exposure. The later French hiring gap remains; AI-caused job loss is not established."
   },
   "summary": [
-    "French permanent hires of 21–29-year-olds fell 28.3% in the most AI-exposed occupations versus 7.5% in the least-exposed; contract endings also fell.",
-    "Anthropic reports junior roles fell from 27% to 9% of its technical hires while technical hiring grew in absolute terms.",
-    "Neither source identifies AI-caused job loss or predicts an individual outcome.",
-    "Yale’s broad U.S. tracker still finds no clear economy-wide AI labor-market footprint.",
-    "Yale Budget Lab’s October update still finds no clear U.S. AI labor-market footprint in broad occupational, use and exposure checks; it does not settle narrower risks.",
-    "A U.S. working paper identifies 6.1 million workers in high-AI-exposure occupations with low average transition capacity; no AI-caused layoffs were counted."
+    "A four-country study finds that GenAI exposure loses much of its association with falling junior hiring shares when remote-work exposure is included.",
+    "French permanent hires of 21–29-year-olds still fell faster in the most AI-exposed occupations through March 2026; that later result is not explained by the four-country study.",
+    "Anthropic reports a lower junior share of technical hires at its own expanding firm; this is not an economy-wide job-loss count.",
+    "Broad U.S. tracking still finds no clear economy-wide AI labor-market footprint."
   ],
   "uncertainty": [
+    "The remote-work study is observational and ends in 2025; it cannot rule out later or country-specific AI effects.",
     "The French analysis is descriptive and its flows do not measure age-by-occupation employment stocks.",
     "Anthropic is one rapidly growing firm reporting internal, non-audited records.",
     "The Copilot studies use different firm samples and hiring denominators; neither establishes an economy-wide effect.",
@@ -26,7 +25,7 @@
     "The Swedish AI-skill study covers 2014–2023 external hires and excludes ordinary chatbot use; its observational pay gap cannot identify a causal return to training.",
     "The October tracker summary did not expose its full updated data vintage or detailed estimates in the page inspected."
   ],
-  "checked_at": "2026-10-21T07:05:00Z",
-  "meaningfully_updated_at": "2026-10-21T07:05:00Z",
-  "freshness_note": "Checked 21 October 2026. French hiring-flow and Anthropic internal evidence sharpen the entry-level warning but do not establish AI-caused unemployment."
+  "checked_at": "2026-10-22T07:06:23Z",
+  "meaningfully_updated_at": "2026-10-22T07:06:23Z",
+  "freshness_note": "Checked 22 October 2026. Remote work is a strong competing explanation in a four-country hiring study through 2025; newer French hiring flows remain unresolved."
 }
