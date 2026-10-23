@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:adp-canaries-september-2026",
+      "source_type": "Stanford–ADP monthly payroll dashboard update, 21 October 2026",
+      "title": "Employment in AI-exposed occupations shrank in September",
+      "source_url": "https://www.adpresearch.com/research/canaries-dashboard-employment-in-ai-exposed-occupations-shrank-in-september",
+      "claim": "High-exposure occupations fell 0.5% year over year in September 2026 versus 1.0% growth in least-exposed occupations; the 22–25 split was −3.7% versus +0.2%, and the 26–30 split was −2.8% versus +0.9%.",
+      "accessed_at": "2026-10-23T07:03:51Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:stanford-canaries-method-2026",
+      "source_type": "Stanford Digital Economy Lab Canaries Dashboard methodology",
+      "title": "Canaries Dashboard",
+      "source_url": "https://digitaleconomy.stanford.edu/project/indicators/canaries-dashboard/",
+      "claim": "The five-year balanced ADP-firm panel is not nationally representative, excludes firm entry and exit, and measures occupational AI exposure rather than observed employer AI use.",
+      "accessed_at": "2026-10-23T07:03:51Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:iab-germany-entry-2026",
+      "source_type": "IAB analysis of German administrative full-time employment, 13 October 2026",
+      "title": "AI as a job killer for career starters? Cautious reassurance",
+      "source_url": "https://iab-forum.de/ki-als-jobkiller-fuer-berufseinsteiger-entwarnung-mit-vorbehalt/",
+      "claim": "German full-time employment in ages 20–29 fell 3.8% in high-exposure occupations versus 2.6% in lower-exposure occupations from 2022 to 2025; the adjusted AI-exposure association is negative but statistically not significant, while cyclical weakness is stronger.",
+      "accessed_at": "2026-10-23T07:06:05Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:lambert-schindler-wfh-2026",
       "source_type": "LSE Centre for Economic Performance discussion paper, June 2026",
       "title": "The broken ladder: AI, remote work, and early-career hiring",

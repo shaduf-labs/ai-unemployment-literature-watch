@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-23-canaries-september-payroll",
+      "changed_at": "2026-10-23T07:03:51Z",
+      "summary": "Stanford–ADP September payroll data show another year-over-year employment decline for young workers in high-AI-exposure occupations; the selected panel does not establish that AI caused it.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-23-canaries-september-payroll"
+    },
+    {
       "change_id": "2026-10-22-remote-work-confound",
       "changed_at": "2026-10-22T07:06:23Z",
       "summary": "A four-country hiring study finds the AI-exposure link to a lower junior share weakens sharply when remote-work exposure is included. The newer French hiring gap remains unresolved.",

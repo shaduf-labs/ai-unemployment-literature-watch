@@ -1,18 +1,21 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Junior hiring has weakened in some AI-exposed work, but the cause is less certain than the headline. A four-country study of 2017–2025 hires and vacancies finds that the GenAI-exposure link to falling junior shares weakens sharply after accounting for remote-work exposure. Newer French administrative records still show a large entry-hiring gap through March 2026, and Anthropic reports a lower junior share of technical hires. None isolates how many jobs AI caused to disappear; broad U.S. tracking still finds no clear economy-wide footprint.",
+  "current_answer": "U.S. employment in highly AI-exposed occupations weakened again in the Stanford–ADP September payroll update, especially among workers aged 22–30. In its selected firm panel, the high-exposure group fell 0.5% from a year earlier while the least-exposed grew 1.0%; among 22–25-year-olds, the split was −3.7% versus +0.2%. These are observed employment changes by occupation exposure, not AI-caused job losses. German full-time records through 2025 show only a small, statistically uncertain adjusted exposure link for ages 20–29. A four-country study finds remote work weakens the apparent AI link to falling junior hiring shares; newer French records still show an entry-hiring gap. Broad U.S. tracking finds no clear economy-wide AI footprint.",
   "catalogue_card": {
-    "question": "Did AI shrink the junior job ladder?",
-    "text": "Junior hiring fell in AI-exposed work, but a four-country study finds the apparent AI link weakens sharply after accounting for remote-work exposure. The later French hiring gap remains; AI-caused job loss is not established."
+    "question": "Are exposed young workers losing jobs now?",
+    "text": "In Stanford–ADP’s September U.S. payroll panel, employment fell 3.7% year over year for ages 22–25 in highly AI-exposed occupations, versus 0.2% growth in the least-exposed. It is a real group trend, not proof AI caused the loss."
   },
   "summary": [
-    "A four-country study finds that GenAI exposure loses much of its association with falling junior hiring shares when remote-work exposure is included.",
-    "French permanent hires of 21–29-year-olds still fell faster in the most AI-exposed occupations through March 2026; that later result is not explained by the four-country study.",
-    "Anthropic reports a lower junior share of technical hires at its own expanding firm; this is not an economy-wide job-loss count.",
-    "Broad U.S. tracking still finds no clear economy-wide AI labor-market footprint."
+    "The September Stanford–ADP payroll update shows a year-over-year employment decline of 3.7% among ages 22–25 in high-AI-exposure occupations versus 0.2% growth in the least-exposed.",
+    "The same high-versus-low comparison is −2.8% versus +0.9% for ages 26–30, and −0.5% versus +1.0% across all ages.",
+    "The selected firm panel measures occupation exposure, not employer AI adoption or AI-caused layoffs. Remote work remains a competing explanation for part of the junior-hiring pattern.",
+    "French permanent-hire flows show a later entry gap; Yale’s broad U.S. tracker still finds no clear economy-wide AI footprint. These sources count different things.",
+    "German full-time administrative records through 2025 show a much smaller, statistically uncertain adjusted young-worker exposure association; the sample and period differ from the U.S. panel."
   ],
   "uncertainty": [
+    "The Canaries September update uses a selected ADP firm panel, excludes firm entry and exit, and groups occupations by exposure rather than actual AI use; it is descriptive, not nationally representative or causal.",
+    "Germany’s full-time employee analysis ends in 2025, excludes several worker groups and uses occupation potential rather than actual AI adoption; its adjusted young-worker exposure estimate is not statistically significant.",
     "The remote-work study is observational and ends in 2025; it cannot rule out later or country-specific AI effects.",
     "The French analysis is descriptive and its flows do not measure age-by-occupation employment stocks.",
     "Anthropic is one rapidly growing firm reporting internal, non-audited records.",
@@ -25,7 +28,7 @@
     "The Swedish AI-skill study covers 2014–2023 external hires and excludes ordinary chatbot use; its observational pay gap cannot identify a causal return to training.",
     "The October tracker summary did not expose its full updated data vintage or detailed estimates in the page inspected."
   ],
-  "checked_at": "2026-10-22T07:06:23Z",
-  "meaningfully_updated_at": "2026-10-22T07:06:23Z",
-  "freshness_note": "Checked 22 October 2026. Remote work is a strong competing explanation in a four-country hiring study through 2025; newer French hiring flows remain unresolved."
+  "checked_at": "2026-10-23T07:06:05Z",
+  "meaningfully_updated_at": "2026-10-23T07:06:05Z",
+  "freshness_note": "Checked 23 October 2026. The September Stanford–ADP update extends a U.S. early-career warning; German full-time records through 2025 add a smaller, uncertain counterpoint. Neither isolates an AI effect."
 }
