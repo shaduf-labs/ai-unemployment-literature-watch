@@ -1,12 +1,13 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "U.S. employment in highly AI-exposed occupations weakened again in the Stanford–ADP September payroll update, especially among workers aged 22–30. In its selected firm panel, the high-exposure group fell 0.5% from a year earlier while the least-exposed grew 1.0%; among 22–25-year-olds, the split was −3.7% versus +0.2%. These are observed employment changes by occupation exposure, not AI-caused job losses. German full-time records through 2025 show only a small, statistically uncertain adjusted exposure link for ages 20–29. A four-country study finds remote work weakens the apparent AI link to falling junior hiring shares; newer French records still show an entry-hiring gap. Broad U.S. tracking finds no clear economy-wide AI footprint.",
+  "current_answer": "U.S. employment in highly AI-exposed occupations weakened again in the Stanford–ADP September payroll update, especially among workers aged 22–30. In its selected firm panel, the high-exposure group fell 0.5% from a year earlier while the least-exposed grew 1.0%; among 22–25-year-olds, the split was −3.7% versus +0.2%. These are observed employment changes by occupation exposure, not AI-caused job losses. German full-time records through 2025 show only a small, statistically uncertain adjusted exposure link for ages 20–29. A four-country study finds remote work weakens the apparent AI link to falling junior hiring shares; newer French records still show an entry-hiring gap. Broad U.S. tracking finds no clear economy-wide AI footprint. A randomized U.S. survey experiment found that a message framing student AI use as replacing learning made hiring professionals rate fictional graduates less favorably, especially high-GPA applicants. It does not show actual callbacks or wages fell.",
   "catalogue_card": {
-    "question": "Are exposed young workers losing jobs now?",
-    "text": "In Stanford–ADP’s September U.S. payroll panel, employment fell 3.7% year over year for ages 22–25 in highly AI-exposed occupations, versus 0.2% growth in the least-exposed. It is a real group trend, not proof AI caused the loss."
+    "question": "Could AI make employers doubt new graduates?",
+    "text": "In a U.S. hiring survey experiment, a warning that students used AI instead of learning lowered stated interest in interviewing fictional graduates. No real hiring or pay was measured."
   },
   "summary": [
+    "A randomized hiring-vignette study found that framing student AI use as replacing learning lowered stated interview and salary-negotiation ratings for fictional U.S. graduates; it did not observe real hiring.",
     "The September Stanford–ADP payroll update shows a year-over-year employment decline of 3.7% among ages 22–25 in high-AI-exposure occupations versus 0.2% growth in the least-exposed.",
     "The same high-versus-low comparison is −2.8% versus +0.9% for ages 26–30, and −0.5% versus +1.0% across all ages.",
     "The selected firm panel measures occupation exposure, not employer AI adoption or AI-caused layoffs. Remote work remains a competing explanation for part of the junior-hiring pattern.",
@@ -26,9 +27,10 @@
     "The sector study uses task exposure rather than observed AI deployment and adjusts a pre-trend in its automatable-task series.",
     "The Argentine experiment took place outside workplaces and did not test actual job access or wages.",
     "The Swedish AI-skill study covers 2014–2023 external hires and excludes ordinary chatbot use; its observational pay gap cannot identify a causal return to training.",
-    "The October tracker summary did not expose its full updated data vintage or detailed estimates in the page inspected."
+    "The October tracker summary did not expose its full updated data vintage or detailed estimates in the page inspected.",
+    "The new hiring-vignette finding concerns opt-in professionals’ hypothetical ratings, not actual callbacks, pay or student AI use."
   ],
-  "checked_at": "2026-10-23T07:06:05Z",
-  "meaningfully_updated_at": "2026-10-23T07:06:05Z",
-  "freshness_note": "Checked 23 October 2026. The September Stanford–ADP update extends a U.S. early-career warning; German full-time records through 2025 add a smaller, uncertain counterpoint. Neither isolates an AI effect."
+  "checked_at": "2026-10-24T07:05:30Z",
+  "meaningfully_updated_at": "2026-10-24T07:05:30Z",
+  "freshness_note": "Checked 24 October 2026. A U.S. hiring-framing experiment adds a possible credential-trust mechanism, not an observed labor-market effect; the September payroll warning and its causal limits remain."
 }

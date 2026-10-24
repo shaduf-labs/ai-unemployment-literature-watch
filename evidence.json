@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:ai-student-hiring-framing-2026",
+      "source_type": "Annenberg Institute EdWorkingPaper 26-1604, October 2026",
+      "title": "Early Evidence on Employer Responses to College Student Use of Generative AI",
+      "source_url": "https://edworkingpapers.com/sites/default/files/ai26-1604.pdf",
+      "claim": "A randomized AI-as-substitute message reduced stated interview and salary-negotiation ratings for constructed recent-graduate resumes, especially high-GPA applicants; no real hiring was observed.",
+      "accessed_at": "2026-10-24T07:05:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:adp-canaries-september-2026",
       "source_type": "Stanford–ADP monthly payroll dashboard update, 21 October 2026",
       "title": "Employment in AI-exposed occupations shrank in September",
