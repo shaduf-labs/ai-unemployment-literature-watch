@@ -1,12 +1,13 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "U.S. employment in highly AI-exposed occupations weakened again in the Stanford–ADP September payroll update, especially among workers aged 22–30. In its selected firm panel, the high-exposure group fell 0.5% from a year earlier while the least-exposed grew 1.0%; among 22–25-year-olds, the split was −3.7% versus +0.2%. These are observed employment changes by occupation exposure, not AI-caused job losses. German full-time records through 2025 show only a small, statistically uncertain adjusted exposure link for ages 20–29. A four-country study finds remote work weakens the apparent AI link to falling junior hiring shares; newer French records still show an entry-hiring gap. Broad U.S. tracking finds no clear economy-wide AI footprint. A randomized U.S. survey experiment found that a message framing student AI use as replacing learning made hiring professionals rate fictional graduates less favorably, especially high-GPA applicants. It does not show actual callbacks or wages fell.",
+  "current_answer": "U.S. employment in highly AI-exposed occupations weakened again in the Stanford–ADP September payroll update, especially among workers aged 22–30. In its selected firm panel, the high-exposure group fell 0.5% from a year earlier while the least-exposed grew 1.0%; among 22–25-year-olds, the split was −3.7% versus +0.2%. These are observed employment changes by occupation exposure, not AI-caused job losses. German full-time records through 2025 show only a small, statistically uncertain adjusted exposure link for ages 20–29. A four-country study finds remote work weakens the apparent AI link to falling junior hiring shares; newer French records still show an entry-hiring gap. Broad U.S. tracking finds no clear economy-wide AI footprint. A randomized U.S. survey experiment found that a message framing student AI use as replacing learning made hiring professionals rate fictional graduates less favorably, especially high-GPA applicants. It does not show actual callbacks or wages fell. A new U.S. job-ad analysis finds more duty statements classified as new tasks in AI-using occupations, but ads cannot establish new jobs or wages earned.",
   "catalogue_card": {
-    "question": "Could AI make employers doubt new graduates?",
-    "text": "In a U.S. hiring survey experiment, a warning that students used AI instead of learning lowered stated interest in interviewing fictional graduates. No real hiring or pay was measured."
+    "question": "Are AI job ads showing new work?",
+    "text": "In the most AI-using U.S. occupations, newly classified duties rose from under 1% of job-ad statements in 2022 to nearly 3% in 2026. Ads cannot show jobs created."
   },
   "summary": [
+    "Newly classified duties in U.S. job ads increased in high-AI-use occupations, but a duty statement is not a completed hire or a new job.",
     "A randomized hiring-vignette study found that framing student AI use as replacing learning lowered stated interview and salary-negotiation ratings for fictional U.S. graduates; it did not observe real hiring.",
     "The September Stanford–ADP payroll update shows a year-over-year employment decline of 3.7% among ages 22–25 in high-AI-exposure occupations versus 0.2% growth in the least-exposed.",
     "The same high-versus-low comparison is −2.8% versus +0.9% for ages 26–30, and −0.5% versus +1.0% across all ages.",
@@ -28,9 +29,10 @@
     "The Argentine experiment took place outside workplaces and did not test actual job access or wages.",
     "The Swedish AI-skill study covers 2014–2023 external hires and excludes ordinary chatbot use; its observational pay gap cannot identify a causal return to training.",
     "The October tracker summary did not expose its full updated data vintage or detailed estimates in the page inspected.",
-    "The new hiring-vignette finding concerns opt-in professionals’ hypothetical ratings, not actual callbacks, pay or student AI use."
+    "The new hiring-vignette finding concerns opt-in professionals’ hypothetical ratings, not actual callbacks, pay or student AI use.",
+    "Only the October new-duty paper’s abstract was accessible; the full classifier tests and sampling detail were not verified, and postings do not show realized work or pay."
   ],
-  "checked_at": "2026-10-24T07:05:30Z",
-  "meaningfully_updated_at": "2026-10-24T07:05:30Z",
-  "freshness_note": "Checked 24 October 2026. A U.S. hiring-framing experiment adds a possible credential-trust mechanism, not an observed labor-market effect; the September payroll warning and its causal limits remain."
+  "checked_at": "2026-10-25T07:07:50Z",
+  "meaningfully_updated_at": "2026-10-25T07:07:50Z",
+  "freshness_note": "Checked 25 October 2026. A U.S. posting study adds a bounded task-change signal; the selected payroll decline remains the strongest current employment warning, not proof of an AI cause."
 }

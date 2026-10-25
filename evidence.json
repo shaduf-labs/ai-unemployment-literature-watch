@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:harris-new-work-duty-statements-2026",
+      "source_type": "SSRN working-paper abstract, revised 15 October 2026",
+      "title": "The New Work of Generative AI: Evidence from 18 Million Duty Statements in US Job Postings",
+      "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7608062",
+      "claim": "In the highest-AI-use third of occupations, statements classified as new tasks rose from under 1% in 2022 to nearly 3% in 2026; the abstract does not measure jobs created.",
+      "accessed_at": "2026-10-25T07:07:50Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:ai-student-hiring-framing-2026",
       "source_type": "Annenberg Institute EdWorkingPaper 26-1604, October 2026",
       "title": "Early Evidence on Employer Responses to College Student Use of Generative AI",

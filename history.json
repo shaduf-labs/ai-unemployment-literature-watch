@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-64fb0bb2b334229d245ba232",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-25T07:00:00Z",
+      "completed_at": "2026-10-25T07:08:30Z",
+      "title": "New AI duties in job ads are not new jobs",
+      "summary": "A U.S. posting study finds more newly classified duties in AI-using occupations; the accessible abstract cannot establish hiring or pay gains.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-25-new-duties-in-job-ads",
+      "entrypoint": "research/2026-10-25-new-duties-in-job-ads/index.html"
+    },
+    {
       "run_id": "report-ad552397f8cb35a99e864145",
       "status": "completed",
       "answer_change": "meaningful_change",

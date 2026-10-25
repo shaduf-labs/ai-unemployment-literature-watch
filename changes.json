@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-25-new-duties-in-job-ads",
+      "changed_at": "2026-10-25T07:07:50Z",
+      "summary": "New duties classified in U.S. job-ad statements rose in high-AI-use occupations; this does not count hires, jobs created or pay received.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-25-new-duties-in-job-ads"
+    },
+    {
       "change_id": "2026-10-24-student-ai-hiring-signal",
       "changed_at": "2026-10-24T07:05:30Z",
       "summary": "A U.S. survey experiment found that an AI-as-substitute message lowered hiring professionals’ ratings of fictional graduates. It did not measure actual hiring or pay.",
