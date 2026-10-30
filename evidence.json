@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:spain-ieb-exposure-unemployment-2026",
+      "source_type": "IEB Working Paper 2026/17, October version",
+      "title": "AI Exposure and Registered Unemployment in Spain",
+      "source_url": "https://ieb.ub.edu/wp-content/uploads/2026/09/Doc2026-17_Act_ok.pdf",
+      "claim": "Among 502 Spanish occupations, 10 percentage points higher AI exposure is associated with 1.2% more registered unemployed workers in November 2022–November 2024; the later 1.7% estimate is imprecise. No persistent new-contract decline appears.",
+      "accessed_at": "2026-10-30T10:42:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:spain-fedea-exposure-employment-2026",
+      "source_type": "FEDEA and BBVA Research labor-market bulletin",
+      "title": "Observatorio Trimestral del Mercado de Trabajo, no. 18",
+      "source_url": "https://documentos.fedea.net/documento/ap2026-22/texto",
+      "claim": "Spanish employment grew in all potential AI-exposure quartiles through 2025. This is a different exposure, outcome and design, not a direct test of the IEB registered-unemployment gradient.",
+      "accessed_at": "2026-10-30T10:42:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:firm-data-ai-oct2026",
       "source_type": "NBER Working Paper 34836, October 2026 revision",
       "title": "Firm Data on AI",

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-30-spain-registered-unemployment",
+      "changed_at": "2026-10-30T10:42:00Z",
+      "summary": "A Spanish occupation-level study finds a small exposure-linked increase in registered unemployment without a persistent new-contract decline; AI causation and the inflow-versus-duration mechanism remain unproven.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-30-spain-registered-unemployment"
+    },
+    {
       "change_id": "2026-10-29-firm-ai-employment-survey",
       "changed_at": "2026-10-29T07:09:35.611Z",
       "summary": "An October-revised survey of nearly 9,000 executives in seven countries reports little net AI-related firm employment change to date but substantial expected firm-level shifts. Both figures rely on executive reports; future shifts are forecasts.",

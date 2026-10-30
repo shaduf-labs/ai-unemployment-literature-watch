@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A revised survey of nearly 9,000 executives in seven countries reports essentially no net AI effect on their firms’ employment over the past three years. More than 40% expect AI to raise or lower their own firm’s employment over the next three years, with those expectations roughly cancelling in the aggregate. These are executives’ retrospective attributions and forecasts, not audited job counts or causal estimates. The counterpoint does not erase U.S. payroll declines among young workers in highly AI-exposed occupations: in the selected Stanford–ADP September panel, employment for ages 22–25 fell 3.7% from a year earlier versus 0.2% growth in the least-exposed occupations. That comparison measures exposure, not employer AI use. German full-time data through 2025 show a smaller, statistically uncertain adjusted young-worker link; a four-country study finds remote work weakens the apparent AI link to lower junior hiring shares. French permanent-hire flows show a later entry gap, while Yale’s broad U.S. tracker has not found a clear economy-wide AI footprint. Pew also finds slower U.S. employment growth for women than men as occupation AI exposure rises, especially without bachelor’s degrees; AI causation is not established. A Swedish matched-hire study finds an AI-skill pay gap explained by higher-paying firms, while U.S. job ads describe more new AI-related duties without proving jobs were created. None of these studies can predict an individual worker’s outcome.",
+  "current_answer": "A Spanish working paper comparing 502 occupations reports 1.2% more registered unemployed workers for each 10-percentage-point higher AI exposure from November 2022 to November 2024. Its later estimate is 1.7% but statistically uncertain; new-contract counts show no persistent exposure gradient. The study measures an occupation-level association, not AI-caused layoffs or Spain’s unemployment rate. A separate Spanish employment analysis finds growth across all exposure groups through 2025, which is not the same outcome or design. U.S. early-career payroll data still show a sharper warning in a selected panel; Yale’s broad U.S. tracker finds no clear economy-wide AI footprint. A seven-country executive survey reports little net AI-attributed firm employment change so far, while respondents anticipate divergent future effects. Different countries, populations and measures cannot be combined into one job-loss count or a personal forecast.",
   "catalogue_card": {
-    "question": "Did AI already cut jobs at most firms?",
-    "text": "In a revised seven-country executive survey, respondents report little net AI-related employment change so far, but more than 40% expect their own firm to gain or lose jobs from AI. These are reports and forecasts, not audited job counts."
+    "question": "Is AI-linked unemployment rising in Spain?",
+    "text": "A study of Spanish occupations finds a small exposure-linked rise in registered unemployment, but no persistent drop in new contracts. It cannot show that workplace AI caused job loss."
   },
   "summary": [
+    "A Spanish occupation-level study finds a small rise in registered unemployment where AI exposure is higher, but no persistent fall in new contracts. The comparison does not show that employer AI use caused job loss.",
+    "A separate Spanish analysis finds employment growth in all exposure groups through 2025; it uses a different measure and outcome, so it does not directly refute the unemployment finding.",
     "A revised seven-country survey of nearly 9,000 senior executives reports little net firm-employment impact attributed to AI so far; more than 40% forecast a positive or negative effect at their firm.",
     "Pew finds slower U.S. employment growth for women than men in more AI-exposed occupations, concentrated among workers without bachelor’s degrees; the comparison is not causal.",
     "Newly classified duties in U.S. job ads increased in high-AI-use occupations, but a duty statement is not a completed hire or a new job.",
     "A randomized hiring-vignette study found that framing student AI use as replacing learning lowered stated interview and salary-negotiation ratings for fictional U.S. graduates; it did not observe real hiring.",
     "The September Stanford–ADP payroll update shows a year-over-year employment decline of 3.7% among ages 22–25 in high-AI-exposure occupations versus 0.2% growth in the least-exposed.",
-    "The same high-versus-low comparison is −2.8% versus +0.9% for ages 26–30, and −0.5% versus +1.0% across all ages.",
-    "The selected firm panel measures occupation exposure, not employer AI adoption or AI-caused layoffs. Remote work remains a competing explanation for part of the junior-hiring pattern.",
-    "French permanent-hire flows show a later entry gap; Yale’s broad U.S. tracker still finds no clear economy-wide AI footprint. These sources count different things.",
-    "German full-time administrative records through 2025 show a much smaller, statistically uncertain adjusted young-worker exposure association; the sample and period differ from the U.S. panel."
+    "The same high-versus-low comparison is −2.8% versus +0.9% for ages 26–30, and −0.5% versus +1.0% across all ages."
   ],
   "uncertainty": [
+    "Spain’s new gradient uses registered-unemployment counts, not unemployment rates; the full pre-treatment test rejects, the later estimate is imprecise, and the exposure score is not observed Spanish employer use.",
     "The revised seven-country firm survey relies on senior executives’ own reports of AI’s past effects and their expectations for the next three years. Its abstract reports a near-zero aggregate net effect, which can conceal firm-level gains and losses; the full revised paper was not accessible through the browser.",
     "The Canaries September update uses a selected ADP firm panel, excludes firm entry and exit, and groups occupations by exposure rather than actual AI use; it is descriptive, not nationally representative or causal.",
     "Germany’s full-time employee analysis ends in 2025, excludes several worker groups and uses occupation potential rather than actual AI adoption; its adjusted young-worker exposure estimate is not statistically significant.",
@@ -36,7 +36,7 @@
     "Only the October new-duty paper’s abstract was accessible; the full classifier tests and sampling detail were not verified, and postings do not show realized work or pay.",
     "Pew’s pre/post CPS comparison uses occupational task exposure, not employer AI adoption, and may reflect other changes."
   ],
-  "checked_at": "2026-10-29T07:09:35.611Z",
-  "meaningfully_updated_at": "2026-10-29T07:09:35.611Z",
-  "freshness_note": "Checked 29 October 2026. The revised firm survey adds a broad counterpoint without settling worker-level risks or causation."
+  "checked_at": "2026-10-30T10:42:00Z",
+  "meaningfully_updated_at": "2026-10-30T10:42:00Z",
+  "freshness_note": "Checked 30 October 2026. A Spanish occupation-level study adds a measured unemployment warning, not a causal AI job-loss count."
 }
