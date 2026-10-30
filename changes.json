@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-29-firm-ai-employment-survey",
+      "changed_at": "2026-10-29T07:09:35.611Z",
+      "summary": "An October-revised survey of nearly 9,000 executives in seven countries reports little net AI-related firm employment change to date but substantial expected firm-level shifts. Both figures rely on executive reports; future shifts are forecasts.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-29-firm-ai-employment-survey"
+    },
+    {
       "change_id": "2026-10-28-exposure-gender-gap",
       "changed_at": "2026-10-28T07:12:00Z",
       "summary": "Pew finds slower U.S. employment growth for women than men as AI task exposure rises, concentrated among workers without bachelor’s degrees; exposure does not prove AI caused the gap.",

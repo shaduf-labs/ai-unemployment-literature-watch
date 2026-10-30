@@ -1,12 +1,13 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "U.S. employment in highly AI-exposed occupations weakened again in the Stanford–ADP September payroll update, especially among workers aged 22–30. In its selected firm panel, the high-exposure group fell 0.5% from a year earlier while the least-exposed grew 1.0%; among 22–25-year-olds, the split was −3.7% versus +0.2%. These are observed employment changes by occupation exposure, not AI-caused job losses. German full-time records through 2025 show only a small, statistically uncertain adjusted exposure link for ages 20–29. A four-country study finds remote work weakens the apparent AI link to falling junior hiring shares; newer French records still show an entry-hiring gap. Broad U.S. tracking finds no clear economy-wide AI footprint. A randomized U.S. survey experiment found that a message framing student AI use as replacing learning made hiring professionals rate fictional graduates less favorably, especially high-GPA applicants. It does not show actual callbacks or wages fell. A new U.S. job-ad analysis finds more duty statements classified as new tasks in AI-using occupations, but ads cannot establish new jobs or wages earned. A new Pew U.S. employment analysis finds a within-occupation gender gap that widens with AI task exposure, especially for workers without bachelor’s degrees. This is not evidence that AI caused the gap.",
+  "current_answer": "A revised survey of nearly 9,000 executives in seven countries reports essentially no net AI effect on their firms’ employment over the past three years. More than 40% expect AI to raise or lower their own firm’s employment over the next three years, with those expectations roughly cancelling in the aggregate. These are executives’ retrospective attributions and forecasts, not audited job counts or causal estimates. The counterpoint does not erase U.S. payroll declines among young workers in highly AI-exposed occupations: in the selected Stanford–ADP September panel, employment for ages 22–25 fell 3.7% from a year earlier versus 0.2% growth in the least-exposed occupations. That comparison measures exposure, not employer AI use. German full-time data through 2025 show a smaller, statistically uncertain adjusted young-worker link; a four-country study finds remote work weakens the apparent AI link to lower junior hiring shares. French permanent-hire flows show a later entry gap, while Yale’s broad U.S. tracker has not found a clear economy-wide AI footprint. Pew also finds slower U.S. employment growth for women than men as occupation AI exposure rises, especially without bachelor’s degrees; AI causation is not established. A Swedish matched-hire study finds an AI-skill pay gap explained by higher-paying firms, while U.S. job ads describe more new AI-related duties without proving jobs were created. None of these studies can predict an individual worker’s outcome.",
   "catalogue_card": {
-    "question": "Is AI-exposed work growing equally for women and men?",
-    "text": "A U.S. occupation analysis finds slower employment growth for women than men as AI task exposure rises, especially without a bachelor’s degree. It cannot isolate AI as the cause."
+    "question": "Did AI already cut jobs at most firms?",
+    "text": "In a revised seven-country executive survey, respondents report little net AI-related employment change so far, but more than 40% expect their own firm to gain or lose jobs from AI. These are reports and forecasts, not audited job counts."
   },
   "summary": [
+    "A revised seven-country survey of nearly 9,000 senior executives reports little net firm-employment impact attributed to AI so far; more than 40% forecast a positive or negative effect at their firm.",
     "Pew finds slower U.S. employment growth for women than men in more AI-exposed occupations, concentrated among workers without bachelor’s degrees; the comparison is not causal.",
     "Newly classified duties in U.S. job ads increased in high-AI-use occupations, but a duty statement is not a completed hire or a new job.",
     "A randomized hiring-vignette study found that framing student AI use as replacing learning lowered stated interview and salary-negotiation ratings for fictional U.S. graduates; it did not observe real hiring.",
@@ -17,6 +18,7 @@
     "German full-time administrative records through 2025 show a much smaller, statistically uncertain adjusted young-worker exposure association; the sample and period differ from the U.S. panel."
   ],
   "uncertainty": [
+    "The revised seven-country firm survey relies on senior executives’ own reports of AI’s past effects and their expectations for the next three years. Its abstract reports a near-zero aggregate net effect, which can conceal firm-level gains and losses; the full revised paper was not accessible through the browser.",
     "The Canaries September update uses a selected ADP firm panel, excludes firm entry and exit, and groups occupations by exposure rather than actual AI use; it is descriptive, not nationally representative or causal.",
     "Germany’s full-time employee analysis ends in 2025, excludes several worker groups and uses occupation potential rather than actual AI adoption; its adjusted young-worker exposure estimate is not statistically significant.",
     "The remote-work study is observational and ends in 2025; it cannot rule out later or country-specific AI effects.",
@@ -34,7 +36,7 @@
     "Only the October new-duty paper’s abstract was accessible; the full classifier tests and sampling detail were not verified, and postings do not show realized work or pay.",
     "Pew’s pre/post CPS comparison uses occupational task exposure, not employer AI adoption, and may reflect other changes."
   ],
-  "checked_at": "2026-10-28T07:12:00Z",
-  "meaningfully_updated_at": "2026-10-28T07:12:00Z",
-  "freshness_note": "Checked 28 October 2026. New subgroup evidence changes the scope of the answer; AI causation remains unproven."
+  "checked_at": "2026-10-29T07:09:35.611Z",
+  "meaningfully_updated_at": "2026-10-29T07:09:35.611Z",
+  "freshness_note": "Checked 29 October 2026. The revised firm survey adds a broad counterpoint without settling worker-level risks or causation."
 }

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-1ba60a8f1e2caea9112f817f",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-29T07:00:00Z",
+      "completed_at": "2026-10-29T07:12:45.082Z",
+      "title": "Executives report little net AI job change so far",
+      "summary": "A revised seven-country firm survey adds self-reported past effects and forecasts that need separate interpretation.",
+      "report_path": "/p/ai-unemployment-literature-watch/research/2026-10-29-firm-ai-employment-survey",
+      "entrypoint": "research/2026-10-29-firm-ai-employment-survey/index.html"
+    },
+    {
       "run_id": "report-251ade30cb4d5c5db5a38fcc",
       "status": "completed",
       "answer_change": "meaningful_change",
