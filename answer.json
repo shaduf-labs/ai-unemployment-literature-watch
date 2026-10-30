@@ -1,12 +1,13 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "U.S. employment in highly AI-exposed occupations weakened again in the Stanford–ADP September payroll update, especially among workers aged 22–30. In its selected firm panel, the high-exposure group fell 0.5% from a year earlier while the least-exposed grew 1.0%; among 22–25-year-olds, the split was −3.7% versus +0.2%. These are observed employment changes by occupation exposure, not AI-caused job losses. German full-time records through 2025 show only a small, statistically uncertain adjusted exposure link for ages 20–29. A four-country study finds remote work weakens the apparent AI link to falling junior hiring shares; newer French records still show an entry-hiring gap. Broad U.S. tracking finds no clear economy-wide AI footprint. A randomized U.S. survey experiment found that a message framing student AI use as replacing learning made hiring professionals rate fictional graduates less favorably, especially high-GPA applicants. It does not show actual callbacks or wages fell. A new U.S. job-ad analysis finds more duty statements classified as new tasks in AI-using occupations, but ads cannot establish new jobs or wages earned.",
+  "current_answer": "U.S. employment in highly AI-exposed occupations weakened again in the Stanford–ADP September payroll update, especially among workers aged 22–30. In its selected firm panel, the high-exposure group fell 0.5% from a year earlier while the least-exposed grew 1.0%; among 22–25-year-olds, the split was −3.7% versus +0.2%. These are observed employment changes by occupation exposure, not AI-caused job losses. German full-time records through 2025 show only a small, statistically uncertain adjusted exposure link for ages 20–29. A four-country study finds remote work weakens the apparent AI link to falling junior hiring shares; newer French records still show an entry-hiring gap. Broad U.S. tracking finds no clear economy-wide AI footprint. A randomized U.S. survey experiment found that a message framing student AI use as replacing learning made hiring professionals rate fictional graduates less favorably, especially high-GPA applicants. It does not show actual callbacks or wages fell. A new U.S. job-ad analysis finds more duty statements classified as new tasks in AI-using occupations, but ads cannot establish new jobs or wages earned. A new Pew U.S. employment analysis finds a within-occupation gender gap that widens with AI task exposure, especially for workers without bachelor’s degrees. This is not evidence that AI caused the gap.",
   "catalogue_card": {
-    "question": "Are AI job ads showing new work?",
-    "text": "In the most AI-using U.S. occupations, newly classified duties rose from under 1% of job-ad statements in 2022 to nearly 3% in 2026. Ads cannot show jobs created."
+    "question": "Is AI-exposed work growing equally for women and men?",
+    "text": "A U.S. occupation analysis finds slower employment growth for women than men as AI task exposure rises, especially without a bachelor’s degree. It cannot isolate AI as the cause."
   },
   "summary": [
+    "Pew finds slower U.S. employment growth for women than men in more AI-exposed occupations, concentrated among workers without bachelor’s degrees; the comparison is not causal.",
     "Newly classified duties in U.S. job ads increased in high-AI-use occupations, but a duty statement is not a completed hire or a new job.",
     "A randomized hiring-vignette study found that framing student AI use as replacing learning lowered stated interview and salary-negotiation ratings for fictional U.S. graduates; it did not observe real hiring.",
     "The September Stanford–ADP payroll update shows a year-over-year employment decline of 3.7% among ages 22–25 in high-AI-exposure occupations versus 0.2% growth in the least-exposed.",
@@ -30,9 +31,10 @@
     "The Swedish AI-skill study covers 2014–2023 external hires and excludes ordinary chatbot use; its observational pay gap cannot identify a causal return to training.",
     "The October tracker summary did not expose its full updated data vintage or detailed estimates in the page inspected.",
     "The new hiring-vignette finding concerns opt-in professionals’ hypothetical ratings, not actual callbacks, pay or student AI use.",
-    "Only the October new-duty paper’s abstract was accessible; the full classifier tests and sampling detail were not verified, and postings do not show realized work or pay."
+    "Only the October new-duty paper’s abstract was accessible; the full classifier tests and sampling detail were not verified, and postings do not show realized work or pay.",
+    "Pew’s pre/post CPS comparison uses occupational task exposure, not employer AI adoption, and may reflect other changes."
   ],
-  "checked_at": "2026-10-25T07:07:50Z",
-  "meaningfully_updated_at": "2026-10-25T07:07:50Z",
-  "freshness_note": "Checked 25 October 2026. A U.S. posting study adds a bounded task-change signal; the selected payroll decline remains the strongest current employment warning, not proof of an AI cause."
+  "checked_at": "2026-10-28T07:12:00Z",
+  "meaningfully_updated_at": "2026-10-28T07:12:00Z",
+  "freshness_note": "Checked 28 October 2026. New subgroup evidence changes the scope of the answer; AI causation remains unproven."
 }

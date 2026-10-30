@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:pew-ai-exposure-gender-2026",
+      "source_type": "Pew Research Center analysis of CPS employment and O*NET task scores",
+      "title": "Men Are Experiencing More Job Growth Than Women in AI-Exposed Occupations",
+      "source_url": "https://www.pewresearch.org/short-reads/2026/10/22/men-are-experiencing-more-job-growth-than-women-in-ai-exposed-occupations/",
+      "claim": "Within 480 U.S. occupations, the gender gap in employment growth widens as task-based AI exposure rises, especially among workers without a bachelor’s degree.",
+      "accessed_at": "2026-10-28T07:12:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:pew-ai-exposure-gender-method-2026",
+      "source_type": "Pew Research Center technical appendix",
+      "title": "AI work gender analysis: Technical Appendix",
+      "source_url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/10/SR_26.10.22_ai-work-gender_appendix.pdf",
+      "claim": "The pre/post regression uses occupation-year-sex employment counts and a task-exposure score; it does not measure adoption or isolate AI causation.",
+      "accessed_at": "2026-10-28T07:12:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:harris-new-work-duty-statements-2026",
       "source_type": "SSRN working-paper abstract, revised 15 October 2026",
       "title": "The New Work of Generative AI: Evidence from 18 Million Duty Statements in US Job Postings",
