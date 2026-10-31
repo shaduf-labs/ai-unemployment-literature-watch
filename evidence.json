@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:norway-ai-labor-market-index-2026",
+      "source_type": "Norwegian research dashboard, October 2026 release",
+      "title": "The AI Labor Market Index",
+      "source_url": "https://kiindeksen.no/en/the-index.html",
+      "claim": "Private-sector employment through July 2026 differed by +1.5 percentage points between most and least AI-exposed occupation fifths for ages 21–60 (standard error 2.7); the ages 21–30 gap was −0.8 points (standard error 4.0).",
+      "accessed_at": "2026-10-31T07:04:09Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:norway-hernas-kostol-paper-2026",
+      "source_type": "RFBerlin discussion paper 179/26",
+      "title": "Has AI Widened Employment Gaps?",
+      "source_url": "https://www.rfberlin.com/wp-content/uploads/2026/07/26179.pdf",
+      "claim": "The authors’ June paper describes the Norwegian employer-register method through February 2026; the October dashboard is a later vintage of the same research, not an independent replication.",
+      "accessed_at": "2026-10-31T07:04:09Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:spain-ieb-exposure-unemployment-2026",
       "source_type": "IEB Working Paper 2026/17, October version",
       "title": "AI Exposure and Registered Unemployment in Spain",

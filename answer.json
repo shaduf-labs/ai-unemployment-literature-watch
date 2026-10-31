@@ -1,12 +1,13 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A Spanish working paper comparing 502 occupations reports 1.2% more registered unemployed workers for each 10-percentage-point higher AI exposure from November 2022 to November 2024. Its later estimate is 1.7% but statistically uncertain; new-contract counts show no persistent exposure gradient. The study measures an occupation-level association, not AI-caused layoffs or Spain’s unemployment rate. A separate Spanish employment analysis finds growth across all exposure groups through 2025, which is not the same outcome or design. U.S. early-career payroll data still show a sharper warning in a selected panel; Yale’s broad U.S. tracker finds no clear economy-wide AI footprint. A seven-country executive survey reports little net AI-attributed firm employment change so far, while respondents anticipate divergent future effects. Different countries, populations and measures cannot be combined into one job-loss count or a personal forecast.",
+  "current_answer": "Norwegian employer-register data through July 2026 do not show a clear employment split between the most and least AI-exposed occupations overall: the private-sector gap is +1.5 percentage points for ages 21–60 (standard error 2.7), and −0.8 points for ages 21–30 (standard error 4.0), since the pre-ChatGPT baseline. This is exposure, not observed employer AI adoption, and it cannot isolate an AI effect. A Spanish occupation study finds a small rise in registered-unemployment counts with exposure but no persistent new-contract decline; that too is noncausal. U.S. young-worker payroll data show a sharper warning in a selected panel, while Yale’s broad U.S. tracker sees no clear economy-wide footprint. Different countries, populations and outcomes do not yield one job-loss count or a personal forecast.",
   "catalogue_card": {
-    "question": "Is AI-linked unemployment rising in Spain?",
-    "text": "A study of Spanish occupations finds a small exposure-linked rise in registered unemployment, but no persistent drop in new contracts. It cannot show that workplace AI caused job loss."
+    "question": "Are exposed jobs shrinking in Norway?",
+    "text": "A national payroll index finds no clear employment gap between the most and least AI-exposed occupations overall. Its younger-worker comparison is uncertain; neither result proves what AI caused."
   },
   "summary": [
+    "Norwegian employer-register data through July 2026 show an imprecise +1.5-point employment gap between most and least exposed private-sector occupations across ages 21–60; ages 21–30 show −0.8 points since the pre-ChatGPT baseline.",
     "A Spanish occupation-level study finds a small rise in registered unemployment where AI exposure is higher, but no persistent fall in new contracts. The comparison does not show that employer AI use caused job loss.",
     "A separate Spanish analysis finds employment growth in all exposure groups through 2025; it uses a different measure and outcome, so it does not directly refute the unemployment finding.",
     "A revised seven-country survey of nearly 9,000 senior executives reports little net firm-employment impact attributed to AI so far; more than 40% forecast a positive or negative effect at their firm.",
@@ -17,6 +18,7 @@
     "The same high-versus-low comparison is −2.8% versus +0.9% for ages 26–30, and −0.5% versus +1.0% across all ages."
   ],
   "uncertainty": [
+    "The Norwegian October dashboard is a descriptive register series through July 2026, not a causal study of employer AI adoption; its exposure-gap standard errors are large, and the 21–30 group may conceal narrower 22–25 changes.",
     "Spain’s new gradient uses registered-unemployment counts, not unemployment rates; the full pre-treatment test rejects, the later estimate is imprecise, and the exposure score is not observed Spanish employer use.",
     "The revised seven-country firm survey relies on senior executives’ own reports of AI’s past effects and their expectations for the next three years. Its abstract reports a near-zero aggregate net effect, which can conceal firm-level gains and losses; the full revised paper was not accessible through the browser.",
     "The Canaries September update uses a selected ADP firm panel, excludes firm entry and exit, and groups occupations by exposure rather than actual AI use; it is descriptive, not nationally representative or causal.",
@@ -36,7 +38,7 @@
     "Only the October new-duty paper’s abstract was accessible; the full classifier tests and sampling detail were not verified, and postings do not show realized work or pay.",
     "Pew’s pre/post CPS comparison uses occupational task exposure, not employer AI adoption, and may reflect other changes."
   ],
-  "checked_at": "2026-10-30T10:42:00Z",
-  "meaningfully_updated_at": "2026-10-30T10:42:00Z",
-  "freshness_note": "Checked 30 October 2026. A Spanish occupation-level study adds a measured unemployment warning, not a causal AI job-loss count."
+  "checked_at": "2026-10-31T07:04:09Z",
+  "meaningfully_updated_at": "2026-10-31T07:04:09Z",
+  "freshness_note": "Checked 31 October 2026. Norwegian employer registers show no clear broad exposure-linked employment decline through July; the younger subgroup remains uncertain."
 }

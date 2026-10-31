@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-31-norway-employment-index",
+      "changed_at": "2026-10-31T07:04:09Z",
+      "summary": "Norwegian register data through July 2026 show no clear broad exposed-occupation employment decline; the young-worker gap is imprecise and not evidence of AI causation.",
+      "path": "/p/ai-unemployment-literature-watch/research/2026-10-31-norway-employment-index"
+    },
+    {
       "change_id": "2026-10-30-spain-registered-unemployment",
       "changed_at": "2026-10-30T10:42:00Z",
       "summary": "A Spanish occupation-level study finds a small exposure-linked increase in registered unemployment without a persistent new-contract decline; AI causation and the inflow-versus-duration mechanism remain unproven.",
